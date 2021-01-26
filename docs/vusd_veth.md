@@ -1,5 +1,5 @@
 ---
-id: vUSDvETH
+id: vusd-and-veth-token
 title: vUSD & vETH Tokens
 sidebar_label: vUSD & vETH Tokens
 ---

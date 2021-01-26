@@ -1,5 +1,5 @@
 ---
-id: Introduction
+id: introduction
 title: Introduction
 sidebar_label: Introduction
 slug: /
@@ -46,7 +46,7 @@ You can access the Value DeFi homepage at [valuedefi.io](https://valuedefi.io). 
 
 ![Value DeFi platform homepage at valuedefi.io](img/home.png)
 
-From the [Value Liquid](./ValueLiquid) page, you can trade your assets for other coins or provide liquidity and earn rewards from the swap fees.
+From the [Value Liquid](./products/value-liquid) page, you can trade your assets for other coins or provide liquidity and earn rewards from the swap fees.
 
 ![Value Liquid homepage at valueliquid.io](img/value_liquid.png)
 

@@ -1,5 +1,5 @@
 ---
-id: ValueVaults
+id: value-vaults
 title: Value Vaults
 sidebar_label: Value Vaults
 ---
@@ -16,7 +16,7 @@ Value Vaults are yield aggregators that put your assets to work, **we search for
 
 Before deploying any assets **we check the underlying contracts for both security and hidden fees** to guarantee your funds are safe and secure.
 
-![Value Vaults](img/value_vaults.png)
+![Value Vaults](../img/value_vaults.png)
 
 ## How do Value Vaults work?
 
@@ -28,7 +28,7 @@ The rewards of these protocols are sold to your original asset, which increases 
 
 ## Vault Fees
 
-As a fee for providing you returns on your assets, Value DeFi uses 14% of the profits earned to reward stakers in our [Governance Vault](./GovernanceVault). This is known as the **performance fee.**
+As a fee for providing you returns on your assets, Value DeFi uses 14% of the profits earned to reward stakers in our [Governance Vault](/governance-vault). This is known as the **performance fee.**
 
 When the Harvest() function is called on each of the vaults, the performance fee is used to buy VALUE tokens for the Governance Vault stakers. The remaining 86% will be paid to you for providing the assets to our vaults. **This 86%, paid to you, makes up the APY displayed beside each vault.**
 
@@ -44,7 +44,7 @@ Using the example above, allocating $1M of our Vault would bring the Farm to $2M
 
 This is also done for the remaining funds in the Vault, those are distributed to use on other farms to acquire the best return on the deposited Vaults assets, resulting in for example a 50% APY compared to 10% with single assets.
 
-![Multiple strategies farming](img/multiple-strategies-farming.png)
+![Multiple strategies farming](../img/multiple-strategies-farming.png)
 
 ## Auto-compounding of rewards
 

@@ -1,5 +1,5 @@
 ---
-id: ValueLiquid
+id: value-liquid
 title: Value Liquid
 sidebar_label: Value Liquid
 ---
@@ -19,9 +19,9 @@ It has multiple functions:
 3. Participate in FaaS
 4. Use the idle deposited funds to provide liquidity providers the biggest ROI
 
-![Value Liquid Swap page](img/ValueLiquidSwappage.png)
+![Value Liquid Swap page](../img/ValueLiquidSwappage.png)
 
-![Value Liquid](img/value-liquid.png)
+![Value Liquid](../img/value-liquid.png)
 
 The end purpose of Value Liquid is to become one big vault that puts the idle assets in Value Liquid at use, while still keeping enough liquidity to prevent high amounts of slippage. <br/>
 Currently $11B in assets are stored in decentralized exchanges. <br/>

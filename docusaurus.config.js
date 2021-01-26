@@ -83,7 +83,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Value DeFi Protocol, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Value DeFi Protocol.`,
     },
   },
   presets: [

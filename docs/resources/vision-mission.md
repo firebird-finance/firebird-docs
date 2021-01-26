@@ -1,5 +1,5 @@
 ---
-id: VisionMission
+id: vision-mission
 title: Vision & Mission
 sidebar_label: Vision & Mission
 ---

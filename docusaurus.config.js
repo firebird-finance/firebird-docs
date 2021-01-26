@@ -56,7 +56,7 @@ module.exports = {
           ],
         },
         {
-          title: " ",
+          title: ".",
           items: [
             {
               label: "Twitter",
@@ -68,7 +68,7 @@ module.exports = {
             },          ],
         },
         {
-          title: " ",
+          title: ".",
           items: [
             {
               label: "Telegram",

@@ -56,29 +56,27 @@ module.exports = {
           ],
         },
         {
-          title: "Community",
+          title: ".",
           items: [
-            {
-              label: "Governance Forum",
-              href: "https://gov.valuedefi.io/",
-            },
-
             {
               label: "Twitter",
               href: "https://twitter.com/value_defi",
             },
-          ],
-        },
-        {
-          title: "More",
-          items: [
             {
               label: "Discord",
               href: "https://discord.gg/Dpvd7tp",
-            },
+            },          ],
+        },
+        {
+          title: ".",
+          items: [
             {
               label: "Telegram",
               href: "https://t.me/ValueDeFi",
+            },
+            {
+              label: "Governance Forum",
+              href: "https://gov.valuedefi.io/",
             },
           ],
         },

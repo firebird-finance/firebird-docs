@@ -1,6 +1,10 @@
 module.exports = {
   someSidebar: {
-    "Value Defi": ["introduction", "value-token", "vusd-and-veth-token"],
+    "Value Defi": [
+      "introduction",
+      "value-token",
+      "vusd-and-veth-token"
+    ],
     Products: [
       "products/value-vaults",
       "products/governance-vault",
@@ -20,10 +24,10 @@ module.exports = {
       "resources/infographics",
     ],
     Guides: [
-      "guides/save-on-transaction-fees-using-the-chi-gastoken", 
-      "guides/governance-vault-staking-guide", 
-      "guides/provide-liquidity-on-value-liquid-and-farm-for-value-rewards", 
-      "guides/farm-value-token-rewards", 
+      "guides/save-on-transaction-fees-using-the-chi-gastoken",
+      "guides/governance-vault-staking-guide",
+      "guides/provide-liquidity-on-value-liquid-and-farm-for-value-rewards",
+      "guides/farm-value-token-rewards",
       "guides/swaptokens"
     ],
     "AMA Sessions (transcripts)": ["january-21st-2021-discord"],

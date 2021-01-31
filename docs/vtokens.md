@@ -24,7 +24,7 @@ vTokens Whitepaper: https://valuedefi.io/static/media/vTokens_v1.0.21994c66.pdf
 
 **Seigniorage — The Basics**
 
-The core mechanics of seigniorage tokens is expansion and contraction. The algorithm used to calculate this rate is highly complex, but the result is quite simple and uses basic laws of economics. When a v**Token is worth more than its peg** (ie. vUSD > $1), the protocol is in **expansion** and vUSD will be minted. As increasing the supply causes inflation, theoretically reducing the price by increasing selling pressure. When a **vToken is worth less than its peg** (ie. 1 vBTC < 1 BTC), the system goes into a **contraction** **phase** and users can burn vBTC for vBTC coupons at a premium. Working as the perfect opposite to expansion, as this theoretically increases the price through deflation by increasing demand.
+The core mechanics of seigniorage tokens is expansion and contraction. The algorithm used to calculate this rate is highly complex, but the result is quite simple and uses basic laws of economics. When a **vToken is worth more than its peg** (ie. vUSD > $1), the protocol is in **expansion** and vUSD will be minted. As increasing the supply causes inflation, theoretically reducing the price by increasing selling pressure. When a **vToken is worth less than its peg** (ie. 1 vBTC < 1 BTC), the system goes into a **contraction** **phase** and users can burn vBTC for vBTC coupons at a premium. Working as the perfect opposite to expansion, as this theoretically increases the price through deflation by increasing demand.
  
 **Introducing the Price Peg Mechanism**
 

@@ -52,8 +52,11 @@ Using ChainLink’s price oracle for ETH/USD, we can accurately calculate the vU
 vUSD will have its **‘bootstrapping period’** for the **first week** (14 epochs). During the bootstrapping period, vUSD’s price oracle will be set to $1.20 USD (regardless of true market price) so the protocol is in constant and stable expansion. After this period the protocol will work as intended, using ChainLink’s oracle for true market price with contraction and expansion when necessary.
 To reward and incentivize liquidity providers during expansion:
 **35% of minted vUSD** will go to the **80/20 vUSD/WETH** pool.
+
 **50% of minted vUSD** will go to the **98/2 vUSD/WETH** pool.
+
 Additionally, **10% of minted vUSD will be used for incentivizing FaaS liquidity pools on ValueLiquid.**
+
 And **5% of minted vUSD in expansion goes to a Reserve Fund, which automatically sells vUSD at a threshold to keep the vUSD price on-peg.**
 
 ![enter image description here](https://miro.medium.com/max/700/1*a81g73R8alhkV0TL9CPsng.png)
@@ -69,10 +72,13 @@ Currently vETH has a supply of 1,609.32 vETH. **All current vETH** holders will 
 **vBTC pools**
 
 We have chosen **vBTC/WBTC 80/20 and vBTC/WETH 98/2** as two pools to stabilize the vBTC to BTC peg.
-vBTC will have its ‘**bootstrapping period’ for the first week (14 epochs). During the bootstrapping period, vBTC’s price oracle will be set to 1.2 BTC so the protocol is in constant expansion**.
+vBTC will have its ‘**bootstrapping period’ for the first week (14 epochs). 
+During the bootstrapping period, vBTC’s price oracle will be set to 1.2 BTC so the protocol is in constant expansion**.
 To reward and incentivize liquidity providers during expansion:
 **60% of minted vBTC in expansion will go to LPs of vBTC/WETH 98/2 pool.
+
 35% of minted vBTC in expansion will go to LPs of vBTC/WBTC 80/20 pool.
+
 5% of minted vBTC in expansion goes to a Reserve Fund, which automatically sells vBTC at a threshold to keep the vBTC price on-peg.**
 
 ![enter image description here](https://miro.medium.com/max/700/1*a81g73R8alhkV0TL9CPsng.png)
@@ -88,7 +94,9 @@ The Value Governance Vault will use idle funds to farm the VALUE Seed Pool for v
 Similar to vBTC, we chose two pools — vDOT/WETH 98/2 and vDOT/USDC 80/20 — to peg the vDOT price. The TWAP of vDOT will be subsequently calculated using DOT/USD and ETH/USD price feeds provided by ChainLink oracle services to ensure maximal robustness and efficiency.
 **vDOT will have its ‘bootstrapping period’ for the first week (14 epochs). During the bootstrapping period, vDOT’s price oracle will be set to 1.2 DOT so the protocol is in constant expansion.**
 **60% of minted vDOT will go to vDOT/WETH 98/2 pool.
+
 35% of minted vDOT will go to vDOT/USDC 80/20 pool.
+
 5% of minted vDOT goes to the Reserve Fund, which automatically sells vDOT at a threshold to keep the vDOT price on-peg.**
 
 ![enter image description here](https://miro.medium.com/max/700/1*a81g73R8alhkV0TL9CPsng.png)

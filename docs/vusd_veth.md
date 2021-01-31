@@ -1,7 +1,7 @@
 ---
-id: vusd-and-veth-token
-title: vUSD & vETH Tokens
-sidebar_label: vUSD & vBTC & vDOT Tokens
+id: vTokens
+title: vTokens
+sidebar_label: vTokens
 ---
 
 ---

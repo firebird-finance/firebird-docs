@@ -6,6 +6,7 @@ sidebar_label: vTokens
 
 ---
 ![enter image description here](https://miro.medium.com/max/700/0*jdP3nA_zcxBKlura)
+
 **Introducing vTokens**
 Users will now be able to move **vUSD, vBTC and vDOT** cross-chain in a decentralized manner, governed by VALUE holders.
 

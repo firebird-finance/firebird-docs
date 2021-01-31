@@ -13,7 +13,11 @@ Users will now be able to move **vUSD, vBTC and vDOT** cross-chain in a decentra
 
 Value DeFi will become a viable option for **users to exchange BTC and DOT with other ERC-20 tokens without going through a centralized exchange.** Our vToken technology has been intentionally designed to be interchangeable as we **plan to launch other vTokens to additional cross-chain partners/projects.**
 
-After the successful launch of the first wave of vTokens, we will begin building our new decentralized lending platform — Value Lending. Accepting vUSD, vBTC, vDOT, ESD and BAC as a new class of seigniorage tokens. Value Lending article: https://valuedefi.medium.com/elastic-decentralized-loans-powered-by-chainlink-479c137866c8
+After the successful launch of the first wave of vTokens, we will begin building our new decentralized lending platform — Value Lending. Accepting vUSD, vBTC, vDOT, ESD and BAC as a new class of seigniorage tokens. 
+
+Value Lending article: https://valuedefi.medium.com/elastic-decentralized-loans-powered-by-chainlink-479c137866c8
+
+vTokens Whitepaper: https://valuedefi.io/static/media/vTokens_v1.0.21994c66.pdf
 
 ![enter image description here](https://miro.medium.com/max/700/1*a81g73R8alhkV0TL9CPsng.png)
 
@@ -105,13 +109,19 @@ Similar to vBTC, we chose two pools — vDOT/WETH 98/2 and vDOT/USDC 80/20 — t
 
 We recognize for Value Liquid to expand and become a massive DeX we need to increase liquidity. Furthermore, there will be a total of 6 new liquidity pools which are used to stabilize vTokens to their respective peg. Ultimately, these pools used for vTokens will also be used in ValueLiquid for regular transactions, resulting in increased Total Value Locked (TVL) and liquidity for swaps, reducing slippage. Additionally, the 4 new Seed Pools for distribution of vDOT will also significantly boost our TVL.
 As ValueLiquid will be the only DeX to trade vTokens, we expect a significant increase in daily trading volume. Through Value DeFi’s profit-sharing ecosystem, this **trading volume will increase rewards for Governance Vault Stakers.**
+
 An example of this, during the peak of BSD on FaaS, the Governance Vault reached an APY of 70%+, with 20k VALUE tokens being distributed back to Stakers during that week through buybacks.
 That is the power behind seigniorage tokens, particularly one token, and Value DeFi plans to launch multiple vTokens, rewarding loyal Stakers continuously over an extended period of time.
 
 ![enter image description here](https://miro.medium.com/max/700/1*a81g73R8alhkV0TL9CPsng.png)  
+
+![enter image description here](https://valuedefi.io/static/media/vusd-infographic.9f282db3.jpg)
   
+![enter image description here](https://miro.medium.com/max/700/1*a81g73R8alhkV0TL9CPsng.png)  
+
 **Contract addresses**  
 Old vUSD contract address: [0x1B8E12F839BD4e73A47adDF76cF7F0097d74c14C](https://etherscan.io/token/0x1B8E12F839BD4e73A47adDF76cF7F0097d74c14C)   
 New vUSD contract address: [0x3479b0acf875405d7853f44142fe06470a40f6cc](https://etherscan.io/token/0x3479b0acf875405d7853f44142fe06470a40f6cc)  
 vETH contract address: [0x76A034e76Aa835363056dd418611E4f81870f16e](https://etherscan.io/token/0x76A034e76Aa835363056dd418611E4f81870f16e)
+
 

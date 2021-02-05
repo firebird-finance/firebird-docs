@@ -8,7 +8,7 @@ sidebar_label: vBond
 
 ---
 
-Post November 14th exploit IOU tokens - vBonds were issued as part of a compensation plan for affected parties. 
+IOU tokens - vBonds were issued as part of a compensation plan for affected parties post November 14th exploit. 
 VBonds are auto accruing 10% APY using rebase tech which means that the rebasing factor is fixed at 0.183% every week. 
 Currently 15% of swap fees and 6% of Vault performance fees are diverted to the compensation fund as decided by VIP 10 vote. 
 Compensation fund will be used to buy and burn vBonds from Value/vBond pool until the compensation fund has equal or

@@ -16,7 +16,7 @@ Stakers in the Governance Vault receive a share of all profits from the Value De
 
 1. The deposited idle VALUE can be used to farm other protocols, rewards get sold to buy more Value.
 2.  14% of the profit from the [Value Vaults](/value-vaults) are used to buy VALUE, this is shared over the Governance Vault stakers.
-3.  The Governance Vault also gets 33% of the swap fees from [Value Liquid](/value-liquid).
+3.  The Governance Vault also gets 35% of the swap fees from [Value Liquid](/value-liquid).
 
 Additionally, if you stake in our Governance Vault you also have the opportunity to make important decisions in the project such as, what rewards to give, pools to set up, and percentage share of profits. Governance Votes can be seen by clicking the 'Vote' link on our homepage.
 

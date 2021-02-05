@@ -22,4 +22,4 @@ To save up gas on transactions, the gas fee at the time of burning has to be twi
 
 ---
 
-Visit [http://bit.ly/2LLv2Nu](http://bit.ly/2LLv2Nu) for more info.
+Visit [https://1inch-exchange.medium.com/everything-you-wanted-to-know-about-chi-gastoken-a1ba0ea55bf3](https://1inch-exchange.medium.com/everything-you-wanted-to-know-about-chi-gastoken-a1ba0ea55bf3) for more info.

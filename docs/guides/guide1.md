@@ -8,7 +8,7 @@ sidebar_label: Save on Transaction Fees using the Chi Gastoken
 
 1. Buy/mint Chi gastokens from 1inch
 
-2. Go to ValueLiquid.io
+2. Go to [Valueliquid.io](http://valueliquid.io)
 
 3. Select settings in upper right corner
 

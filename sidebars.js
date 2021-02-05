@@ -46,7 +46,7 @@ module.exports = {
       {
         type: 'link',
         label: 'Governance Forum',
-        href: 'https://vboard.valuedefi.io'
+        href: 'https://vboard.valuedefi.io/'
       },
       {
         type: 'link',

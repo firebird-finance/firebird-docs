@@ -5,6 +5,7 @@ sidebar_label: vBond
 ---
 
 
+
 ---
 
 Post November 14th exploit IOU tokens - vBonds were issued as part of a compensation plan for affected parties. 

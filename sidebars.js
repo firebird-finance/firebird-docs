@@ -3,7 +3,7 @@ module.exports = {
     "Value Defi": [
       "introduction",
       "value-token",
-      "vTokens"
+      "vTokens",
       "vBond"
     ],
     Products: [

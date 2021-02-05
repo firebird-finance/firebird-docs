@@ -12,7 +12,8 @@ VBonds are auto accruing 10% APY using rebase tech which means that the rebasing
 Currently 15% of swap fees and 6% of Vault performance fees are diverted to the compensation fund as decided by VIP 10 vote. 
 Compensation fund will be used to buy and burn vBonds from Value/vBond pool until the compensation fund has equal or
 greater value than the supply of vBonds at which time compensation fund will stop collecting fees and
-all affected users will be able to swap their vBond for DAI at 1:1 ratio. 
+all affected users will be able to swap their vBond for DAI at 1:1 ratio.
+
 
 ---
 

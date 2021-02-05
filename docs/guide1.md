@@ -14,11 +14,11 @@ sidebar_label: Save on Transaction Fees using the Chi Gastoken
 
 4. Click ON on “Use CHI”
 
-5. Approve CHI gastoken spending
+5. Approve Chi gastoken spending
 
 6. You can now trade and save up to 40% of gas fees
 
-In order for CHI gastokens to have maximum efficiency, gas price when using them should be twice as much when minting, so for example 25 gwei gas while minting, 50 gwei when spending/burning      
+In order for Chi gastokens to have maximum efficiency, gas price when using them should be twice as much when minting, so for example 25 gwei gas while minting, 50 gwei when spending/burning      
 
 ---
 

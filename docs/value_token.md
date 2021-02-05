@@ -11,7 +11,7 @@ sidebar_label: Value Token
 
 The Value Token allows holders to stake their Value into the [Governance Vault](../products/governance-vault). This allows participation in making governance decisions, expressed by the holders through voting.  This includes voting on strategies and their parameters, token emission schedules and sharing of the profits made by the platform.
 
-Next to allowing participation by voting, holders who have put their Value in the [Governance Vault](../products/governance-vault) currently receive 14% of the profit made by Value Vaults and 33% of the swap fees made from trades on [Value Liquid](../products/value-liquid). These percentages are susceptible to changes from Governance Voting. 
+Next to allowing participation by voting, holders who have put their Value in the [Governance Vault](../products/governance-vault) currently receive 14% of the profit made by Value Vaults and 35% of the swap fees made from trades on [Value Liquid](../products/value-liquid). These percentages are susceptible to changes from Governance Voting. 
 
 A more visual representation regarding the income flows can be seen [here](../products/governance-vault).
 

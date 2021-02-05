@@ -23,5 +23,5 @@ In order for Chi gastokens to have maximum efficiency, gas price when using them
 ---
 
 
-Visit [http://bit.ly/2LLv2Nu](http://bit.ly/2LLv2Nu) for more info.
+Visit [https://1inch-exchange.medium.com/everything-you-wanted-to-know-about-chi-gastoken-a1ba0ea55bf3](https://1inch-exchange.medium.com/everything-you-wanted-to-know-about-chi-gastoken-a1ba0ea55bf3) for more info.
 

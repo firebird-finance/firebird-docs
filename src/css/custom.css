@@ -47,3 +47,8 @@
 .menu__link[class*="menuLinkText"] {
   color: #9DAAB6;
 }
+
+img[alt="vbondlogo"] { 
+  max-width:  100px; 
+  display: block;
+}

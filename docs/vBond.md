@@ -7,7 +7,7 @@ sidebar_label: vBond
 
 
 ---
-<img src="https://github.com/valuedefi/valuedefi-docs/blob/master/docs/img/VBOND_LOGO.png" alt="vBond logo" width="200"/>
+<img src="img/VBOND_LOGO.png" alt="vBond logo" width="200"/>
 
 IOU tokens - vBonds were issued as part of a compensation plan for affected parties post November 14th exploit. 
 VBonds are auto accruing 10% APY using rebase tech which means that the rebasing factor is fixed at 0.183% every week. 

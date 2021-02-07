@@ -96,7 +96,7 @@ It was a small mis-calculation for the max amount of VALUE in the previous annou
 
 A: Dex wise it appears we just became the cheapest layer 1 Dex for trading according to the first look at has transactions. Uniswap, Balancer and Sushi don’t have native chi gas integration built into their platforms to save users cost. Also we offer FaaS which allows anyone to create liquidity mining pools within minutes. Users add liquidity and start earning rewards immediately.
 
-## 22\) If it is necessary to mint more value for some reason. Will investors in governance have a say ?
+## 22\) If it is necessary to mint more value for some reason. Will investors in governance have a say?
 
 Minting more is possible, since it's only a soft-cap. However Governance would have to vote for more incentives. Would be a highly contested vote haha.
 

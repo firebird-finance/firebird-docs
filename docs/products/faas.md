@@ -14,13 +14,11 @@ In line with our mission to make DeFi accessible for everyone, we created FaaS t
   
 With Value Liquid’s Farming Pool Creation UI  teams can now create the desired customized liquidity pools and pairs along with flexible ratios, customizable fees, and token contract minter approval for the Liquidity Pool with a couple of clicks. An example would be a pool with USDC/New token 67/23 ratio with a 0.60% swap fee that has token minting per block like Sushiswap.
 
-This is free and allows anyone to bootstrap their new project making it more accessible.  
-As these projects use the FaaS Smart Contract, common rugpull methods are prevented as there are no backdoors implemented in these Smart Contracts by the Value DeFi team.  
-But there are other ways to exit scam, therefore only whitelisted projects which are checked by the Value DeFi Security team, can be fully trusted.
+This service is free and it allows anyone to bootstrap their new project making it more accessible. As these projects use the FaaS Smart Contract, common rugpull methods are prevented as there are no backdoors implemented in these Smart Contracts by the Value DeFi team. In the spirit of making the platform self-service, the Value DeFi community is empowered to review new pools and decide whether or not the project in those pools are deemed as trustworthy or not.
 
-With our new FaaS technology liquidity providers for these projects will automatically receive the farming token after providing their liquidity at the Farming Pool \(gone are the times of putting your Liquidity into Uniswap and after that in a pool using the Smart Contract of the team \(that could possibly rugpull by using an implemented backdoor\).   
-This makes the process of farming more easy, efficient and safe & secure.  
-As there are less steps to perform and the LP tokens stay within the Smart Contract made by the Value DeFi team, which ensures that there are no backdoors.
+With our new FaaS technology liquidity providers for these projects will automatically receive the farming token after providing their liquidity at the Farming Pool \(gone are the times of putting your Liquidity into Uniswap and after that in a pool using the Smart Contract of the team \(that could possibly rugpull by using an implemented backdoor\).
+
+This makes the process of farming more easy, efficient and safe & secure as there are less steps to perform and the LP tokens stay within the Smart Contract made by the Value DeFi team, which ensures that there are no backdoors.
 
 FaaS infographic: [https://valuedefi.io/resources](https://valuedefi.io/resources)
 

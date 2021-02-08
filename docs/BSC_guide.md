@@ -29,7 +29,7 @@ Symbol: BNB
 
 Block Explorer URL: https://bscscan.com/
 
-add pic metamask 3
+![MetaMask3](img/MetaMask3)
 
 Click on add and your new network is set. 
 

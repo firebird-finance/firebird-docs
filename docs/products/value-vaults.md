@@ -79,6 +79,6 @@ while Barnbridge vault will receive USDC (compounded)
 
 For all vaults, there is no liquidity locks (ie. you can withdraw anytime)
 
-Since Balancer and Barnbridge only let us claim once a week (every Tuesday), there is a lock of 7 days to claim your VALUE incentive (ie. depositors who withdraw less than 7 days since last time they deposited then they would lose all their pending reward). You are free to claim reward anytime after 7 days period.
+Since Barnbridge and Balancer only let us claim once a week (every Monday and Tuesday, respectively), there is a lock of 7 days to claim your VALUE incentive (ie. depositors who withdraw less than 7 days since last time they deposited then they would lose all their pending reward). You are free to claim reward anytime after 7 days period.
 
 Note that the harvested and compounded LP reward will not happen immediately like the old vaults, it will be compounded linearly in 24h (for Sushi vaults) and 7 days (for Balancer and Barnbridge vaults). So people cant take advantage of us by depositing just before the harvest (Monday night) and withdrawing just after the harvest (ie. needs to stay long enough in the pool to get LP reward & Value incentive)

@@ -70,3 +70,15 @@ How often depends on the performance of the strategy, 6hr or 12hr or 24 hr.  Cal
 Source: [https://medium.com/p/vip-7-yfv-value-swap-deadline-closing-seed-pool-v2-vault-fee-adjustments-dc188187b229](https://medium.com/p/vip-7-yfv-value-swap-deadline-closing-seed-pool-v2-vault-fee-adjustments-dc188187b229)\).
 
 You can see regular harvest calls on our discord.
+
+#### **How do composite vaults work**
+
+All the composite vaults (Balancer/Sushi EthUsdc/EthWbtc, Barnbridge USDC) are auto-compouding vaults, 
+ie. Sushi vaults will receive SLP rewards (compounded), Balancer vaults will receive BPT rewards (compounded),
+while Barnbridge vault will receive USDC (compounded)
+
+For all vaults, there is no liquidity locks (ie. you can withdraw anytime)
+
+Since Balancer and Barnbridge only let us claim once a week (every Tuesday), there is a lock of 7 days to claim your VALUE incentive (ie. depositors who withdraw less than 7 days since last time they deposited then they would lose all their pending reward). You are free to claim reward anytime after 7 days period.
+
+Note that the harvested and compounded LP reward will not happen immediately like the old vaults, it will be compounded linearly in 24h (for Sushi vaults) and 7 days (for Balancer and Barnbridge vaults). So people cant take advantage of us by depositing just before the harvest (Monday night) and withdrawing just after the harvest (ie. needs to stay long enough in the pool to get LP reward & Value incentive)

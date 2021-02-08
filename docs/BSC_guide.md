@@ -15,7 +15,7 @@ If creating new wallet, set up your password and write down and store your seed 
 
 Next step is adding BSC network, in order to do it, click on settings -> Networks -> Add network
 
-Add pic metamask 2
+![MetaMask_2](img/MetaMask_2)
 
 Input network details as follows:
 

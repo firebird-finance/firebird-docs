@@ -13,7 +13,7 @@ Click import wallet if you have an existing wallet.
 
 If creating new wallet, set up your password and write down and store your seed phrase somewhere safe.
 
-Next step is adding BSC network, in order to do it, click on settings -> Networks -> Add network
+Next step is adding BSC network, in order to do it, click on Settings -> Networks -> Add network
 
 ![MetaMask_2](img/MetaMask_2)
 
@@ -35,4 +35,8 @@ Click on add and your new network is set.
 
 You can toggle between desired networks by clicking on top of your wallet.
 
-add metamask picture 4
+![MetaMask4](..img/MetaMask4)
+
+In order to initiate and pay for any transaction on BSC you need to have BNB in your wallet, much like ETH on Ethereum blockchain
+
+---

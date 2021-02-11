@@ -54,7 +54,6 @@ I also paint abstract impressionism oil on canvas, which are heavily influenced 
 # Value Whose
 *Must be very talented. Did you have any to show today?*
 
-
 # Miyasato Masa (Exhibition Gallery*)
 *Here's one oil on canvas that was completed in mid summer 2020.*
 
@@ -198,7 +197,7 @@ Copyright Office Homepage*
 *I will be one of the client, like the idea to have a nice NFT to canvas in my living room*
 
 # Miyasato Masa (Exhibition Gallery*)
-*We would love to have you as a customer. Remember to sign-up: https://exhibition.gallery/my-account/ *
+*We would love to have you as a customer. Remember to sign-up: https://exhibition.gallery/my-account/*
 
 # Carlos Lugo (Guest)
 *Thanks for having us! Stay safe!*

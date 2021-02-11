@@ -4,7 +4,7 @@ module.exports = {
       "introduction",
       "value-token",
       "vTokens",
-      "vBond"
+      "vBond",
     ],
     Products: [
       "products/value-vaults",
@@ -31,9 +31,7 @@ module.exports = {
       "guides/farm-value-token-rewards",
       "guides/swaptokens"
     ],
-    "AMA Sessions": [ 
-      "january-21st-2021-discord"
-    ],
+    "AMA Sessions (transcripts)": ["january-21st-2021-discord"],
     "Social Media": [
       {
         type: 'link',

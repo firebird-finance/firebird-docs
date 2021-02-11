@@ -49,7 +49,6 @@ I also paint abstract impressionism oil on canvas, which are heavily influenced 
 *There are more people in your team, right?*
 
 # Miyasato Masa (Exhibition Gallery*)
-
 *Yes, we have a handful of contract developers helping us with the development of our website.*
 
 # Value Whose
@@ -58,7 +57,6 @@ I also paint abstract impressionism oil on canvas, which are heavily influenced 
 
 # Miyasato Masa (Exhibition Gallery*)
 *Here's one oil on canvas that was completed in mid summer 2020.*
-
 
 
 
@@ -132,7 +130,6 @@ Yes, we're ready for any community questions. The top 5 questions will receive 3
 
 # vDodus
 *Sounds like you have bright future ahead and i wish you the best*
-
 *So the last question is related to FaaS, you chose to launch your token here, but we received some negative feedback, people were mostly worried about such a long lock of rewards, could you clear up for our community the reasoning behind it?*
 
 # Miyasato Masa (Exhibition Gallery*)
@@ -225,5 +222,3 @@ And of course, remember to buy ARTO token from our own vSwap*
 
 # vDodus
 *Thank you for joining us again! Wish you the best luck!*
-
----

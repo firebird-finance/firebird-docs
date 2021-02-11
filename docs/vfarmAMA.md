@@ -110,7 +110,7 @@ Other payment mechanisms are planned because we believe that ETH gas prices may 
 
 
 # vDodus
-*This is really interesting, so how would NFT to canvas proces work? That is somewhat unique product that you provide, i do not think i have heard about it before(uređivano)*
+*This is really interesting, so how would NFT to canvas proces work? That is somewhat unique product that you provide, i do not think i have heard about it before?*
 
 # Miyasato Masa (Exhibition Gallery*)
 
@@ -136,7 +136,7 @@ Yes, we're ready for any community questions. The top 5 questions will receive 3
 *So the last question is related to FaaS, you chose to launch your token here, but we received some negative feedback, people were mostly worried about such a long lock of rewards, could you clear up for our community the reasoning behind it?*
 
 # Miyasato Masa (Exhibition Gallery*)
-*Yes, of course. We understand those concerns, and it's all valid. From our analysis of previously launched projects on FAAS, we noticed that some traders were simply selling those FAAS rewards as quickly as they received them, which cause erratic prices on ValueDefi, Uniswap, and other DEXs. With this approach we're aiming to mitigate those adverse conditions, while protecting the interests of our liquidity providers that believe in our project.(uređivano)*
+*Yes, of course. We understand those concerns, and it's all valid. From our analysis of previously launched projects on FAAS, we noticed that some traders were simply selling those FAAS rewards as quickly as they received them, which cause erratic prices on ValueDefi, Uniswap, and other DEXs. With this approach we're aiming to mitigate those adverse conditions, while protecting the interests of our liquidity providers that believe in our project.*
 
 # Value Whose
 *Vesting schedules for token releases is a great way to help reduce immediate sell pressure so you are right with choosing this method as it has proven to work. We are going to open up chat here for community questions. Have at it!*

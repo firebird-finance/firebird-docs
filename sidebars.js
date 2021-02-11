@@ -33,7 +33,7 @@ module.exports = {
     ],
     "AMA Sessions (transcripts)": [
       "january-21st-2021-discord",
-      "arto-vfarm-ama",
+      "docs/vtokens.md",
     ],
     "Social Media": [
       {

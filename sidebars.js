@@ -31,7 +31,7 @@ module.exports = {
       "guides/farm-value-token-rewards",
       "guides/swaptokens"
     ],
-    "AMA Sessions (transcripts)": [ 
+    "AMA Sessions (transcripts)": [
       "january-21st-2021-discord",
       "arto-vfarm-ama",
     ],

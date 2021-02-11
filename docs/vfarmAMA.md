@@ -58,8 +58,6 @@ I also paint abstract impressionism oil on canvas, which are heavily influenced 
 # Miyasato Masa (Exhibition Gallery*)
 *Here's one oil on canvas that was completed in mid summer 2020.*
 
-
-
 # Miyasato Masa (Exhibition Gallery*)
 *This artwork was inspired by van Gogh love of sunflowers
 And with some cubism added for dramatic effects.* 
@@ -106,23 +104,18 @@ It will provide a way for new and established artists to continue their artistic
 Since ETH gas is really crazy nowadays, we believe the extra discount should be sufficient for the customer.
 Other payment mechanisms are planned because we believe that ETH gas prices may present a challenge for some art collectors on large purchases. More on this in the next few months.*
 
-
 # vDodus
 *This is really interesting, so how would NFT to canvas proces work? That is somewhat unique product that you provide, i do not think i have heard about it before?*
 
 # Miyasato Masa (Exhibition Gallery*)
-
-
 *Correct. It is unique because we're likely the first platform to offer such a service to our customers. We've already alpha test this function with our NFT to canvas suppliers, and it's working well. Once it's fully tested, we will do a beta test for some customers in the coming months.
 Most people buy an NFT, and keep on their mobile devices. Going forward, they can turn that NFT into a canvas that they can hang on their walls or showcase in their offices.
 Currently, we're alpha testing our integration with the OpenSea.io production API. In the coming weeks, we will showcase all 13 million NFTs from OpenSea on Exhibition gallery. 
 OpenSea is our first integration partner; however, we're planning to integrate with other NFT focused blockchains as well.*
 
-
 # Value Whose
 *This will be really cool to see once live
 Think we are going to ask one last question and then open up the chat for our community to ask some questions, sound good?*
-
 
 # Miyasato Masa (Exhibition Gallery*)
 *Yes, it's a game changer in my humble view. That's why we believe that we will be the bridge between legacy artworks and NFT and vice versa going into 2021 and beyond.
@@ -205,7 +198,7 @@ Copyright Office Homepage*
 *I will be one of the client, like the idea to have a nice NFT to canvas in my living room*
 
 # Miyasato Masa (Exhibition Gallery*)
-*We would love to have you as a customer. Remember to sign-up: https://exhibition.gallery/my-account/*
+*We would love to have you as a customer. Remember to sign-up: https://exhibition.gallery/my-account/ *
 
 # Carlos Lugo (Guest)
 *Thanks for having us! Stay safe!*

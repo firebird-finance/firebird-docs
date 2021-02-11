@@ -7,7 +7,6 @@ sidebar_label: ARTO vFarm AMA (Official Discord)
 
 https://discord.gg/YRpA7eua
 
-
 ---
 ![](/docs/img/ARTO_AMA.png)
 

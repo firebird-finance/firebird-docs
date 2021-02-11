@@ -201,7 +201,7 @@ Why use EG over opensea or rarible? especially if they just steal your idea for 
 *What is your communication & marketing strategy to promote EG?*
 
 # Miyasato Masa (Exhibition Gallery*)
-*Overall, we're gradually ramping up our social media campaigns, which include Twitter, and Telegram. In the coming weeks, we will be promoting EG on Facebook and Google Ads. This week, we will be sending out an official press release announcing our partnership with ValueDeFi and OpenSea. Plus, we've also joined many non-profit organizations and museums. This will be listed on our website in the coming weeks. To protect the copyright of artists, we' also joined the DMCA or copyright.gov as a registered agent. DMCA agent number: DMCA-1036410 https://www.copyright.gov/(uređivano)
+*Overall, we're gradually ramping up our social media campaigns, which include Twitter, and Telegram. In the coming weeks, we will be promoting EG on Facebook and Google Ads. This week, we will be sending out an official press release announcing our partnership with ValueDeFi and OpenSea. Plus, we've also joined many non-profit organizations and museums. This will be listed on our website in the coming weeks. To protect the copyright of artists, we' also joined the DMCA or copyright.gov as a registered agent. DMCA agent number: DMCA-1036410 https://www.copyright.gov/
 U.S. Copyright Office | U.S. Copyright Office
 Copyright Office Homepage*
 

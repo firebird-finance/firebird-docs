@@ -1,7 +1,7 @@
 ---
-id: february-9th-2021-discord
-title: February 9th, 2021 (Official Discord)
-sidebar_label: February 9th, 2021 (Official Discord)
+id: arto-vfarm-ama
+title: ARTO vFarm AMA (Official Discord)
+sidebar_label: ARTO vFarm AMA (Official Discord)
 
 ---
 

@@ -1,176 +1,229 @@
 ---
-id: january-21st-2021-discord
-title: January 21st, 2021 (Official Discord)
-sidebar_label: January 21st, 2021 (Official Discord)
+id: february-9th-2021-discord
+title: February 9th, 2021 (Official Discord)
+sidebar_label: February 9th, 2021 (Official Discord)
 
 ---
 
-https://discord.com/channels/738345978750435408/801818237037314069/801825552088432652
+https://discord.gg/YRpA7eua
+
 
 ---
-![](img/introama-1.png)
+![](/img/ARTO AMA.png)
 
-## 1\) Are there still plans to relaunch the multistable vault and if so, when?
+# Value Whose
+ *Hello everyone, Welcome to our first vAMA session with Exhibition gallery, one of the vFarms listed on our FaaS. We invite everybody to join in, meet them and give them a warm welcome to our growing FaaS family. Thank you for being here Carlos Lugo and Miyasato Masa let's get started!*
 
-We have plan for relaunching the multi-stables vault, we also have an improved design so it could keep up with high APY expectation from users. ETA: Next month. 
+# Carlos Lugo (Guest)
+*Good morning*
 
-## 2\) Hi @satoshivalue can you please advice what our partnerships are with Link, DOT, etc...? 
+# Miyasato Masa (Exhibition Gallery*)
+*Hey guys! How is everyone doing?*
 
-For the Polkadot/Moonbeam/Chainlink partnerships they are real and we are working closely with them. They are offering us assistance either via feedback, marketing and even straight implementation, even talks of a Polkadot grant. However, none of these projects like to use the word 'partnership' as it implies they are directly responsible for us. They use relationship, as it implies we are still connected. All 3 gave their feedback and approval to our recent whitepaper release, and Polkadot told us they would be ready with their own announcement of our developments after we launch to Moonbeam's parachain. They work on certainties, which is understandable when being such a massive influence in the crypto-space. Prod already answered but I will reconfirm it here. The partnership was mostly overused by everyone. Projects like ChainLink or Polkadot don't have any partnership with any other project. They approached us, offered their help/collaboration because they saw value in builders like us. We are extremely thankful for their helps in last few difficult months and commit to build our products with their collaboration in mind.
+# Prod
+*Hello hello*
 
-## 3\) Hi VALUE team, firstly thank you for opening up this AMA. Appreciate you taking your time. What do you see as the key challenges for VALUE in the coming year? As a group at the forefront of DeFi how can we make headway with those more accustom to TradFi?
+# Miyasato Masa (Exhibition Gallery*)
+*We're happy to be here. Thank you vDodus and Prod for putting this AMA together
+Thank you Value Whose for hosting us! We appreciate it.*
 
-We are quite confident with our techs. The most problems we experienced after 5 months of the project that we are still short at marketing and communication. Education for new users is also the next priority we should focus on.
+# Miyasato Masa (Exhibition Gallery*)
+*Hey guys! How is everyone doing?*
 
-## 4\) Hello devs, what is your plan to improve marketing and how can we help?
+# Value Whose
+*Doing great! Good morning/afternoon wherever you may be*
 
-We recently hired @Remy who has extensive history with marketing, when he's available he can definitely introduce himself and provide a small background. He is just step 1 of marketing. Let us introduce our new head of marketing @Remy , who will lead the Marketing Dept. Official announcement for this will be done later. Remy is onboard and coming to help lead the way for marketing department. We are focusing on the infrastructure then moving to business development and social media marketing. Just from hearing about his resume and the talks we have had so far, things will get going in the right direction soon enough. Remy is our newest team member and we are very happy to have him onboard. Give him a warm welcome! \(Not sure he’s here to talk more on this atm\).
+# Carlos Lugo (Guest)
+*Yes thank you everyone*
 
-## 5\) Will there be a countdown for the vUSD pool start? Which long-term goals do you have?
+# vDodus
+*Ok guys, everybody ready then?
+Tell us a bit about yourself, both of you.*
 
-vUSD bootstrapping will definitely start this week. We will have an UI update and countdown soon. Long-term vision of the vTokens is to create a new type of synthetic tokens to cross-chain. Advantages of the new synthetic tokens will be discussed in the next Medium post.
+# Miyasato Masa (Exhibition Gallery*)
+*My name is Miyasato Masa and I'm one of the co-founders of Miyasato Masa. I'll be managing strategy, business and community development on our platform.
+I also paint abstract impressionism oil on canvas, which are heavily influenced by van Gogh, Picasso, and other masters.*
 
-## 6\) Is there an updates roadmap?
+# Carlos Lugo (Guest)
+*I'm Carlos Lugo the co-founder of EG, originally from Brooklyn NY. Started out as a street artist... and now I support EG with recruiting new talent and management.*
 
-I think an updated Roadmap would definitely be a good idea, we've taken a much more efficient approach to our development in 2021. During our dark time in November we got put really off-track, but now we have clear goals. Value Liquid + FaaS, and vTokens + Lending have our complete focus right now, and we plan to take it all cross-chain.
+# vDodus
+*There are more people in your team, right?*
 
-## 7\) If the fees on ValueLiquid are lower then Uniswap, and you can steal liquidity from there an from Sushi...the volume will come is insane. What are your thoughts about this and what is the exact date for launch?
+# Miyasato Masa (Exhibition Gallery*)
 
-We are live testing the new core upgrade now. We could demonstrate the low gas fee cost and our advantages in max 24 hours from now on.
+*Yes, we have a handful of contract developers helping us with the development of our website.*
 
-## 8\) What is the key difference between Value seignorage tokens and others that have failed to reach or maintain 1$ peg price? How will vtokens differ and maintain peg?
+# Value Whose
+*Must be very talented. Did you have any to show today?*
 
-We spent a lot of time researching the topic and if you read our WP, a lot of novel improvements are implemented in comparison to the original idea of Basis. We also are working on a comparison matrix and infographic to show our improvements.
 
-## 9\) I'm a small investor. I haven't had much luck in VALUE yet. Gas is high, but would consider exit from crypto when gas is low. Would you want me to stay? If yes what is your argument for me and for ppl with small bags?
+# Miyasato Masa (Exhibition Gallery*)
+*Here's one oil on canvas that was completed in mid summer 2020.*
 
-Layer2 and cross-chain will be our savior. These techs also are moving very fast so I expect cheap gas fee for everyone will come sooner than people think. Of course we welcome everyone to stay, we try our best to develop for the small guy. When you have small capital you must be smarter with depositing and withdrawing. Once Liquid gets it Core upgrade, which includes the FaaS upgrades, we will have multitude of pools available to farm. Better yet, Gov Vault will get massive trading volume \(assuming at least one of these projects matches BSD's success\). We have OVER 10 waiting for these upgrades.
 
-## 10\) Would you consider to work with Polkadot or other protocol to avoid the problem Ethereum is facing now or you are waiting for eth 2.0?
 
-Working with MoonBeam network very closely to deploy onto the Polkadot network. Polkadot is doing auctions for parachain slots and Moonbeam was on the initial first round list. Kusama is all an option not sure if it’s for test net or another means to deploy to help save with these crazy expensive ETH fees. We have been doing extensive research on Layer2 solution with another project for a while. Progresses will be shown after both team comes to agreement.
 
-## 11\) Since XRP is facing legality issues in the US . In hindsight, Do you think Value DeFi will hit obstacles likewise in the future? And if so how would you face these regulations?
+# Miyasato Masa (Exhibition Gallery*)
+*This artwork was inspired by van Gogh love of sunflowers
+And with some cubism added for dramatic effects.* 
 
-XRP is facing legal actions because of its ICO, and dumping of tokens. That does not apply to us. Plus, this is DeFi, we're in the wild-west of uncharted regulation, we are safe from the big bad government
+# Prod
+*Wow, amazing artwork. You both and your team are very talented*
 
-## 12\) First - is it just Satoshi...or are more members of the team here, maybe you can tell us your role in the team?
+# Value Whose
+*Indeed this is awesome, I for one can appreciate art cause I am only good for stick figures*
 
-I'm the co-founder of this project. We also have others people in my team here but they are mostly coders. I'm also a coder and researcher.
+# Miyasato Masa (Exhibition Gallery*)
+*We all started somewhere, I also did the same too.*
 
-## 13\) Will referrals be reintroduced? When setting up a new FaaS pool a % of rewards slider could be an additional option?
+# Value Whose
+*I see we have real world art and you are also a crypto currency project. Could you explain more on how these intertwine together for your project and more on the process for those wanting to either make or buy some collections?*
 
-We already have that! The FaaS Council is running referrals at $100 per person for every project they onboard!
+# Miyasato Masa (Exhibition Gallery*)
+*Sure. We believe legacy artworks and digital artworks such as NFTs are two sides of the same coin. Art begins from nothing. It’s an idea that originates from the artist’s mind, and then, translated onto canvas, paper, metal, and other media. At the end of this creation, something beautiful or thought provoking will embellish a blank white wall or enhance the atmosphere of a stark office space. At Exhibition Gallery (EG), we aim to foster those creations for all artists, while connecting artists with art lovers, art collectors, and art investors. Moreover, we will help turn your artworks and/or illiquid assets into a sustainable revenue source by leveraging the Ethereum blockchain.*
 
-## 14\) When we conduct transactions on DEXs, such as Value, there is always the need to approve the access to the token we have, this consumes gas \(not much, but it does\). Is there a possibility that this type of authorization could be carried out as when we remove liquidity from a pool \(the initial step, of course\), like only signing the authorization?
+# vDodus
+*That is great to hear, ever growing project. So what was the idea behind starting an Exhibition gallery?*
 
-There is actually new tech that works with gas-less approvals via signatures, definitely something we've been checking out.
+# Carlos Lugo (Guest)
+*We would like to give artists a platform to share their work globally while moving into the future and incorporating crypto and blockchain technology.*
 
-## 15\) When do you predict there will be a significant enough amount of liquidity to support larger swaps of vUSD ~5k without a large price impact.
+# Miyasato Masa (Exhibition Gallery*)
+*Our current art marketplace is fully functional; however, we're planning to integrate NFT functions too. Legacy artists will be able to make NFT, and NFT artists will be able to sell NFT on canvas.*
 
-Liquidity for VALUE will be increased significant with the launch of vTokens, more details will be revealed with voting very soon
+# Value Whose
+*This will be a big one to get into NFT's are hot right now and will only grow in due time. Offering a platform for artists to monetize their work is a good thing.*
 
-## 16\) When does Value DeFi plan on offering on current big crypto exchanges? \(i.e Binance, Coinbase\)
+# vDodus
+*I have read on your webpage that you also offer grants to artists, so there is also an altruistic segment of your project?*
 
-Sorry but getting into a CEX is not our goal
+# Miyasato Masa (Exhibition Gallery*)
+*In this pandemic, we all need some help either financial or other necessities. Our call for an artist grant is new, and we will distribute $300 each quarter to one artist.
+It will provide a way for new and established artists to continue their artistic efforts, while gaining some exposure on our platform.*
 
-## 17\) Beside gv2 staking. How is vDOT obtained? Is it 1 to 1 swap with dot or is it separate from dot?
+# Value Whose
+*How does the ARTO token work within the platform as a use case?*
 
-Since vDOT did not have a 'pre-mine' like vUSD and vETH \(now vBTC\) we have 4 seed pools rewarding in vDOT \(2.5ea, therefore 10k total vDOT\). After this period, vDOT liquidity pools will open which will then use the same expansions mechanism as vUSD and vBTC
+# Miyasato Masa (Exhibition Gallery*)
+*ARTO will become a utility token for ecommerce transactions, along with Bitcoin and Ethereum. Currently, when an art collector buys an legacy artwork, the customer has the option to pay via PayPal, Bitcoin, and Ethereum. We're also planning to add other coins or tokens going forward. By using ARTO instead of PayPal, we will also incentivize our customers by giving them an additional discount.
+Since ETH gas is really crazy nowadays, we believe the extra discount should be sufficient for the customer.
+Other payment mechanisms are planned because we believe that ETH gas prices may present a challenge for some art collectors on large purchases. More on this in the next few months.*
 
-## 18\) So the 10% mentioned will go to a new address. After this, before any funds are moved to a liquidity pool, is there some kind of multi-sig authorization. Or how can we ensure these tokens aren't moved outside of the protocol?
 
-No the liquidity pools on ValueLiquid will get the expansion fund directly, no one controls it
+# vDodus
+*This is really interesting, so how would NFT to canvas proces work? That is somewhat unique product that you provide, i do not think i have heard about it before(uređivano)*
 
-## 19\) How will we stay competitive against other DEX like 1inch and Uniswap?
+# Miyasato Masa (Exhibition Gallery*)
 
-Uniswap has the first mover advantage and likely will stay. Sushiswap bootstrap it by giving away their SUSHI unlimited. 1inch is not a DEX in a technical sense, rather they are an aggregator. Our vision is to offer many unique features to standout and attract users.
 
-## 20\) How will we address the fact that our supply is over the originally stated 6.7 million tokens?
+*Correct. It is unique because we're likely the first platform to offer such a service to our customers. We've already alpha test this function with our NFT to canvas suppliers, and it's working well. Once it's fully tested, we will do a beta test for some customers in the coming months.
+Most people buy an NFT, and keep on their mobile devices. Going forward, they can turn that NFT into a canvas that they can hang on their walls or showcase in their offices.
+Currently, we're alpha testing our integration with the OpenSea.io production API. In the coming weeks, we will showcase all 13 million NFTs from OpenSea on Exhibition gallery. 
+OpenSea is our first integration partner; however, we're planning to integrate with other NFT focused blockchains as well.*
 
-For the increased max supply that was not included into calculations, its because the vested Dev Fund actually mints when called, rather than the tokens already being on the blockchain, then transfered. This was a small oversight, but due to the amount of 'lost YFV' it kind of balanced it out. There will be approximately 7.2m VALUE total 'on the blockchain', but we estimate over 200k are irretrievable \(lost wallets, forgotten about, etc.\) since they have not moved in months and still reside on the redundant YFV chain.
 
-It was a small mis-calculation for the max amount of VALUE in the previous announcement. People could check the code \(we also have external auditors confirming the fact that the max minted VALUE from the contract is capped. Theoretically we could ask the community to raise the cap, but we understand the consequence of doing that, so likely we will never do so.
+# Value Whose
+*This will be really cool to see once live
+Think we are going to ask one last question and then open up the chat for our community to ask some questions, sound good?*
 
-## 21\) So who are the main ValueDefi competitors currently? and what advantages does Value have over them/or are in progress?
 
-A: Dex wise it appears we just became the cheapest layer 1 Dex for trading according to the first look at has transactions. Uniswap, Balancer and Sushi don’t have native chi gas integration built into their platforms to save users cost. Also we offer FaaS which allows anyone to create liquidity mining pools within minutes. Users add liquidity and start earning rewards immediately.
+# Miyasato Masa (Exhibition Gallery*)
+*Yes, it's a game changer in my humble view. That's why we believe that we will be the bridge between legacy artworks and NFT and vice versa going into 2021 and beyond.
+Yes, we're ready for any community questions. The top 5 questions will receive 30 ARTO tokens.*
 
-## 22\) If it is necessary to mint more value for some reason. Will investors in governance have a say?
+# vDodus
+*Sounds like you have bright future ahead and i wish you the best*
 
-Minting more is possible, since it's only a soft-cap. However Governance would have to vote for more incentives. Would be a highly contested vote haha.
+*So the last question is related to FaaS, you chose to launch your token here, but we received some negative feedback, people were mostly worried about such a long lock of rewards, could you clear up for our community the reasoning behind it?*
 
-## 23\) Value DeFi has gone through a lot of changes in the past, the swap from YFV to VALUE, transition from a farmed token, new vUSD and vETH uses, etc. What is your plan to assure investors large changes won’t continue happening? Or if they must will they be conducted in a user friendly manner ?
+# Miyasato Masa (Exhibition Gallery*)
+*Yes, of course. We understand those concerns, and it's all valid. From our analysis of previously launched projects on FAAS, we noticed that some traders were simply selling those FAAS rewards as quickly as they received them, which cause erratic prices on ValueDefi, Uniswap, and other DEXs. With this approach we're aiming to mitigate those adverse conditions, while protecting the interests of our liquidity providers that believe in our project.(uređivano)*
 
-A: We are transitioning to a full DAO in the future. Nevertheless, big changes are always needed in order to keep up with the DeFi space. But big changes should be approved by all VALUE holders, not only us. DAO is the end goal for governance.
+# Value Whose
+*Vesting schedules for token releases is a great way to help reduce immediate sell pressure so you are right with choosing this method as it has proven to work. We are going to open up chat here for community questions. Have at it!*
 
-## 24\) Are there plans to expand the team as needed ?
+# vBOND MAXI
+*Hello sers, thankyou for taking the time to do this vAMA. You mentioned eth gas prices, are you afraid, much like many other NFT projects that the eth chain is becoming unsustainable? Do you have plans to move to or exist on another chain?*
 
-We keep expanding the team currently.
+# Carlos Lugo (Guest)
+*We're always looking to improve with the end user in mind so considering other chains is always a topic of discussion.*
 
-## 25\) Follow up to previous question - can you elaborate on the dev teams past experiences within the crypto sphere?
+# Value Whose
+*FLOW is a popular choice if you aren't looking at it*
 
-Some members of the team have been involved in crypto for 7-8 years. Most have at least 2-3 years experience.
+# Carlos Lugo (Guest)
+*Thank you we will look into that. Flare although it has not launched yet is also interesting.*
 
-## 26\) vUSD does not have any liquidity? When will be the release?
+# Miyasato Masa (Exhibition Gallery*)
+*We're discussing this underlying issue with our team, and some future options included Binance Smart Contract, Polkadot, and other blockchains.*
 
-Plan to launch liquidity pools on Friday/Weekend. Tomorrow should be the launch of bootstrapping period to kick off liquidity.
+# vBOND MAXI
+*Good to hear you are open to it at least thx
+Why use EG over opensea or rarible? especially if they just steal your idea for NFT -> Canvas which i can imagine bigger players being able to implement faster*
 
-## 27\) what kind of people are u hiring? What's the next main focus of Value DeFi?
+# vLostmyWife
+*Will Arto eventually become a governance token as well?*
 
-Every field; marketing, management, development. We're expanding, and that goes for our tech too. We want to take Value cross-chain with more than just our vTokens.
+# Miyasato Masa (Exhibition Gallery*)
+*Great question. That's one of initiatives going into 2021. We believe that a governance function will help put this project on a more decentralized pathway. Plus, it will serve a good purpose to help us decide who should win our call for an entry artist's grant too.*
 
-We are looking for marketing people and more developers currently.
+# vBOND MAXI
+*& not a question but more of a comment - the idea to go NFT to canvas is something some may think is a silly idea but as someone that knows absolutely nothing about physical art, i've actually struggled to know where to start because i recently purchased an NFT art piece from rarible that i do want to hang in my home*
 
-## 28\) Can you confirm if the gvVault will farm the Value pool for vDot, will rewards be in vDOT or converted to value and auto-compounded?
+# Miyasato Masa (Exhibition Gallery*)
+*Wonderful question. Let me explain it this way. Before Google became Google, they partnered with Yahoo. Google used the Yahoo index. Nowadays, who's using Yahoo for search? Competition is good, and we welcome it. The more NFTs are converted to canvas, the better it is for all artists globally*
 
-The farmed vDOT will be distributed to governance vault like the profit share tokens
+# vBOND MAXI
+*Good ethos. I think if you get the canvas functionality off the ground fast, I guess the idea is rarible / opensea could partner with you for that functionality? Any ETA for when it will be ready? I don't see it on your roadmap*
 
-## 29\) ETA on vDOT/vBTC pools?
+# Miyasato Masa (Exhibition Gallery*)
+*Overall, we intentionally kept many ideas off our roadmap because we only wanted to share it first. Once we have a fully functional NFT to canvas protocol, and our integration is working well, we will also pitch this idea to OpenSea since we're one of their integration partners. We expect some NFT collectors will also like to take their NFT from digital to canvas and hang it in their homes for friends and family to see.*
 
-After new vUSD launch this week we will have ETA for vBTC and vDOT.
+# vD.T
+*NFT is unique, please correct me if I'm wrong, but I imagine NFT -> physical art is that you're going to digital print it. How are you going to maintain the uniqueness of NFT with digital printing like that, as anyone can print from a digital image I guess?*
 
-## 30\) Hi @Prod what is different between vUsd and BDO? It look like same technically.
+# vBOND MAXI
+*I think this argument has existed forever. The same reason people buy prints of existing art. The original(s) will always be more valuable, but it is distributed to make sure more people can enjoy it. One of the reasons NFTs are often minted in quantities not singular. Good question this brings up though*
 
-Although vUSD at its core is an algorithm stablecoin, we have far significant improvements over the competition regarding long-term stability to its respective peg. On top, our vTokens have the ability to go cross-chain. Polkadot is just the beginning. BDO is a fork from BSD to Binance Smart Chain AFAIK
+# DevObs
+*If your token is supposed to be used as a means of payment, why did you limit the total supply to 888K? Do you think this will be enough to meet demand?  Can you mint more than 888K ARTO?*
 
-## 31\) In the early days of YFV, governance stakers voted very often and had a large voice in the project. What is the future of governance voting and will investors still have a say in the direction of the project ?
+# Miyasato Masa (Exhibition Gallery*)
+*Yes, we did. Initially, we thought it should be 88 million, but with that max supply, ARTO prices might become erratic over time. The low max supply ensures that we retain its value over time.*
 
-We have plan to revamp the current governance model of VALUE so holders could submit their proposal on-chain directly and if requirements are met, it will be executed. First step in order to move to full DAO later this year.
+# DevObs
+*Thanks.  Can you mint more than 888K ARTO?*
 
-## 32\) Will there be a calculator \(similar to vfat.tools\), metrics, or clarification how to estimate yields for the upcoming vUSD seigniorage? The formulas on the whitepaper were difficult to understand and some of us want to know if its worth the trouble being an LP.
+# Miyasato Masa (Exhibition Gallery*)
+*We're not planning on minting any more ARTO tokens. From a philosophical view, we arguably see that ARTO is like a work of art, it's either limited edition or one of kind. However, as we progress and if demands prevail, we will always be opened to new ideas from our team and community.(uređivano)*
 
-Yes of course, our UI will show every necessary information you need, no need for extra calculator. We could also create a pull request for vfat so he could integrate vTokens to his site if there are requests
+# DevObs
+*What is your communication & marketing strategy to promote EG?*
 
-## 33\) Are vDOT interchangeable for dot or are we just minting our our side? and how that that fit in with collaborations between value and dot?
+# Miyasato Masa (Exhibition Gallery*)
+*Overall, we're gradually ramping up our social media campaigns, which include Twitter, and Telegram. In the coming weeks, we will be promoting EG on Facebook and Google Ads. This week, we will be sending out an official press release announcing our partnership with ValueDeFi and OpenSea. Plus, we've also joined many non-profit organizations and museums. This will be listed on our website in the coming weeks. To protect the copyright of artists, we' also joined the DMCA or copyright.gov as a registered agent. DMCA agent number: DMCA-1036410 https://www.copyright.gov/(uređivano)
+U.S. Copyright Office | U.S. Copyright Office
+Copyright Office Homepage*
 
-vDOT is pegged to the price of DOT, since DOT is on the Ethereum blockchain, this actually allows users to easily trade and store their DOT with their other ERC-20 tokens.
+# vSygdreas
+*I will be one of the client, like the idea to have a nice NFT to canvas in my living room*
 
-## 34\) What can I do with vBOND?
+# Miyasato Masa (Exhibition Gallery*)
+*We would love to have you as a customer. Remember to sign-up: https://exhibition.gallery/my-account/*
 
-New liquidity pool for VBOND will be up using new core very very soon. Then we will work on a detailed plan and disclose the current budget, the goal is to pay back the VBOND users as promised.
+# Carlos Lugo (Guest)
+*Thanks for having us! Stay safe!*
 
-## 35\) This Seigniorage stablecoin is pretty good but have you consider this process will consume so much gas that little farmer cant keep up, do we have optimization somehow, like removing redundant TXN or multiple TXN or maybe save gas option? this is a big burden a bit to small players
+# Miyasato Masa (Exhibition Gallery*)
+*Thank you to everyone for having us! We really enjoy this AMA and we look forward to seeing you all in our TG group, our website, and Twitter feeds soon.* 
 
-New Core upgrade, which is in final testing, makes our transaction far more efficient, up to 40% cheaper.
+# Value Whose
+*Alright we will conclude this vAMA with Exhibition Gallery and I learned a lot about your project thank you for sharing and taking the time to answer questions from our community. Wishing the best success to your project!*
 
-## 36\) I understand how great FaaS is for the platform but it does have its limitations in regards to the average user who may just want to make a pool that auto balances their portfolio without any fancy liquidity mining. Will VL ever allow for regular pool creation ?
+# vDodus
+*For you lads who are more interested in Exhibition gallery project, feel free to visit their homepage and Telegram channel
+And of course, remember to buy ARTO token from our own vSwap*
 
-You mean like a seed pool? It's definitely in the plans, we've had a few projects just wanting to add pools that have nothing to do with trading or impermanent loss or pairs. Just simple Stake token A to earn Token A or a different Token B
-
-## 37\) How will we be able to pull liquidity from Uniswap and will we be able to trade any ERC-20 tokens by doing this? ex. Coingecko default list
-
-Yes using our advance routing tech, people will be able to trade any token which is available at Uniswap/Sushiswap through ValueLiquid with the new core upgrade
-
-## 38\) Is there some plan to allow future FaaS projects to present themselves to community? Getting community verified is difficult if there is no way for them to present who they are to that same community
-
-I think the community will have better suggestions/answers than us for this question.
-
-## 39\) Any future L2 plans like Optimistic rollups, or the Matic Network, or xDAI?
-
-We are doing research on optimistic, zk2 and xDAI currently. Nothing fixed yet because we also depend on another team.
-
-## 41\) With your recent partnerships with DOT, LINK etc., do you plan also some full integration within another ecosystem \(like the yearn ecosystem\) ?
-
-We always are open for any collaboration. If you could see any opportunity, feel free to contact us.
-
+# vDodus
+*Thank you for joining us again! Wish you the best luck!*

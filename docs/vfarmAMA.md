@@ -194,7 +194,7 @@ Why use EG over opensea or rarible? especially if they just steal your idea for 
 *Thanks.  Can you mint more than 888K ARTO?*
 
 # Miyasato Masa (Exhibition Gallery*)
-*We're not planning on minting any more ARTO tokens. From a philosophical view, we arguably see that ARTO is like a work of art, it's either limited edition or one of kind. However, as we progress and if demands prevail, we will always be opened to new ideas from our team and community.(uređivano)*
+*We're not planning on minting any more ARTO tokens. From a philosophical view, we arguably see that ARTO is like a work of art, it's either limited edition or one of kind. However, as we progress and if demands prevail, we will always be opened to new ideas from our team and community.*
 
 # DevObs
 *What is your communication & marketing strategy to promote EG?*

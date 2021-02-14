@@ -69,9 +69,9 @@ There is no fee associated with the creation of a FaaS pool other than the netwo
 
 **8\) Do you happen to have any video tutorials by any chance?**
 We do! Our awesome community has created two video tutorials related to FaaS/vFarms - see below:
-     VIDEO #1:  vFarm Pool Creation - https://streamable.com/pz8z8c
-     VIDEO #2:  View Pool Parameters from Etherscan - https://streamable.com/e38nl7
+- VIDEO 1:  vFarm Pool Creation - https://streamable.com/pz8z8c
+- VIDEO #2:  View Pool Parameters from Etherscan - https://streamable.com/e38nl7
 
 **9\) Where do I go to learn more?**  
-Don’t hesitate to come back to this page as the content of this page is going to be maintained periodically. We also recommend you join our Discord & Telegram groups; one of our mods will be more than happy to answer any questions you might have.
+Don’t hesitate to come back to this page as the content of this page is going to be maintained periodically. We also recommend you join our Discord & Telegram groups; one of our mods will be more than happy to answer any questions you might have. You may also contact us via email at <faas@valuedefi.io>.
 

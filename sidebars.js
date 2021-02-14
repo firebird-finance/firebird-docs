@@ -32,8 +32,8 @@ module.exports = {
       "guides/swaptokens",
     ],
     AMA: [
-      "january-21st-2021-discord",
-      "arto-vfarm-ama",
+      "ama/january-21st-2021-discord",
+      "ama/arto-vfarm-ama",
     ],
     "Social Media": [
       {

@@ -22,28 +22,42 @@ This makes the process of farming more easy, efficient and safe & secure as ther
 
 FaaS infographic: [https://valuedefi.io/resources](https://valuedefi.io/resources)
 
+![enter image description here](https://miro.medium.com/max/700/1*a81g73R8alhkV0TL9CPsng.png)
+
 ### FREQUENTLY ASKED QUESTIONS \(FAQs\)
 
 **1\) What is Farms-as-a-Service \(FaaS\)?**  
-Launched by Value DeFi, Farms-as-a-Service \(FaaS\) is the quickest and easiest way for new projects to kickstart liquidity of their coin without any upfront payment or cost. No permission is required by Value DeFi. Simply create your FaaS pool and let the community stake to it! Creating a FaaS pool on our platform is a great opportunity for your project to be exposed to a larger audience and it will also generate demand for your token!
+Launched by Value DeFi, Farms-as-a-Service \(FaaS\) is the quickest and easiest way for new projects to kickstart liquidity of their coin without any upfront payment or cost. No permission is required by Value DeFi. Simply create your vFarms and let the community stake to it! Creating a vFarm pool using our FaaS service is a great opportunity for your project to be exposed to a larger audience and it will also generate demand for your token!
 
 **2\) Why would I want to create a FaaS pool for my project?**  
-In line with our mission to make DeFi accessible for everyone, we created FaaS to allow new projects to easily deploy their contracts instead of having to spend time on forking and deploying the associated contracts the relevant contracts. With Value Liquid’s Farming Pool Creation UI teams can now create the desired customized liquidity pools and pairs along with flexible ratios, customizable fees, and token contract minter approval for the Liquidity Pool with a couple of clicks. An example would be a pool with USDC/New token 67/23 ratio with a 0.60% swap fee that has token minting per block just like Sushiswap.
+In line with our mission to make DeFi accessible for everyone, we created FaaS to allow new projects to easily deploy their contracts instead of having to spend time on forking and deploying the associated contracts the relevant contracts. Through our simple user-interface, teams can now create the desired liquidity pools and pairs along with flexible ratios, customizable fees, and token contract minter approval for the Liquidity Pool with a couple of clicks. An example would be a pool with USDC/New token 67/23 ratio with a 0.60% swap fee that has token minting per block just like Sushiswap.
 
-**3\) Is there a cost associated with the creation of a FaaS pool?**  
-There is no fee associated with the creation of a FaaS pool other than the network gas fee required to get it setup on the blockchain.
+Key benefits:
+- Creates a collaboration and helps strengthen the crypto ecosystem
+- Exposes your project to a broader new audience (includes an AMA session with the Value DeFi community)
+- Introduces a new and fair distribution mechanism for your token
+- Rewards individuals who believe in your projects
+- Easy option for a non-DeFi projects to enter the DeFi space
+- Produces buying pressure for your precious token
+- Creates liquidity for your token!
 
-**4) I’m ready to move forward and create my first FaaS pool… what do I need to do?**
+**3\) What are the supported reward mechanism?**  
+The platform natively supports simple and custom/complex reward mechanisms. While custom reward mechanisms are supported, some integration code will be required by the project.  Visit our GitHub for more information.
+
+**4\) Is there a cost associated with the creation of a FaaS pool?**  
+There is no fee associated with the creation of a FaaS pool other than the network gas fee required to get it setup on the blockchain. Please note the creation of a vFarm is complex in the backend so the fees associated with the creation of a pool is approximately ~0.6 ETH (subject to vary based on the ETH network congestion status).
+
+**5) I’m ready to move forward and create my first FaaS pool… what do I need to do?**
 
 - **Step 1**: Log into https://valueliquid.io/#/faas
 - **Step 2**: Click the “Create FaaS pool” button
 - **Step 3**: Complete all the required fields
 - **Step 4**: Submit your pool to the blockchain with the push of a button and voila!
 
-**5\) How long does it take to setup a FaaS pool?**  
- Assuming you know the pool parameters for your pool, getting it up-and-running shouldn’t take more than 15 minutes!
+**6\) How long does it take to setup my first vFarm?**  
+ Assuming you know the pool parameters for your vFarm, getting it up-and-running shouldn’t take more than 5 minutes!
 
-**6\) What are the pool parameters required to create a FaaS pool?**  
+**7\) What are the pool parameters required to create a vFarm pool?**  
 - _The pair of tokens_  
 - _The pool weight_ \(i.e. 98-2%\)  
 - _The reward token_  
@@ -53,6 +67,11 @@ There is no fee associated with the creation of a FaaS pool other than the netwo
 - _Vesting start and end blocks_ \(ETH block height at which the pool starts distributing locked rewards to liquidity providers\)  
 - _Unstaking frozen time_ \(the amount of time liquidity providers of the pool will have their liquidity locked at the pool\)
 
-**7\) Where do I go to learn more?**  
+**8\) Do you happen to have any video tutorials by any chance?**
+We do! Our awesome community has created two video tutorials related to FaaS/vFarms - see below:
+     VIDEO #1:  vFarm Pool Creation - https://streamable.com/pz8z8c
+     VIDEO #2:  View Pool Parameters from Etherscan - https://streamable.com/e38nl7
+
+**9\) Where do I go to learn more?**  
 Don’t hesitate to come back to this page as the content of this page is going to be maintained periodically. We also recommend you join our Discord & Telegram groups; one of our mods will be more than happy to answer any questions you might have.
 

@@ -29,7 +29,7 @@ module.exports = {
       "guides/governance-vault-staking-guide",
       "guides/provide-liquidity-on-value-liquid-and-farm-for-value-rewards",
       "guides/farm-value-token-rewards",
-      "guides/swaptokens"
+      "guides/swaptokens",
     ],
     "AMA": [
       "docs/january-21st-2021-discord",

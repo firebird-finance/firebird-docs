@@ -33,6 +33,7 @@ module.exports = {
     ],
     AMA: [
       "ama/january-21st-2021-discord",
+      "ama/arto-vfarm-ama",
     ],
      "Social Media": [
       {

@@ -15,7 +15,7 @@ If creating new wallet, set up your password and write down and store your seed 
 
 Next step is adding BSC network, in order to do it, click on Settings -> Networks -> Add network
 
-![MetaMask_2]("/docs/img/Metamask4.png)
+![MetaMask_2](/docs/img/Metamask4.png)
 
 Input network details as follows:
 

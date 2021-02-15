@@ -29,13 +29,13 @@ Symbol: BNB
 
 Block Explorer URL: https://bscscan.com/
 
-![MetaMask3](/docs/img/Metamask3.png)
+
 
 Click on add and your new network is set. 
 
 You can toggle between desired networks by clicking on top of your wallet.
 
-![MetaMask4](/docs/img/Metamask4.png)
+
 
 In order to initiate and pay for any transaction on BSC you need to have BNB in your wallet, much like ETH on Ethereum blockchain
 

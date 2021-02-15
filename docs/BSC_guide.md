@@ -7,7 +7,7 @@ With upcoming expansion of Value DeFi on Binance Smart Chain, here is a quick gu
 
 If you don't already have Metamask wallet installed you can visit [browser extension marketplace](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)
 
-![MetaMask_1](img/Metamask%201.png)
+![MetaMask_1](img/Metamask1.png)
 
 Click import wallet if you have an existing wallet.
 
@@ -15,7 +15,7 @@ If creating new wallet, set up your password and write down and store your seed 
 
 Next step is adding BSC network, in order to do it, click on Settings -> Networks -> Add network
 
-![MetaMask_2](img/MetaMask%202.png)
+![MetaMask_2](img/MetaMask2.png)
 
 Input network details as follows:
 

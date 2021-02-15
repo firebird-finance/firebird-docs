@@ -15,7 +15,7 @@ If creating new wallet, set up your password and write down and store your seed 
 
 Next step is adding BSC network, in order to do it, click on Settings -> Networks -> Add network
 
-
+![MetaMask3](img/Metamask3.png)
 
 Input network details as follows:
 
@@ -29,7 +29,7 @@ Symbol: BNB
 
 Block Explorer URL: https://bscscan.com/
 
-
+![MetaMask4](img/Metamask4.png)
 
 Click on add and your new network is set. 
 

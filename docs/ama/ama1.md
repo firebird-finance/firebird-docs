@@ -8,7 +8,7 @@ sidebar_label: January 21st, 2021 (Official Discord)
 https://discord.com/channels/738345978750435408/801818237037314069/801825552088432652
 
 ---
-
+![IntroAMA](../img/introama-1.png)
 
 ## 1\) Are there still plans to relaunch the multistable vault and if so, when?
 

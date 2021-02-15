@@ -10,7 +10,7 @@ https://discord.gg/YRpA7eua
 
 ---
 
-![](/docs/img/ARTO_AMA.png)
+![](../img/ARTO_AMA.png)
 
 # Value Whose
 *Hello everyone, Welcome to our first vAMA session with Exhibition gallery, one of the vFarms listed on our FaaS. We invite everybody to join in, meet them and give them a warm welcome to our growing FaaS family. Thank you for being here Carlos Lugo and Miyasato Masa let's get started!*

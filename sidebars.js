@@ -30,7 +30,7 @@ module.exports = {
       "guides/provide-liquidity-on-value-liquid-and-farm-for-value-rewards",
       "guides/farm-value-token-rewards",
       "guides/swaptokens",
-      "binance-smart-chain"
+      "guides/binance-smart-chain"
     ],
     AMA: [
       "ama/january-21st-2021-discord",

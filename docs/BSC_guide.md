@@ -1,4 +1,8 @@
-
+---
+id: binance-smart-chain
+title: Binance Smart Chain - Setting up Metamask wallet
+sidebar_label: Binance Smart Chain - Setting up Metamask wallet
+---
 
 
 ##Setting up Metamask for Binance Smart Chain (BSC)##

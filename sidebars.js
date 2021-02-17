@@ -26,11 +26,10 @@ module.exports = {
     ],
     Guides: [
       "guides/save-on-transaction-fees-using-the-chi-gastoken",
-      "guides/governance-vault-staking-guide",
+      "guides/swaptokens",
       "guides/provide-liquidity-on-value-liquid-and-farm-for-value-rewards",
       "guides/farm-value-token-rewards",
-      "guides/swaptokens",
-      "binance-smart-chain"
+      "binance-smart-chain",
     ],
     AMA: [
       "ama/january-21st-2021-discord",

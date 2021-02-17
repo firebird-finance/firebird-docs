@@ -11,7 +11,6 @@ module.exports = {
       "products/governance-vault",
       "products/value-liquid",
       "products/farms-as-a-service",
-      "products/value-pools",
     ],
     Resources: [
       "resources/contribute",

@@ -5,7 +5,7 @@ sidebar_label: Binance Smart Chain - Setting up Metamask wallet
 ---
 
 
-##Setting up Metamask for Binance Smart Chain (BSC)##
+##Setting up Metamask for Binance Smart Chain (BSC)
 ---
 With upcoming expansion of Value DeFi on Binance Smart Chain, here is a quick guide to set up your Metamask wallet for BSC
 

@@ -21,4 +21,4 @@ This simple guide shows how easy it is to swap from one token to another on the 
 
 6. Finally, confirm the transaction in your wallet.
 
-> When the transaction is complete, you should see the newly swapped tokens in your wallet.
+When the transaction is complete, you should see the newly swapped tokens in your wallet.

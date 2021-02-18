@@ -8,8 +8,8 @@ module.exports = {
     ],
     Products: [
       "products/value-vaults",
-      "products/governance-vault",
-      "products/value-liquid",
+      "products/vGovernance",
+      "products/vSwap",
       "products/farms-as-a-service",
     ],
     Resources: [

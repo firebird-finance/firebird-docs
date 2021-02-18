@@ -10,9 +10,9 @@ Value DeFi Protocol aims to be a one-stop shop for Decentralized Finance (DeFi).
 ---
 
 
-## **What is the Value DeFi Protocol?**
+## **What is the Value DeFi?**
 
-Value DeFi Protocol is a platform containing a suite of products that aims to bring fairness, true value, and innovation to Decentralized Finance. 
+Value DeFi is a platform containing a suite of products that aims to bring fairness, true value, and innovation to decentralized finance. 
 
 #### **We operate on four core tenets:** 
 
@@ -23,9 +23,10 @@ Value DeFi Protocol is a platform containing a suite of products that aims to br
 
 #### Our flagship products include:
 
-1. **Value Token**, the Governance token of the Value DeFi Protocol which allows the holders to influence the protocol and earn a portion of the profits made by the products of the platform.  
-2. **Value Liquid**, an automated market-maker and decentralized exchange, that allows anyone to create custom liquidity pools with flexible ratio pairs and swap fees. 
-3. **Value Vaults**, yield aggregators that use multiple strategies to maximize the interest rate returns on users' assets.
+1. **VALUE Token**, the Governance token of the Value DeFi Protocol which allows the holders to influence the protocol and earn a portion of the profits made by the products of the platform.  
+2. **vSwap**, an automated market-maker and decentralized exchange, that allows anyone to create custom liquidity pools with flexible ratio pairs and swap fees. 
+3. **vSafe**, yield aggregators that use multiple strategies to maximize the interest rate returns on users' assets.
+4. **FaaS and vFarm**, Farms-as-a-Service (FaaS) is a free decentralized self serving platform for any project to create fully customizable liquidity mining solutions which ultimately saves time and fees for everyone in the process. vFarm is the name given to a pool that was created through our FaaS service.
 
 ### Welcome to Value DeFi - Project Overview
 
@@ -41,12 +42,12 @@ You can access the Value DeFi homepage at [valuedefi.io](https://valuedefi.io). 
 
 ![Value Liquid homepage at valueliquid.io](img/home.png)
 
-From the [Value Liquid](../products/value-liquid) page, you can trade your assets for other coins or provide liquidity and earn rewards from the swap fees.
+From the [vSwap](../products/value-liquid) page, you can trade your assets for other coins or provide liquidity and earn rewards from the swap fees.
 
 ![Value Liquid homepage at valueliquid.io](img/value_liquid.png)
 
 **Important Links**  
 Value DeFi homepage:  [valuedefi.io](https://valuedefi.io)  
-Value Liquid DEX:       [valueliquid.io](https://valueliquid.io/)  
-Value Liquid Info:       [valueliquid.info](https://valueliquid.info) 
+vSwap DEX:       [valueliquid.io](https://valueliquid.io/)  
+vSwap info:       [valueliquid.info](https://valueliquid.info) 
 

@@ -1,28 +1,28 @@
 ---
 id: provide-liquidity-on-value-liquid-and-farm-for-value-rewards
-title: Provide Liquidity on Value Liquid
-sidebar_label: Provide Liquidity on Value Liquid
+title: Provide Liquidity on vSwap (formerly Value Liquid)
+sidebar_label: Provide Liquidity on vSwap
 ---
 
-Provide Liquidity on Value Liquid - Written by yfvfinance.rocks
+Provide liquidity on vSwap
 
 ---
 
-**Value Liquid allows users to provide liquidity to the Value Liquid Exchange. Liquidity providers get a share of the fees when someone makes a trade against the token you have provided liquidity for.**
+**vSwap allows users to provide liquidity to the vSwap exchange. Liquidity providers get a share of the fees when someone makes a trade against the token you have provided liquidity for.**
 
-When you provide Liquidity on Value Liquid you will receive VLP tokens. Additionally, you can then use your VLP tokens to farm for Value Rewards.
+When you provide liquidity on vSwap, you will receive VLP tokens. Additionally, you can then use your VLP tokens to farm for Value Rewards.
 
-**Lets provide some liquidity and get Value Liquidity Pool \(VLP\) Tokens**
+**Lets provide some liquidity and get vSwap pool \(VLP\) tokens**
 
-1. Go to [https://valuedefi.io/](https://valuedefi.io/?a=38LtvF24F66mQ4V7ap3XMKoUruro) and select the pool you want to farm in:
+1. Go to [https://valuedefi.io/](https://valuedefi.io) and select the pool you want to farm in:
 ![Guide](img/g2-1.png)
 
-For this tutorial i’m going to provide Liquidity for DAI/Value, for this I will receive VLP tokens. I can also use these tokens to farm Value.
+For this tutorial I’m going to provide liquidity for DAI/Value, for this I will receive VLP tokens. I can also use these tokens to farm Value.
 
-2. You’ll see an icon to create a VLT for your selected pool. Click this to go to Liquid to create the token.  
+2. You’ll see an icon to create a VLT for your selected pool. Click this to go to vSwap to create the token.  
 ![Guide](img/g2-2.png)
 
-3. Value liquid will open with the appropriate pairs. The VALUE/DAI pair requires 80% DAI and 20% Value. Add the amount of DAI you want to use and then click ‘Setup Proxy’.
+3. vSwap will open with the appropriate pairs. The VALUE/DAI pair requires 80% DAI and 20% Value. Add the amount of DAI you want to use and then click ‘Setup Proxy’.
 
 _**Note:** Steps 3-7 are only required if your wallet has never provided liquidity before. If you have already set up the proxy skip to step 8._ _The proxy will allow farmers to use the new Liquid technology for flexible farming when the full roadmap is released._  
 ![Guide](img/g2-3.png)
@@ -31,37 +31,37 @@ _**Note:** Steps 3-7 are only required if your wallet has never provided liquidi
 
 ![Guide](img/g2-4.png)
 
-5.Confirm the transaction in your wallet 
+5.Confirm the transaction in your wallet.
 ![Guide](img/g2-5.png)
 
-6. When all 10 transactions have been completed you’ll see the following screen:
+6. When all 10 transactions have been completed, you will see the following screen:
 ![Guide](img/g2-6.png)
 
 7. Now you’ve set up the proxy, add the amount of liquidity you want to provide.
 ![Guide](img/g2-7.png)
 
-8. Approve your DAI spend. Click confirm in your metamask wallet to confirm this transaction.
+8. Approve your DAI spend. Click confirm in your Metamask wallet to confirm this transaction.
 ![Guide](img/g2-8.png)
 
-9. Now approve your Value, click the approve Value button  
+9. Now approve your Value, click the approve Value button.
 ![Guide](img/g2-9.png)
 
 10. You’ll have to confirm this transaction in your metamask wallet. Click confirm.
 ![Guide](img/g2-10.png)
 
-11. When the transaction has confirmed, click ‘Supply’  
+11. When the transaction has confirmed, click 'Supply'.
 ![Guide](img/g2-11.png)
 
 12. You’ll get a final pop-up confirmation screen as below, click ‘Confirm Supply’:
 ![Guide](img/g2-12.png)
 
-13. Confirm the transaction in your wallet:  
+13. Confirm the transaction in your wallet:
 ![Guide](img/g2-13.png)
 
 14. Thats it….once your transaction is confirmed, if you refresh the page, at the bottom you should see the liquidity you have provided and the number of VLPs received.:
 ![Guide](img/g2-14.png)
 
-I’ve received 5.85 VLP tokens for the Value/DAI pool
+I’ve received 5.85 VLP tokens for the Value/DAI pool.
 
 **See your VLP tokens in your Metamask wallet:**
 
@@ -70,7 +70,7 @@ I’ve created a VLP token for the Value/Dai pair, I now need to add the contrac
 1. Click the link shown below to get the contract address:
 ![Guide](img/g2-15.png)
 
-2. This will bring you to the contract address for the Value/Dai VLP pair token. Select the copy button.
+2. This will bring you to the contract address for the Value/DAI VLP pair token. Select the copy button.
 ![Guide](img/g2-16.png)
 
 Click the icon to copy the contract address for your VLP token.

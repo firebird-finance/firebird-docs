@@ -7,11 +7,11 @@ sidebar_label: Binace Smart Chain Expansion FAQ
 #### Binance Smart Chain EXPANSION FAQ
 
 
-**VALUE AND GVVALUE TOKENS**
+<p align="center">VALUE AND GVVALUE TOKENS</p>
 
 **1) What are the benefits of holding the VALUE token on the Ethereum Mainnet network? Give me reasons not to sell. Some are assuming that the VALUE token will be abandoned now that vBSWAP is being created. Can you clarify the use case for VALUE?**
 
-VALUE will always be a governance and profit receiving token of the whole ecosystem if staked in vGov (formerly known as the Governance Vault V2). With the new farming token on BSC, gvVALUE holders will get extra rewards at BSC if they choose to bridge their gvVALUE to BSC and stake in gvVALUE-B/BUSD 98/2 pool (there will be more chains in the future)
+$VALUE will always be a governance and profit receiving token of the whole ecosystem if staked in vGov (formerly known as the Governance Vault V2). With the new farming token on BSC, gvVALUE holders will get extra rewards at BSC if they choose to bridge their gvVALUE to BSC and stake in gvVALUE-B/BUSD 98/2 pool (there will be more chains in the future)
 
 
 **2) What do I need to do with my VALUE tokens that are staked in vGov? Is it OK to leave them in vGov?**
@@ -56,19 +56,22 @@ gvVALUE is a token that represents your share in vGov, as long as you hold gvVAL
 ![enter image description here](https://miro.medium.com/max/700/1*a81g73R8alhkV0TL9CPsng.png)
 
 
-**PLATFORM AND PARTNERSHIP**
+<p align="center">PLATFORM AND PARTNERSHIP</p>
 
 
-**9) What are the advantages of BSC long-term for the project?**
+**9) What are the advantages of BSC long-term for the project?**3
+
 Cheaper gas costs on BSC will allow us to demonstrate our unique multistrat + auto-rebalance tech for vSafe, as well as vPegSwap. There are also plans to upgrade FaaS to create projects from scratch - vLaunch and to start vLend on BSC. We will also be one of first projects with complete infrastructure on BSC which should give us first mover advantage
  
 
-**10) Will it be Cross Heco?
-BSC is just the first of chains that we will expand to, and depending on ease of integration several more are under consideration, including Heco.**
+**10) Will it be Cross Heco?**
+
+BSC is just the first of chains that we will expand to, and depending on ease of integration several more are under consideration, including Heco.
 
 
 **11) Do I need ETH in my wallet to pay for the gas on BSC?**
-No, BNB is native currency of BSC, just like ETH is of Ethereum. In order to initiate any transaction on BSC you need to hold BNB in your wallet. You can get BNB by buying it from Binance, FTX or BKEX
+
+No, BNB (Bep20) is native currency of BSC, just like ETH is of Ethereum. In order to initiate any transaction on BSC you need to hold BNB (Bep20) in your wallet. You can get BNB by buying it from Binance, FTX or BKEX
 
 
 **12) Where can I learn more about BSC?**
@@ -79,7 +82,7 @@ https://academy.binance.com/en/articles/an-introduction-to-binance-smart-chain-b
 ![enter image description here](https://miro.medium.com/max/700/1*a81g73R8alhkV0TL9CPsng.png)
 
 
-**RELEASE PLANNING**
+<p align="center">RELEASE PLANNING</p>
 
 
 **13) Are we planning to release everything on the roadmap at once or would there be intermediate releases?**
@@ -89,7 +92,7 @@ Yes, all of things mentioned in February roadmap will be done by end of February
 ![enter image description here](https://miro.medium.com/max/700/1*a81g73R8alhkV0TL9CPsng.png)
 
 
-**MISCELLANEOUS **
+<p align="center">MISCELLANEOUS</p>
 
 **14) What to do I need to do to prepare for BSC?**
 

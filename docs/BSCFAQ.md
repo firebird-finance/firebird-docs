@@ -4,8 +4,6 @@ title: Binace Smart Chain Expansion FAQ
 sidebar_label: Binace Smart Chain Expansion FAQ
 ---
 
-#### Binance Smart Chain EXPANSION FAQ
-
 
 <p align="center">VALUE AND GVVALUE TOKENS</p>
 

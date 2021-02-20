@@ -29,6 +29,7 @@ module.exports = {
       "guides/provide-liquidity-on-value-liquid-and-farm-for-value-rewards",
       "guides/farm-value-token-rewards",
       "binance-smart-chain",
+      "binance-smart-chain-expansion-faq",
     ],
     AMA: [
       "ama/january-21st-2021-discord",

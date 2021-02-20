@@ -22,11 +22,11 @@ There will be a bridge from ETH to BSC to move gvVALUE and vUSD over.
 Prior to auto compound upgrade of vGov in November 2020, all gvVALUE was locked in vGov contract, post upgrade it returned back to wallet. All users who deposited prior to it now have the option to transfer gvVALUE to their wallet at relatively cheap gas cost (depending on ETH network congestion). It is one time action that is available only to users who have their gvVALUE locked in contract.
 
 
-**4)Will we be able to stake value-B on the BSC chain?**
+**4) Will we be able to stake value-B on the BSC chain?**
 Value-b is bearn.fi pegged Value token, as such it is not part of our Value ecosystem
 
 
-**5)Will I lose any of the gvVALUE benefits (compounded etc…) if I peg them to gvVALUE-B?**
+**5) Will I lose any of the gvVALUE benefits (compounded etc…) if I peg them to gvVALUE-B?**
 All benefits stay and you get additional rewards from BSC.
 
 
@@ -35,11 +35,11 @@ gvVALUE will be bridged  at 1:1 peg to gvVALUE-B before we roll out our BSC ecos
 vBSWAP is a profit share token of ValueDeFi at BSC. Farmers get vBSWAP as incentive, vBSWAP holders get farmers' profit as buyback and burn. vBSWAP holders can control the profit sharing rate and decide on the % of swap fee from vSwap that goes to buy back vBSWAP. Max supply of vBSWAP will be 100000 that will be distributed over 104 weeks with reduction in emission by 10% every 4 weeks (e.g. in first 4 weeks total of 10600 vBSWAP tokens will be distributed, for next 4 weeks 9540 vBSWAP etc..)
 
 
-**7)Only thing I’m confused about is the addition of vBSWAP. So swap on BSC will not profit share with value holders but with holders of a new token instead? I don’t understand why we’re getting another profit sharing token for the platform.**
+**7) Only thing I’m confused about is the addition of vBSWAP. So swap on BSC will not profit share with value holders but with holders of a new token instead? I don’t understand why we’re getting another profit sharing token for the platform.**
 vBSWAP token will be distributed to 98/2 gvVALUE-B/BUSD pool stakers as well. gvVALUE holders are able to receive benefits from both chains if they choose to do so. In order to compete on the BSC landscape, incentives have to be given to future users, and since there will be no more VALUE emissions and vUSD has its own purpose now, the optimal solution is to create a new token that is backed by BSC profits.
 
 
-**8)So am I getting this right that I will be able to pull out my gvVALUE use it on the BSC to farm another token/reward yet still receive my rewards/buybacks etc in gov vault? Surely my money/value can't be used in 2 places at once can it?**
+**8) So am I getting this right that I will be able to pull out my gvVALUE use it on the BSC to farm another token/reward yet still receive my rewards/buybacks etc in gov vault? Surely my money/value can't be used in 2 places at once can it?**
 gvVALUE is a token that represents your share in vGov, as long as you hold gvVALUE (or gvVALUE-b) you are receiving profit from Value ETH Ecosystem and by bridging over to BSC you will be able to receive additional rewards (vBSWAP tokens) from BSC if you choose to stake it in 98/2 gvVALUE-b/BUSD pool.
 
 
@@ -50,15 +50,15 @@ PLATFORM AND PARTNERSHIP
 Cheaper gas costs on BSC will allow us to demonstrate our unique multistrat + auto-rebalance tech for vSafe, as well as vPegSwap. There are also plans to upgrade FaaS to create projects from scratch - vLaunch and to start vLend on BSC. We will also be one of first projects with complete infrastructure on BSC which should give us first mover advantage
  
 
-**10)Will it be Cross Heco?
+**10) Will it be Cross Heco?
 BSC is just the first of chains that we will expand to, and depending on ease of integration several more are under consideration, including Heco.**
 
 
-**11)Do I need ETH in my wallet to pay for the gas on BSC?**
+**11) Do I need ETH in my wallet to pay for the gas on BSC?**
 No, BNB is native currency of BSC, just like ETH is of Ethereum. In order to initiate any transaction on BSC you need to hold BNB in your wallet. You can get BNB by buying it from Binance, FTX or BKEX
 
 
-**12)Where can I learn more about BSC?**
+**12) Where can I learn more about BSC?**
 For those of you who are new to BSC, we recommend the following online resources:
 https://academy.binance.com/en/articles/an-introduction-to-binance-smart-chain-bsc 
 
@@ -66,18 +66,18 @@ https://academy.binance.com/en/articles/an-introduction-to-binance-smart-chain-b
 RELEASE PLANNING
 
 
-**13)Are we planning to release everything on the roadmap at once or would there be intermediate releases?**
+**13) Are we planning to release everything on the roadmap at once or would there be intermediate releases?**
 Yes, all of things mentioned in February roadmap will be done by end of February
 
 
 MISCELLANEOUS 
 
-**14)What to do I need to do to prepare for BSC?**
+**14) What to do I need to do to prepare for BSC?**
 Set up Metamask wallet for the BSC network (follow the instructions here: https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain) - https://docs.valuedefi.io/binance-smart-chain 
 Make a transaction to test the network! (in case you are not aware, BSC does not consume any ETH for the gas. Instead, it consumes the BEP20 variant of BNB).
 
 
-**15)Where can I learn more about vPegSwap?**
+**15) Where can I learn more about vPegSwap?**
 vPegSwap is a Solidity implementation of StableSwap. It allows to trade tightly pegged tokens with much less slippage than standard AMM like Uniswap. We are talking about 100x less slippage. https://www.curve.fi/stableswap-paper.pdf
 
 

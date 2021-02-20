@@ -1,5 +1,5 @@
 ---
-id: Binance-smart-chain-expansion-faq
+id: binance-smart-chain-expansion-faq
 title: Binace Smart Chain Expansion FAQ
 sidebar_label: Binace Smart Chain Expansion FAQ
 ---

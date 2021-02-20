@@ -53,6 +53,9 @@ vBSWAP token will be distributed to 98/2 gvVALUE-B/BUSD pool stakers as well. gv
 gvVALUE is a token that represents your share in vGov, as long as you hold gvVALUE (or gvVALUE-b) you are receiving profit from Value ETH Ecosystem and by bridging over to BSC you will be able to receive additional rewards (vBSWAP tokens) from BSC if you choose to stake it in 98/2 gvVALUE-b/BUSD pool.
 
 
+![enter image description here](https://miro.medium.com/max/700/1*a81g73R8alhkV0TL9CPsng.png)
+
+
 **PLATFORM AND PARTNERSHIP**
 
 
@@ -73,11 +76,17 @@ For those of you who are new to BSC, we recommend the following online resources
 https://academy.binance.com/en/articles/an-introduction-to-binance-smart-chain-bsc 
 
 
+![enter image description here](https://miro.medium.com/max/700/1*a81g73R8alhkV0TL9CPsng.png)
+
+
 **RELEASE PLANNING**
 
 
 **13) Are we planning to release everything on the roadmap at once or would there be intermediate releases?**
 Yes, all of things mentioned in February roadmap will be done by end of February
+
+
+![enter image description here](https://miro.medium.com/max/700/1*a81g73R8alhkV0TL9CPsng.png)
 
 
 **MISCELLANEOUS **

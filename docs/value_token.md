@@ -13,7 +13,6 @@ The VALUE token allows holders to stake their VALUE into the [vGovernance](../pr
 
 Next to allowing participation by voting, holders who have put their Value in the [vGovernance](../products/governance-vault) currently receive 14% of the profit made by Value Vaults and 35% of the swap fees made from trades on [vSwap](../products/value-liquid). These percentages are susceptible to changes from Governance voting. 
 
-A more visual representation regarding the income flows can be seen [here](../products/governance-vault).
 
 ![Separator](img/seperator.png)
 

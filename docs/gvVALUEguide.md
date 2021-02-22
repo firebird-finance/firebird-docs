@@ -1,3 +1,8 @@
+---
+id: guide-to-gvvalue-staking-on-binance-smart-chain
+title: Guide to gvVALUE staking on Binance Smart Chain
+sidebar_label: Guide to gvVALUE staking on Binance Smart Chain
+---
 
 # Guide to gvVALUE staking on Binance Smart Chain
 

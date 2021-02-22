@@ -28,7 +28,7 @@ There are many ways to purchase $VALUE but this tutorial will focus on our decen
 
 #### PART 2 - OBTAIN YOUR gvVALUE TOKENS
 
-**For users who are NOT in the Governance Vault currently**
+**For users who are NOT in the vGov (Governance Vault) currently**
 
 In order to obtain your gvVALUE tokens; which is the asset that will be bridged across the Ethereum Mainnet and the Binance Smart Chain (BSC) Mainnet, you will be required to stake your VALUE tokens to the vGov (formerly known as the Governance Vault)
 

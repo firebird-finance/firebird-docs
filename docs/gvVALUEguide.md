@@ -51,7 +51,7 @@ Your VALUE is now staked and earning profits from Value DeFi Ethereum ecosystem 
    **Why is my gvVALUE amount lower than VALUE i staked**
         vGov earns 35% of swap fees from vSwap and 16% performance fees from vSafes and it is autocompounded for all vGov stakers. Your gvVALUE amount will always stay the same (unless you stake more VALUE), but your VALUE amount will increase over time 
         
-**For users currently staking in vGov but do not see gvVALUE in their wallet**
+ **For users currently staking in vGov but do not see gvVALUE in their wallet**
 	1. Check your wallet for gvVALUE and check vGov UI, numbers of both need to be the same,
 	 if they aren’t you need to unlock your gvVALUE by clicking “unlock“ button on UI
 	2. Confirm transaction, after it goes through you should see gvVALUE in your wallet

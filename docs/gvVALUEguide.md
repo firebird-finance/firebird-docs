@@ -28,7 +28,8 @@ There are many ways to purchase $VALUE but this tutorial will focus on our decen
 
 #### PART 2 - OBTAIN YOUR gvVALUE TOKENS
 
-For users who are NOT in the Governance Vault currently 
+**For users who are NOT in the Governance Vault currently**
+
 In order to obtain your gvVALUE tokens; which is the asset that will be bridged across the Ethereum Mainnet and the Binance Smart Chain (BSC) Mainnet, you will be required to stake your VALUE tokens to the vGov (formerly known as the Governance Vault)
 
 **INSTRUCTIONS**
@@ -46,7 +47,7 @@ Your VALUE is now staked and earning profits from Value DeFi Ethereum ecosystem 
     Token symbol: gvVALUE
     Token of precision: 18
     
-**Why is my gvVALUE amount lower than VALUE i staked**
+**Why is my gvVALUE amount lower than VALUE I staked**
 
 vGov earns 35% of swap fees from vSwap and 16% performance fees from vSafes and it is autocompounded for all vGov stakers. Your gvVALUE amount will always stay the same (unless you stake more VALUE), but your VALUE amount will increase over time 
         

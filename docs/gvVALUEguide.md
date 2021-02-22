@@ -44,15 +44,15 @@ In order to obtain your gvVALUE tokens; which is the asset that will be bridged 
 Your VALUE is now staked and earning profits from Value DeFi Ethereum ecosystem and as proof of ownership of your share in vGov you received gvVALUE
  
 ###### You can add gvVALUE as custom token in your Metamask:
-Token address: 0x49e833337ece7afe375e44f4e3e8481029218e5c
-Token symbol: gvVALUE
-Token of precision: 18
+	Token address: 0x49e833337ece7afe375e44f4e3e8481029218e5c
+	Token symbol: gvVALUE
+	Token of precision: 18
     
 ###### Why is my gvVALUE amount lower than VALUE i staked
-vGov earns 35% of swap fees from vSwap and 16% performance fees from vSafes and it is autocompounded for all vGov stakers. Your gvVALUE amount will always stay the same (unless you stake more VALUE), but your VALUE amount will increase over time 
+ vGov earns 35% of swap fees from vSwap and 16% performance fees from vSafes and it is autocompounded for all vGov stakers. Your gvVALUE amount will always stay the same (unless you stake more VALUE), but your VALUE amount will increase over time 
         
 ###### For users currently staking in vGov but do not see gvVALUE in their wallet
-Check your wallet for gvVALUE and check vGov UI, numbers of both need to be the same, if they aren’t you need to unlock your gvVALUE by clicking “unlock“ button on UI, confirm transaction, and after it goes through you should see gvVALUE in your wallet	
+ Check your wallet for gvVALUE and check vGov UI, numbers of both need to be the same, if they aren’t you need to unlock your gvVALUE by clicking “unlock“ button on UI, confirm transaction, and after it goes through you should see gvVALUE in your wallet	
  
 #### PART 3 - BRIDGE YOUR gvVALUE to BSC
 

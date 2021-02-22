@@ -30,6 +30,7 @@ module.exports = {
       "guides/farm-value-token-rewards",
       "binance-smart-chain",
       "binance-smart-chain-expansion-faq",
+      "guide-to-gvvalue-staking-on-binance-smart-chain"
     ],
     AMA: [
       "ama/january-21st-2021-discord",

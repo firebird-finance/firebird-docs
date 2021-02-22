@@ -5,7 +5,7 @@ sidebar_label: Guide to gvVALUE staking on Binance Smart Chain
 ---
 
 --- 
-In this tutorial, we’re going to walk you through the step-by-step process on how to purchase $VALUE on vSwap, stake it in vGov and bridge it over to BSC to receive extra rewards. For the sake of simplicity, we will be using MetaMask as the default wallet for this tutorial.
+In this tutorial, we’re going to walk you through the step-by-step process on how to purchase $VALUE on vSwap, stake it in vGov on Ethereum Mainnet and bridge it over to BSC to receive extra rewards. For the sake of simplicity, we will be using MetaMask as the default wallet for this tutorial.
 
 ---
 

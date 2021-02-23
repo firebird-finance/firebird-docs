@@ -16,6 +16,9 @@ There are many ways to purchase $VALUE but this tutorial will focus on our decen
 **INSTRUCTIONS**
 
 1. Go to https://valuedefi.io/ 
+
+![Guide](img/gvVALUE_1_1.png)
+
 2. Click the “_Value Liquid_” button on the header
 3. Connect your wallet to the site
 4. Select the token you would like to exchange _from_

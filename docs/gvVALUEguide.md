@@ -84,33 +84,33 @@ This scenario will happen if you staked to the vGov prior to November 2020. Don'
 
 ![Value Liquid homepage at valueliquid.io](img/seperator.png)
  
-#### PART 3 - BRIDGE YOUR $gvVALUE to BSC and receive $gvVALUE-B
+#### PART 3 - BRIDGE YOUR $gvVALUE TO BSC AND RECEIVE $gvVALUE-B
 
 Now that you have your $gvVALUE tokens in your wallet, you will need to use our portal to bridge your $gvVALUE into $gvVALUE-B.  The two assets are pegged 1:1 and you may use this portal to bridge your $gvVALUE and $gvVALUE-B back-and-forth as needed.
 
 **INSTRUCTIONS**
 
-1. Select BSC bridge on Value DeFi UI
-2. Select asset you want to bridge over (vUSD or gvVALUE)
-3. Approve (one time transaction)
-4. Select amount that you would like to bridge over
-5. Select BSC address
-6. Bridge over
+1. Visit the Bridge page here - https://valuedefi.io/bridge
+2. Define the quantity of gvVALUE you wish to bridge over to BSC ($gvVALUE-B)
+3. Approve the one-time transaction
+4. Click the 'Swap' button and approve the transaction on MetaMask
+
+Congratulations! Your $gvVALUE-B tokens were transfered to your wallet on the BSC network.
 
 ![Value Liquid homepage at valueliquid.io](img/seperator.png)
 
-#### PART 4 - STAKING ON Binance Smart Chain (BSC)
+#### PART 4 - STAKING ON BINANCE SMART CHAIN (BSC)
 
 **INSTRUCTIONS**
 
-You need to be sure your selected network is _Binance Smart Chain (BSC)
-_
-1. Go to https://bsc.valuedefi.io/#/vfarm
-2. Select the '_98% gvVALUE-B - 2% BUSD_' pool (direct link: https://bsc.valuedefi.io/#/vfarm/0xd56339F80586c08B7a4E3a68678d16D37237Bd96/4)  
-
 In order to stake in this pool, you need to have 98% of US dollar equivalent in $gvVALUE-B and 2% of US dollar equivalent in $BUSD.  You can preview your required amount by using staking UI and selecting the 'MAX' button (the required $BUSD amount will be be displayed automatically). You can use vSwap to buy more $BUSD as necessary ($BUSD is Binance's stablecoin).
 
-3. Approve both assets
-4. Click the '_Stake LP_' button
-5. Enjoy your passive income from ETH and BSC
+1. Make sure the selected network on your MetaMask wallet is set to _Binance Smart Chain (BSC)_
+2. Go to https://bsc.valuedefi.io/#/vfarm
+3. Select the '_98% gvVALUE-B - 2% BUSD_' pool (direct link: https://bsc.valuedefi.io/#/vfarm/0xd56339F80586c08B7a4E3a68678d16D37237Bd96/4)  
+4. Click the "Add liquidity" link
+5. Define the amount of $gvVALUE-B and $BUSD you wish to provide liquidity for
+6. Click the '_Stake LP_' button
+7. Approve the tokens and transactions
 
+Congratulations! You may now enjoy your passive income from ETH and BSC :)

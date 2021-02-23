@@ -15,7 +15,7 @@ There are many ways to purchase $VALUE but this tutorial will focus on our decen
 
 **INSTRUCTIONS**
 
-1. Go to https://valuedefi.io/ using your browser  
+1. Go to https://valuedefi.io/ on your web browser  
 ![Guide](img/gvVALUE_1_1.png)
 
 2. Click the “_Value Liquid_” button on the header  
@@ -48,11 +48,19 @@ In order to obtain your gvVALUE tokens; which is the asset that will be bridged 
 
 **INSTRUCTIONS**
 
-1. Go to https://valuedefi.io/governance
-2. Click the 'Stake' button
-3. Enter amount you with to stake
+1. Go to https://valuedefi.io/governance  
+![Guide](img/gvVALUE_2_1.png)
+
+2. Click the 'Stake' button  
+![Guide](img/gvVALUE_2_2.png)
+
+3. Enter the amount you wish to stake  
+![Guide](img/gvVALUE_2_3.png)
+
 4. Approve the one-time transaction and wait a minute
-5. Click the 'Stake' button
+
+5. Click the 'Stake' button  
+![Guide](img/gvVALUE_2_5.png)
 
 Congratulations, your $VALUE tokens are now staked and earning profits from Value DeFi Ethereum ecosystem! As proof of ownership of your share in vGov, you should have received $gvVALUE tokens in your wallet! (refer to the paragraph above).
  

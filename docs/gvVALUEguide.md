@@ -95,7 +95,7 @@ Now that you have your $gvVALUE tokens in your wallet, you will need to use our 
 3. Approve the one-time transaction
 4. Click the 'Swap' button and approve the transaction on MetaMask
 
-Congratulations! Your $gvVALUE-B tokens were transfered to your wallet on the BSC network.
+Congratulations! Your $gvVALUE-B tokens were transfered to your wallet on the BSC network (this might take a while as this currently is a manual process).
 
 ![Value Liquid homepage at valueliquid.io](img/seperator.png)
 

@@ -45,24 +45,28 @@ In order to obtain your gvVALUE tokens; which is the asset that will be bridged 
 
 Congratulations, your $VALUE tokens are now staked and earning profits from Value DeFi Ethereum ecosystem! As proof of ownership of your share in vGov, you should have received $gvVALUE tokens in your wallet! (refer to the paragraph above).
  
-**You can add gvVALUE as custom token in your Metamask:**
-    Token address: 0x49e833337ece7afe375e44f4e3e8481029218e5c
-    Token symbol: gvVALUE
-    Token of precision: 18
-    
-**Why is my gvVALUE amount lower than VALUE I staked**
+ 
+**POPULAR QUESTIONS**
 
-vGov earns 35% of swap fees from vSwap and 16% performance fees from vSafes and it is autocompounded for all vGov stakers. Your gvVALUE amount will always stay the same (unless you stake more VALUE), but your VALUE amount will increase over time 
-        
-**For users currently staking in vGov but do not see gvVALUE in their wallet**
+_1) Can you add $gvVALUE as a custom token to your MetaMask?_
 
-Check your wallet for gvVALUE and check vGov UI, numbers of both need to be the same, if they aren’t you need to unlock your gvVALUE by clicking “unlock“ button on UI, confirm transaction, and after it goes through you should see gvVALUE in your wallet	
+Yes you can, here are the token parameters:
+    - Token address: 0x49e833337ece7afe375e44f4e3e8481029218e5c
+    - Token symbol: gvVALUE
+    - Token of precision: 18
+
+_2) Why is my $gvVALUE amount lower than the amount of $VALUE that I have staked?_
+
+vGov earns 35% of swap fees from vSwap and 16% performance fees from vSafes and it is autocompounded for all vGov stakers. Your gvVALUE amount will always stay the same (unless you stake more $VALUE), but your $VALUE amount will increase over time.
+
+_3) I'm currently staking in the vGov but I don't see my $gvVALUE in my wallet, what do I need to do?_
+This scenario will happen if you staked to the vGov prior to November 2020. Don't worry, your $gvVALUE are in the smart contract of the vGov and we have introduced a 'Unlock' button for you to click in order to redeem and consolidate your $gvVALUE into your wallet. If you go to the vGov page and you see the "Unlock" button, it means you have some $gvVALUE tokens to redeem! Note this is a one-time event and the button will not appear if all your $gvVALUE is already in your wallet.	
 
 ![Value Liquid homepage at valueliquid.io](img/seperator.png)
  
-#### PART 3 - BRIDGE YOUR gvVALUE to BSC
+#### PART 3 - BRIDGE YOUR $gvVALUE to BSC and receive $gvVALUE-B
 
-Now that you have your gvVALUE tokens in your wallet, we will use the bridge portal to bridge your gvVALUE into gvVALUE-B.  The two assets are pegged 1:1 and you may use this portal to bridge your gvVALUE and gvVALUE-B back-and-forth as needed.
+Now that you have your $gvVALUE tokens in your wallet, you will need to use our portal to bridge your $gvVALUE into $gvVALUE-B.  The two assets are pegged 1:1 and you may use this portal to bridge your $gvVALUE and $gvVALUE-B back-and-forth as needed.
 
 **INSTRUCTIONS**
 
@@ -82,9 +86,8 @@ Now that you have your gvVALUE tokens in your wallet, we will use the bridge por
 You need to be sure your selected network is BSC
 
 1. Go to https://bsc.valuedefi.io/#/vfarm
-2. Select 98/2 gvVALUE-b/BUSD pool
-	In order to stake in this pool you need to have 98% of USD value in gvVALUE-b and 2 % of USD value in BUSD - you can preview your required amount by using staking UI and selecting max gvVALUE-B under it, required BUSD amount will be shown. You can use vSwap to buy neccessary BUSD
+2. Select the '_98% gvVALUE-B - 2% BUSD_' pool (direct link: https://bsc.valuedefi.io/#/vfarm/0xd56339F80586c08B7a4E3a68678d16D37237Bd96/4).  In order to stake in this pool, you need to have 98% of US dollar equivalent in $gvVALUE-B and 2% of US dollar equivalent in $BUSD.  You can preview your required amount by using staking UI and selecting the 'MAX' button (the required $BUSD amount will be be displayed automatically). You can use vSwap to buy more $BUSD as necessary ($BUSD is Binance's stablecoin).
 3. Approve both assets
-4. Click stake LP
-5. Enjoy your passive income from ETH and BSC  
-    
+4. Click the '_Stake LP_' button
+5. Enjoy your passive income from ETH and BSC
+

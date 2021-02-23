@@ -24,9 +24,9 @@ module.exports = {
       "resources/infographics",
     ],
     Guides: [
-      "guides/binance-smart-chain",
-      "guides/binance-smart-chain-expansion-faq",
-      "guides/guide-to-gvvalue-staking-on-binance-smart-chain"
+      "binance-smart-chain",
+      "binance-smart-chain-expansion-faq",
+      "guide-to-gvvalue-staking-on-binance-smart-chain"
       "guides/save-on-transaction-fees-using-the-chi-gastoken",
       "guides/swaptokens",
       "guides/provide-liquidity-on-value-liquid-and-farm-for-value-rewards",

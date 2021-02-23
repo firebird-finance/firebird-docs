@@ -16,21 +16,21 @@ There are many ways to purchase $VALUE but this tutorial will focus on our decen
 **INSTRUCTIONS**
 
 1. Go to https://valuedefi.io/ using your browser
-[Guide](img/gvVALUE_1_1.png)
+![Guide](img/gvVALUE_1_1.png)
 
 2. Click the “_Value Liquid_” button on the header
-[Guide](img/gvVALUE_1_2.png)
+![Guide](img/gvVALUE_1_2.png)
 
 3. Connect your MetaMask wallet to the site
 
 4. Select the token you would like to exchange _from_ and select $VALUE as the token you would like to exchange _to_
-[Guide](img/gvVALUE_1_4.png)
+![Guide](img/gvVALUE_1_5.png)
 
 5. Approve both tokens (one-time transaction). While cumbersome, this is a security measure in order to prevent malicious contracts from sending tokens you haven’t first authorized
-[Guide](img/gvVALUE_1_5.png)
+![Guide](img/gvVALUE_1_6.png)
 
-6. Click on the ‘_Swap_’ button
-[Guide](img/gvVALUE_1_6.png)
+6. Click on the ‘_SWAP_’ button
+![Guide](img/gvVALUE_1_7.png)
 
 7. Preview the transaction in the pop-up window of your MetaMask
 

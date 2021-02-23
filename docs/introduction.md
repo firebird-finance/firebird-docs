@@ -5,12 +5,12 @@ sidebar_label: Introduction
 slug: /
 ---
 
-Value DeFi Protocol aims to be a one-stop shop for Decentralized Finance (DeFi).
+Value DeFi aims to be a one-stop shop for Decentralized Finance (DeFi).
 
 ---
 
 
-## **What is the Value DeFi?**
+## **What is Value DeFi?**
 
 Value DeFi is a platform containing a suite of products that aims to bring fairness, true value, and innovation to decentralized finance. 
 
@@ -23,7 +23,7 @@ Value DeFi is a platform containing a suite of products that aims to bring fairn
 
 #### Our flagship products include:
 
-1. **VALUE Token**, the Governance token of the Value DeFi Protocol which allows the holders to influence the protocol and earn a portion of the profits made by the products of the platform.  
+1. **VALUE token**, the Governance token of the Value DeFi Protocol which allows the holders to influence the protocol and earn a portion of the profits made by the products of the platform.  
 2. **vSwap**, an automated market-maker and decentralized exchange, that allows anyone to create custom liquidity pools with flexible ratio pairs and swap fees. 
 3. **vSafe**, yield aggregators that use multiple strategies to maximize the interest rate returns on users' assets.
 4. **FaaS and vFarm**, Farms-as-a-Service (FaaS) is a free decentralized self serving platform for any project to create fully customizable liquidity mining solutions which ultimately saves time and fees for everyone in the process. vFarm is the name given to a pool that was created through our FaaS service.

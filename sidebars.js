@@ -24,13 +24,13 @@ module.exports = {
       "resources/infographics",
     ],
     Guides: [
+      "binance-smart-chain",
+      "binance-smart-chain-expansion-faq",
+      "guide-to-gvvalue-staking-on-binance-smart-chain"
       "guides/save-on-transaction-fees-using-the-chi-gastoken",
       "guides/swaptokens",
       "guides/provide-liquidity-on-value-liquid-and-farm-for-value-rewards",
       "guides/farm-value-token-rewards",
-      "binance-smart-chain",
-      "binance-smart-chain-expansion-faq",
-      "guide-to-gvvalue-staking-on-binance-smart-chain"
     ],
     AMA: [
       "ama/january-21st-2021-discord",

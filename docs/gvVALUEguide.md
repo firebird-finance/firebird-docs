@@ -93,10 +93,16 @@ Now that you have your $gvVALUE tokens in your wallet, you will need to use our 
 
 **INSTRUCTIONS**
 
-1. Visit the Bridge page here - https://valuedefi.io/bridge
-2. Define the quantity of gvVALUE you wish to bridge over to BSC ($gvVALUE-B)
-3. Approve the one-time transaction
-4. Click the 'Swap' button and approve the transaction on MetaMask
+1. Visit the Bridge page here - https://valuedefi.io/bridge  
+![Guide](img/gvVALUE_3_1.png)
+
+2. Define the quantity of gvVALUE you wish to bridge over to BSC ($gvVALUE-B)  
+![Guide](img/gvVALUE_3_2.png)
+
+3. Approve the one-time transaction  
+
+4. Click the 'Swap' button and approve the transaction on MetaMask  
+![Guide](img/gvVALUE_3_4.png)
 
 Congratulations! Your $gvVALUE-B tokens were transfered to your wallet on the BSC network (this might take a while as this currently is a manual process done by the team).
 

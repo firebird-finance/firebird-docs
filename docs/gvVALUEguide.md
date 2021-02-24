@@ -114,12 +114,24 @@ Congratulations! Your $gvVALUE-B tokens were transfered to your wallet on the BS
 
 In order to stake in this pool, you need to have 98% of US dollar equivalent in $gvVALUE-B and 2% of US dollar equivalent in $BUSD.  You can preview your required amount by using staking UI and selecting the 'MAX' button (the required $BUSD amount will be be displayed automatically). You can use vSwap to buy more $BUSD as necessary ($BUSD is Binance's stablecoin).
 
-1. Make sure the selected network on your MetaMask wallet is set to _Binance Smart Chain (BSC)_
-2. Go to https://bsc.valuedefi.io/#/vfarm
+1. Make sure the selected network on your MetaMask wallet is set to _Binance Smart Chain (BSC)_  
+![Guide](img/gvVALUE_4_1.png)
+
+2. Go to https://bsc.valuedefi.io/#/vfarm  
+![Guide](img/gvVALUE_4_2.png)
+
 3. Select the '_98% gvVALUE-B - 2% BUSD_' pool (direct link: https://bsc.valuedefi.io/#/vfarm/0xd56339F80586c08B7a4E3a68678d16D37237Bd96/4)  
-4. Click the "Add liquidity" link
-5. Define the amount of $gvVALUE-B and $BUSD you wish to provide liquidity for
-6. Click the '_Stake LP_' button
-7. Approve the tokens and transactions
+![Guide](img/gvVALUE_4_3.png)
+
+4. Click the "Add liquidity" link  
+![Guide](img/gvVALUE_4_4.png)
+
+5. Define the amount of $gvVALUE-B and $BUSD you wish to provide liquidity for  
+![Guide](img/gvVALUE_4_5.png)
+
+6. Click the '_Supply_' button  
+![Guide](img/gvVALUE_4_6.png)
+
+12. Approve the tokens and transactions  
 
 Congratulations! You may now enjoy your passive income from ETH and BSC :)

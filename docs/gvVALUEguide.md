@@ -136,7 +136,7 @@ In order to stake in this pool, you need to have 98% of US dollar equivalent in 
 ![Guide](img/gvVALUE_4_7.png)
 
 8. Click the "Max" button and then the "Stake" buton  
-![Guide](img/gvVALUE_4_8.png
+![Guide](img/gvVALUE_4_8.png)
 
 9. Approve the tokens and transactions  
 

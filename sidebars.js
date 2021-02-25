@@ -6,7 +6,7 @@ module.exports = {
     "Tokenomics": [
       "Ethereum tokens": [
       "value-token",
-      "gvvalue"
+      "gvvalue",
       "vTokens",
       "vBond",
     ],

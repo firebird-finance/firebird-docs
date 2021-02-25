@@ -73,7 +73,7 @@ Congratulations, your $VALUE tokens are now staked and earning profits from Valu
 _1) Can you add $gvVALUE as a custom token to your MetaMask?_
 
 Yes you can, here are the token parameters:  
-    - Token address: 0x49e833337ece7afe375e44f4e3e8481029218e5c  
+    - Token address: 0xcec03a960ea678a2b6ea350fe0dbd1807b22d875  
     - Token symbol: gvVALUE  
     - Token of precision: 18  
 

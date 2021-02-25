@@ -44,7 +44,7 @@ All benefits stay and you get additional rewards from BSC.
 **6) Will I be able to bridge my gVALUE coins to BSC 1:1 (at a"relative cheap cost")? and have gvVALUE-B ? And vBSWAP is a completely new token not directly related to my VALUE/gvVALUE-B ? If yes, what will be the initial price for vBSWAP and max supply?** 
 
 gvVALUE will be bridged  at 1:1 peg to gvVALUE-B before we roll out our BSC ecosystem. It’s cheap because it’s just a transfer tx. 
-vBSWAP is a profit share token of ValueDeFi at BSC. Farmers get vBSWAP as incentive, vBSWAP holders get farmers' profit as buyback and burn. vBSWAP holders can control the profit sharing rate and decide on the % of swap fee from vSwap that goes to buy back vBSWAP. Max supply of vBSWAP will be 100000 that will be distributed over 104 weeks with reduction in emission by 10% every 4 weeks (e.g. in first 4 weeks total of 10600 vBSWAP tokens will be distributed, for next 4 weeks 9540 vBSWAP etc..)
+vBSWAP is a profit share token of ValueDeFi at BSC. Farmers get vBSWAP as incentive, vBSWAP holders get farmers' profit as buyback and burn. Max supply of vBSWAP will be 100000 that will be distributed over 104 weeks with reduction in emission by 10% every 4 weeks (e.g. in first 4 weeks total of 10600 vBSWAP tokens will be distributed, for next 4 weeks 9540 vBSWAP etc..)
 
 
 

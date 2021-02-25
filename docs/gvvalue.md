@@ -6,9 +6,9 @@ sidebar_label: gvVALUE
 
 
 Once VALUE token is staked in vGovernance it accrues and autocompounds part of fees from ValueDeFi ethereum ecosystem.
-It also allows vGovernance stakers to vote on all relevant matters related to Value DeFi protocol
-Users that stake their VALUE in vGovernance have option to bridge over their gvVALUE tokens to Binance Smart Chain
-for even more benefits.
+It also allows vGovernance stakers to vote on all relevant matters related to Value DeFi protocol.
+Users that stake their VALUE in vGovernance have option to bridge over their gvVALUE tokens to Binance Smart Chain for even more benefits.
+
 
 To add gvVALUE to wallet on Metamask ETH network use following details
 

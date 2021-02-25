@@ -4,7 +4,9 @@ title: vBSWAP
 sidebar_label: vBSWAP
 ---
 
-![vbswap](..img/vbswap.png)
+
+![vbswap](img/vbswap.png)
+
 
 
 vBSWAP is Binance Smart Chain token used as incentive for Value DeFi BSC ecosystem users.

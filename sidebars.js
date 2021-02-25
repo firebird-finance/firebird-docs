@@ -5,7 +5,7 @@ module.exports = {
       "value-token",
       "vTokens",
       "vBond",
-      "vbswap",
+      "vBSWAP",
     ],
     Products: [
       "products/value-vaults",

@@ -2,7 +2,7 @@ module.exports = {
   someSidebar: {
     "Value Defi": [
       "introduction",
-      ]
+      ],
     "Tokenomics": [
       "Ethereum tokens": [
       "value-token",

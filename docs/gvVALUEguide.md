@@ -141,3 +141,19 @@ In order to stake in this pool, you need to have 98% of US dollar equivalent in 
 9. Approve the tokens and transactions  
 
 Congratulations! You may now enjoy your passive income from ETH and BSC :)
+
+#### PART 5 - UNSTAKING AND REMOVING LIQUIDITY
+
+**INSTRUCTIONS**
+
+In order to unstake and remove liquidity from vFarm and pool follow these steps
+
+1. Click on vFarm tab
+2. Select gvVALUE-B/BUSD pool
+3. Click Unstake
+4. Confirm transaction
+5. Click on vSwap tab
+6. Select Pool 
+7. Select your Pool
+8. Click withdraw
+9. Approve and remove your LP tokens

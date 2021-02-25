@@ -12,6 +12,10 @@ Max supply of vBSWAP is 100000 and it will be distributed over period of 104 wee
 (eg. first four weeks total of 10600 vBSWAP tokens will be distributed to farmers, next four weeks 9540, etc..)
 
 If you would like to add it to your Metamask wallet details are as follows
+
 Token Address: 0x4f0ed527e8A95ecAA132Af214dFd41F30b361600
+
 Token Symbol: vBSWAP
+
 Token of Precision: 18
+

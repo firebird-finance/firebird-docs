@@ -1,7 +1,7 @@
 ---
-id: value-vaults
-title: Value Vaults
-sidebar_label: Value Vaults
+id: vSafes
+title: vSafes
+sidebar_label: vSafes
 ---
 
 Vaults allow you to increase your holdings of an asset at a low gas cost and with low effort. It is a 'set it and forget it' method as the Vaults do everything for you.

@@ -23,13 +23,13 @@ module.exports = {
       "guides/save-on-transaction-fees-using-the-chi-gastoken",
     ],
     Resources: [
-      {
+      "resources/vision-mission",
+      "resources/infographics",
+       {
         type: "category",
         label: "Glossary",
         items: ["resources/glossary/automated-market-maker", "resources/glossary/defi"],
       },
-      "resources/vision-mission",
-      "resources/infographics",
     ],
     AMA: [
       "ama/january-21st-2021-discord",

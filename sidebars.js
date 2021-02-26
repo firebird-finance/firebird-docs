@@ -9,14 +9,20 @@ module.exports = {
       "vBSWAP",
     ],
     Products: [
-      "products/value-vaults",
-      "products/vGovernance",
       "products/vSwap",
+      "products/vSafes",
+      "products/vGovernance",
       "products/farms-as-a-service",
     ],
+    Guides: [
+      "binance-smart-chain",
+      "binance-smart-chain-expansion-faq",
+      "guide-to-gvvalue-staking-on-binance-smart-chain",
+      "guides/provide-liquidity-on-value-liquid-and-farm-for-value-rewards",
+      "guides/farm-value-token-rewards",
+      "guides/save-on-transaction-fees-using-the-chi-gastoken",
+    ],
     Resources: [
-      "resources/contribute",
-      "resources/faqs",
       {
         type: "category",
         label: "Glossary",
@@ -25,15 +31,7 @@ module.exports = {
       "resources/vision-mission",
       "resources/infographics",
     ],
-    Guides: [
-      "binance-smart-chain",
-      "binance-smart-chain-expansion-faq",
-      "guide-to-gvvalue-staking-on-binance-smart-chain",
-      "guides/save-on-transaction-fees-using-the-chi-gastoken",
-      "guides/swaptokens",
-      "guides/provide-liquidity-on-value-liquid-and-farm-for-value-rewards",
-      "guides/farm-value-token-rewards",
-    ],
+
     AMA: [
       "ama/january-21st-2021-discord",
       "ama/arto-vfarm-ama",

@@ -31,7 +31,6 @@ module.exports = {
       "resources/vision-mission",
       "resources/infographics",
     ],
-
     AMA: [
       "ama/january-21st-2021-discord",
       "ama/arto-vfarm-ama",

@@ -13,7 +13,7 @@ vBSWAP is a new deflationary farming token on Binance Smart Chain (BSC) for the 
   
   
 **TOKENOMICS**
-  - _TOTAL SUPPLY_: 100,000
+  - _TOTAL SUPPLY_: 100,000 tokens
 
   - _DISTRIBUTION_:  
         - The tokens will be distributed over a period of 2 years and its emission will be reduced by 10% every weeks (refer to the schedule below)  

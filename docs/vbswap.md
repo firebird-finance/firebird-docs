@@ -8,7 +8,7 @@ sidebar_label: vBSWAP
 
 ![vbswap](img/vbswap2.png)
 
-**INTRODUCTION**
+**INTRODUCTION**  
 vBSWAP is a new deflationary farming token on Binance Smart Chain (BSC) for the Value DeFi ecosystem. vBSWAP has been built and deployed on BSC with a 100K Total Supply distributed over 2 years of farming. Emissions will reduce by 10% every 4 weeks. Additionally, 100% profit from vSafe, vSwap and vPegSwap trading fees on BSC will be used to buyback vBSWAP to be burned, reducing the total supply overtime.
 
 **TOKENOMICS**

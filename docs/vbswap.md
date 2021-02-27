@@ -6,7 +6,7 @@ sidebar_label: vBSWAP
 
 ---
 
-![vbswap](img/vbswap.png)
+![vbswap](img/vbswap2.png)
 
 vBSWAP is Binance Smart Chain token used as incentive for Value DeFi BSC ecosystem users.
 Part of fees (decided by vGovernance) from Value DeFi BSC ecosystem are used to buyback and burn vBSWAP.

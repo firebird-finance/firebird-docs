@@ -16,8 +16,8 @@ module.exports = {
     ],
     Guides: [
       "binance-smart-chain",
-      "binance-smart-chain-expansion-faq",
       "guide-to-gvvalue-staking-on-binance-smart-chain",
+      "binance-smart-chain-expansion-faq",
       "guides/provide-liquidity-on-value-liquid-and-farm-for-value-rewards",
       "guides/farm-value-token-rewards",
       "guides/save-on-transaction-fees-using-the-chi-gastoken",

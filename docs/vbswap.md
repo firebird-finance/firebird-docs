@@ -30,9 +30,9 @@ vBSWAP is a new deflationary farming token on Binance Smart Chain (BSC) for the 
 ![vbswap](img/vbswapdistribution.png)
 
 **Token details in case you wish to add it to your MetaMask**  
-    - Network: Binance Smart Chain (BSC)  
-    - Ticker: vBSWAP  
-    - Token of Precision: 18  
-    - Token Address: 0x4f0ed527e8A95ecAA132Af214dFd41F30b361600  
+  - Network: Binance Smart Chain (BSC)  
+  - Ticker: vBSWAP  
+  - Precision: 18  
+  - BSC Address: 0x4f0ed527e8A95ecAA132Af214dFd41F30b361600  
 
 ---

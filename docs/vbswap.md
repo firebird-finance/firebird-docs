@@ -22,11 +22,10 @@ vBSWAP is a new deflationary farming token on Binance Smart Chain (BSC) for the 
 
   - _BUYBACK, BURN and FEES_:  
         - 100% of fees collected on the Value DeFi BSC ecosystem will go to buyback vBSWAP and burn it automatically  
-        - Fees:  
-               - 50% of swap fees from vSwap (swap fees are setable by pool creator at vSwap, not fixed)  
-               - 50% of swap fees from vPegSwap  
-               - All performance fees (typically 6%) from vSafe  
-               - All other fees from vFarm (FaaS)  
+        - 50% of swap fees from vSwap (swap fees are setable by pool creator at vSwap, not fixed)  
+        - 50% of swap fees from vPegSwap  
+        - All performance fees (typically 6%) from vSafe  
+        - All other fees from vFarm (FaaS)  
   
 ![vbswap](img/vbswapdistribution.png)
 

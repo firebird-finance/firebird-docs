@@ -16,16 +16,16 @@ vBSWAP is a new deflationary farming token on Binance Smart Chain (BSC) for the 
   - _TOTAL SUPPLY_: 100,000 tokens
 
   - _DISTRIBUTION_:  
-        - The tokens will be distributed over a period of 2 years and its emission will be reduced by 10% every weeks (refer to the schedule below)  
-        - 5% of emission goes to the _Reserve Fund_ contract for distribution to marketing, community, and giveaways  
-        - None of the tokens are allocated the _Dev Fund_  
+      - The tokens will be distributed over a period of 2 years and its emission will be reduced by 10% every weeks (refer to the schedule below)  
+      - 5% of emission goes to the _Reserve Fund_ contract for distribution to marketing, community, and giveaways  
+      - None of the tokens are allocated the _Dev Fund_  
 
   - _BUYBACK, BURN and FEES_:  
-        - 100% of fees collected on the Value DeFi BSC ecosystem will go to buyback vBSWAP and burn it automatically  
-        - 50% of swap fees from vSwap (swap fees are setable by pool creator at vSwap, not fixed)  
-        - 50% of swap fees from vPegSwap  
-        - All performance fees (typically 6%) from vSafe  
-        - All other fees from vFarm (FaaS)  
+      - 100% of fees collected on the Value DeFi BSC ecosystem will go to buyback vBSWAP and burn it automatically  
+      - 50% of swap fees from vSwap (swap fees are setable by pool creator at vSwap, not fixed)  
+      - 50% of swap fees from vPegSwap  
+      - All performance fees (typically 6%) from vSafe  
+      - All other fees from vFarm (FaaS)  
   
 ![vbswap](img/vbswapdistribution.png)
 

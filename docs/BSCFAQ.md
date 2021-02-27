@@ -1,7 +1,7 @@
 ---
 id: binance-smart-chain-expansion-faq
-title: Binace Smart Chain Expansion FAQ
-sidebar_label: Binace Smart Chain Expansion FAQ
+title: Binance Smart Chain Expansion FAQ
+sidebar_label: Binance Smart Chain Expansion FAQ
 ---
 
 
@@ -66,7 +66,7 @@ gvVALUE is a token that represents your share in vGov, as long as you hold gvVAL
 <p align="center">PLATFORM AND PARTNERSHIP</p>
 
 
-**9) What are the advantages of BSC long-term for the project?**3
+**9) What are the advantages of BSC long-term for the project?**
 
 Cheaper gas costs on BSC will allow us to demonstrate our unique multistrat + auto-rebalance tech for vSafe, as well as vPegSwap. There are also plans to upgrade FaaS to create projects from scratch - vLaunch and to start vLend on BSC. We will also be one of first projects with complete infrastructure on BSC which should give us first mover advantage
  

@@ -9,11 +9,11 @@ slug: /
 
 Launched in August 2020, Value DeFi is a platform containing a suite of products and services that aims to bring fairness, true value, and innovation to decentralized finance. 
 
-**OUR CORE TENETS**
-1. increase accessibility to yield farming
-2. provide on-chain voting for governance
-3. reward our stakeholders with flexible, optimized and profitable vault strategies
-4. protect our community’s funds through the integration of an insurance treasury  
+**OUR CORE VALUES**
+1. Increase accessibility to yield farming
+2. Provide on-chain voting for governance
+3. Reward our stakeholders with flexible, optimized and profitable pool strategies
+4. Protect our community’s funds through the integration of an insurance treasury  
 
 **OUR FLAGSHIP PRODUCTS**
 1. **vSwap**, an automated market-maker and decentralized exchange, that allows anyone to create custom liquidity pools with flexible ratio pairs and swap fees. 

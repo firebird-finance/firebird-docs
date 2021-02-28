@@ -1,20 +1,23 @@
 module.exports = {
   someSidebar: {
-    "Value Defi": [
+    "Overview": [
       "introduction",
+      "resources/vision-mission",
+    ],
+    "Products and services": [
+      "products/vSwap",
+      "products/vSafes",
+      "products/farms-as-a-service",
+      "products/vGovernance",
+    ],
+    "Tokenomics": [
       "value-token",
       "gvvalue",
       "vTokens",
       "vBond",
       "vBSWAP",
     ],
-    Products: [
-      "products/vSwap",
-      "products/vSafes",
-      "products/vGovernance",
-      "products/farms-as-a-service",
-    ],
-    Guides: [
+    "Guides": [
       "binance-smart-chain",
       "guide-to-gvvalue-staking-on-binance-smart-chain",
       "binance-smart-chain-expansion-faq",
@@ -22,7 +25,6 @@ module.exports = {
       "guides/save-on-transaction-fees-using-the-chi-gastoken",
     ],
     Resources: [
-      "resources/vision-mission",
       "resources/infographics",
        {
         type: "category",

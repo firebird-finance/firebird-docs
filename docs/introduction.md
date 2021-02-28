@@ -9,14 +9,13 @@ slug: /
 
 Launched in August 2020, Value DeFi is a platform containing a suite of products and services that aims to bring fairness, true value, and innovation to decentralized finance. 
 
-_We operate on four core tenets_:
+**We operate on four core tenets:**  
 1. increase accessibility to yield farming
 2. provide on-chain voting for governance
 3. reward our stakeholders with flexible, optimized and profitable vault strategies
-4. protect our community’s funds through the integration of an insurance treasury
+4. protect our community’s funds through the integration of an insurance treasury  
 
-_Our flagship products include_:
-
+**Our flagship products include:**  
 1. **vSwap**, an automated market-maker and decentralized exchange, that allows anyone to create custom liquidity pools with flexible ratio pairs and swap fees. 
 2. **vPegSwap**, an automated market-maker and decentralized exchange, that allows anyone to create custom liquidity pools with flexible ratio pairs and swap fees. 
 3. **FaaS and vFarm**, Farms-as-a-Service (FaaS) is a free decentralized self serving platform for any project to create fully customizable liquidity mining solutions which ultimately saves time and fees for everyone in the process. vFarm is the name given to a pool that was created through our FaaS service.

@@ -10,7 +10,7 @@ module.exports = {
     ],
     Products: [
       "products/vSwap",
-      "products/vSafes",
+      "products/vSafe",
       "products/vGovernance",
       "products/farms-as-a-service",
     ],

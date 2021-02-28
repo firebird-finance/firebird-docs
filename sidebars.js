@@ -18,23 +18,21 @@ module.exports = {
       "vBSWAP",
     ],
     "Resources": [
-        "Guides": (
-          "binance-smart-chain",
-          "guide-to-gvvalue-staking-on-binance-smart-chain",
-          "binance-smart-chain-expansion-faq",
-          "guides/provide-liquidity-on-value-liquid-and-farm-for-value-rewards",
-          "guides/save-on-transaction-fees-using-the-chi-gastoken",
-      ),
-    ],
-    "Resources": [
-      "resources/infographics",
-       {
+      "guides/provide-liquidity-on-value-liquid-and-farm-for-value-rewards",
+      "binance-smart-chain",
+      "guide-to-gvvalue-staking-on-binance-smart-chain",
+      "guides/save-on-transaction-fees-using-the-chi-gastoken",
+      "binance-smart-chain-expansion-faq",
+      {
         type: "category",
         label: "Glossary",
         items: ["resources/glossary/automated-market-maker", "resources/glossary/defi"],
       },
     ],
-    "AMA": [
+    Resources: [
+      "resources/infographics",  
+    ],
+    AMA: [
       "ama/january-21st-2021-discord",
       "ama/arto-vfarm-ama",
     ],

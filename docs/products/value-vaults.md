@@ -19,7 +19,7 @@ Access our vSafe page from https://bsc.valuedefi.io/#/vsafe
 
 This saves you time, effort, gas and it ensures it gives you peace of mine that your maximizing your investment. To be clear, the LP count will not increase through auto-compound. It is the dollar value of the LP that will increase which means when you remove the liquidity, you will get a lot more tokens than what you had previously deposited.
 
-   2. _Multiple strategy:_  
+   2. _Multiple strategies:_  
 
 Our vSafes are interesting and unique in that they can use multiple strategies to farm multiple pools. This way you get the best optimal return by having your fingers in many pies.
   

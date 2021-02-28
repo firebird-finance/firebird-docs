@@ -25,8 +25,8 @@ _We operate on four core tenets_:
 
 Value DeFi origially launched on the Ethereum Mainnet but it expanded in late February 2021 to the Binance Smart Chain (BSC) Mainnet.  
 
-<u>Landing pages</u>:  
-    1. Ethereum: https://valuedefi.io/  
-    2. BSC: https://bsc.valuedefi.io/  
+**GETTING STARTED**
+     1. Ethereum: https://valuedefi.io/  
+     2. BSC: https://bsc.valuedefi.io/  
 
 <iframe width="100%" height="422" src="https://www.youtube.com/embed/LKdKU_u9R9Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

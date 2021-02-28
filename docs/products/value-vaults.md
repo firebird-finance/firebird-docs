@@ -1,5 +1,5 @@
 ---
-id: vSafe
+id: vSafes
 title: vSafe
 sidebar_label: vSafe
 ---
@@ -29,5 +29,5 @@ Using the example above, allocating $1M of our vSafe would bring the Farm to $2M
 
 This is also done for the remaining funds in the vSafe, those are distributed to use on other farms to acquire the best return on the deposited vSafe assets, resulting in for example a 50% APY compared to 10% with single assets.
 
+![vsafemultiple2](https://user-images.githubusercontent.com/78454114/109431305-7ac53a80-79cb-11eb-884a-e5432e405d89.png)  
 
-![vsafemultiple2](https://user-images.githubusercontent.com/78454114/109431305-7ac53a80-79cb-11eb-884a-e5432e405d89.png)

@@ -114,6 +114,8 @@ Congratulations! Your $gvVALUE-B tokens were transfered to your wallet on the BS
 
 In order to stake in this pool, you need to have 98% of US dollar equivalent in $gvVALUE-B and 2% of US dollar equivalent in $BUSD.  You can preview your required amount by using staking UI and selecting the 'MAX' button (the required $BUSD amount will be be displayed automatically). You can use vSwap to buy more $BUSD as necessary ($BUSD is Binance's stablecoin).
 
+**Note: In order to receive autocompounding rewards you should deposit in 98/2 gvVALUE-b/BUSD vSafe, steps are the same, add liquidity in pool and stake in vSafe**
+
 1. Make sure the selected network on your MetaMask wallet is set to _Binance Smart Chain (BSC)_  
 ![Guide](img/gvVALUE_4_1.png)
 

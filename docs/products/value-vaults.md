@@ -9,10 +9,16 @@ Our vSafes are high-tech yield aggregators that use multiple strategies and auto
 
 The auto-pilot nature of our vSafes makes it so they’re very simple to use as no maintenance is required by the investors to increase their underlying asset size and value over time.  
 
-Access our vSafe page from https://bsc.valuedefi.io/#/vsafe
+Access our vSafe page from https://bsc.valuedefi.io/#/vsafe  
+
+![Separator](img/seperator.png)
 
 **KEY FEATURES**  
-    1. _Multiple strategy:_  
+   1. _Auto-compound:_  
+
+This saves you time, effort, gas and it ensures it gives you peace of mine that your maximizing your investment. To be clear, the LP count will not increase through auto-compound. It is the dollar value of the LP that will increase which means when you remove the liquidity, you will get a lot more tokens than what you had previously deposited.
+
+   2. _Multiple strategy:_  
 
 Our vSafes are interesting and unique in that they can use multiple strategies to farm multiple pools. This way you get the best optimal return by having your fingers in many pies.
   
@@ -24,6 +30,4 @@ This is also done for the remaining funds in the vSafe, those are distributed to
 
 ![vsafemultiple](https://user-images.githubusercontent.com/78454114/109431067-37b69780-79ca-11eb-9f9f-20d5990577ef.png)
     
-    2. _Auto-compound:_  
 
-This saves you time, effort, gas and it ensures it gives you peace of mine that your maximizing your investment. To be clear, the LP count will not increase through auto-compound. It is the dollar value of the LP that will increase which means when you remove the liquidity, you will get a lot more tokens than what you had previously deposited.

@@ -25,7 +25,7 @@ Launched in August 2020, Value DeFi is a platform containing a suite of products
 
 Value DeFi origially launched on the Ethereum Mainnet but it expanded in late February 2021 to the Binance Smart Chain (BSC) Mainnet.  
 
-**GETTING STARTED**
+**GETTING STARTED**  
      1. Ethereum: https://valuedefi.io/  
      2. BSC: https://bsc.valuedefi.io/  
 

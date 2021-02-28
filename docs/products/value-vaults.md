@@ -11,7 +11,7 @@ The auto-pilot nature of our vSafes makes it so they’re very simple to use as 
 
 Access our vSafe page from https://bsc.valuedefi.io/#/vsafe  
 
-![Separator](img/seperator.png)
+![Separator](../img/seperator.png)
 
 **KEY FEATURES**  
    1. _Auto-compound:_  

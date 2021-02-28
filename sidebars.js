@@ -23,18 +23,18 @@ module.exports = {
         label: "Guides",
         items: ["guides/provide-liquidity-on-value-liquid-and-farm-for-value-rewards", "binance-smart-chain", "guide-to-gvvalue-staking-on-binance-smart-chain", "guides/save-on-transaction-fees-using-the-chi-gastoken"],
       },
-        "binance-smart-chain-expansion-faq",
       {
         type: "category",
-        label: "Glossary",
-        items: ["resources/glossary/automated-market-maker", "resources/glossary/defi"],
+        label: "FAQ",
+        items: ["resources/glossary/automated-market-maker", "resources/glossary/defi", "binance-smart-chain-expansion-faq"],
+      },
+      {
+        type: "category",
+        label: "AMA",
+        items: ["ama/january-21st-2021-discord","ama/arto-vfarm-ama"],
       },
     ],
-     AMA: [
-      "ama/january-21st-2021-discord",
-      "ama/arto-vfarm-ama",
-    ],
-     "Social Media": [
+      "Social Media": [
       {
         type: 'link',
         label: 'Medium',

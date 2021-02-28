@@ -9,7 +9,7 @@ Our vSafes are high-tech yield aggregators that use multiple strategies and auto
 
 The auto-pilot nature of our vSafes makes it so they’re very simple to use as no maintenance is required by the investors to increase their underlying asset size and value over time.  
 
-Access our vSafe page now - https://bsc.valuedefi.io/#/vsafe
+Access our vSafe page from https://bsc.valuedefi.io/#/vsafe
 
 **KEY FEATURES**  
     1. _Multiple strategy:_  

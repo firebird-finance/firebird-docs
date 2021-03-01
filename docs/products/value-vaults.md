@@ -17,7 +17,10 @@ Access our vSafes from https://bsc.valuedefi.io/#/vsafe
 **KEY FEATURES**  
    1. _Auto-compound:_  
 
-This feature saves you time, effort, gas and it also gives you the peace of mind that you are maximizing your investment at all time. How does it work? Auto-compounding does not simply increase your LP count over time.  Instead, it is the dollar value of the LP that increases over time so when you remove the liquidity from the pool, you will get a lot more tokens than what you had previously deposited.
+This feature saves you time, effort, gas and it also gives you the peace of mind that you are maximizing your investment at all time. How does it work? Auto-compounding does not simply increase your LP count over time.  Instead, it is the dollar value of the LP (YOUR SHARES) that increases over time so when you remove the liquidity from the pool, you will get a lot more tokens than what you had previously deposited.
+
+![vvaultauto](https://user-images.githubusercontent.com/78454114/109442197-1e7b0e80-79fd-11eb-9731-4a4f84bec8a3.png)
+
 
    2. _Multiple strategies:_  
 

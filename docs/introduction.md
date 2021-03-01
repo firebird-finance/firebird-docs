@@ -7,7 +7,7 @@ slug: /
 
 **OVERVIEW**
 
-Launched in August 2020, Value DeFi is a platform containing a suite of products and services that aims to bring fairness, true value, and innovation to decentralized finance. 
+Value DeFi is a complete solution on the ETH and BSC networks that aims to bring fairness, true value, and innovation to decentralized finance through a suite of high-performance products and services.
 
 **OUR CORE VALUES**
 1. Increase accessibility to yield farming
@@ -23,7 +23,7 @@ Launched in August 2020, Value DeFi is a platform containing a suite of products
 5. **vTokens**, newly developed synthetic cross-chain algorithmic tokens. vTokens, in theory, can be developed on Ethereum, Binance and Polkadot while being pegged to any other token thanks to the support of Chainlink and their services.
 6. **vGovernance**, major Value DeFi decisions are made by those who stake $VALUE to vGovernance and they also earn a portion of the profits made by the products of the platform.  
 
-Value DeFi originally launched on the Ethereum Mainnet but it expanded in late February 2021 to the Binance Smart Chain (BSC) Mainnet.  
+Value DeFi originally launched on the Ethereum Mainnet in August 2020 but it expanded in late February 2021 to the Binance Smart Chain (BSC) Mainnet.  
 
 **GETTING STARTED**
 - BSC: https://bsc.valuedefi.io/  

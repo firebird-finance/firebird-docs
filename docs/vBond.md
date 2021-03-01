@@ -1,7 +1,7 @@
 ---
-id: vBond
-title: vBond
-sidebar_label: vBond
+id: vBOND
+title: vBOND
+sidebar_label: vBOND
 ---
 
 

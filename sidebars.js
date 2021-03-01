@@ -14,14 +14,13 @@ module.exports = {
       {
         type: "category",
         label: "ETH",
-        items: ["VALUE","gvvalue", "vBOND"],
+        items: ["VALUE","gvvalue", "vBOND", "vTokens"],
       },
       {
         type: "category",
         label: "BSC",
         items: ["vBSWAP"],
       },
-      "vTokens",
      ],
     "Resources": [
       {

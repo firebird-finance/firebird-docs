@@ -36,7 +36,7 @@ module.exports = {
       {
         type: "category",
         label: "AMA",
-        items: ["ama/january-21st-2021-discord","ama/arto-vfarm-ama"],
+        items: ["ama/arto-vfarm-ama"],
       },
     ],
       "Social Media": [

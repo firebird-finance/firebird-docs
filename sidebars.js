@@ -14,7 +14,7 @@ module.exports = {
       {
         type: "category",
         label: "ETH",
-        items: ["VALUE","gvvalue", "vBond"],
+        items: ["VALUE","gvvalue", "vBOND"],
       },
       {
         type: "category",

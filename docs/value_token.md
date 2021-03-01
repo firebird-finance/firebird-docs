@@ -1,7 +1,7 @@
 ---
-id: value-token
-title: Value Token
-sidebar_label: Value Token
+id: VALUE
+title: VALUE
+sidebar_label: VALUE
 ---
 
 ---

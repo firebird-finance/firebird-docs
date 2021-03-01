@@ -31,7 +31,7 @@ module.exports = {
       {
         type: "category",
         label: "FAQ",
-        items: ["resources/glossary/automated-market-maker", "resources/glossary/defi", "binance-smart-chain-expansion-faq"],
+        items: ["resources/glossary/defi", "binance-smart-chain-expansion-faq"],
       },
       {
         type: "category",

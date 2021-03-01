@@ -14,4 +14,10 @@ vSwap is Value DeFi's highly-competitive exchange (automated market maker) that 
 3. Participate in vFarms  
 4. Use the idle deposited funds to provide liquidity providers the most lucrative ROI
 
-The end purpose of vSwap is to become one big vault that puts the idle assets in vSwap at use, while still keeping enough liquidity to prevent high amounts of slippage. Currently $11B in assets are stored in decentralized exchanges. Some of those assets are used to get swapped, which earns the liquidity providers some swap fees but most of them sit idle in the liquidity pools. To optimize the yield on these idle funds, they are put to use at farms and therefore increase the returns.
+vSwap has the ability to launch pools, and swap most tokens with reduced liquidity by ‘borrowing’ from other Dex’s such as Uniswap, SushiSwap and PancakeSwap. vSwap is automated market maker (decentralized exchange) that uses smart routing to provide its users with best exchange ratio on the market, offering minimal slippage and price impact.  
+
+**GETTING STARTED**  
+- Ethereum: https://valueliquid.io/#/swap
+- BSC: https://bsc.valuedefi.io/#/vswap  
+
+![vSwap 64bfbd4c](https://user-images.githubusercontent.com/78454114/109451770-cbf91c80-7a13-11eb-9a55-92b0fada08b3.png)

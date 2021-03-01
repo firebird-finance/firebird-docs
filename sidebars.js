@@ -11,12 +11,18 @@ module.exports = {
       "products/vGovernance",
     ],
     "Tokenomics": [
-      "value-token",
-      "gvvalue",
-      "vTokens",
-      "vBond",
-      "vBSWAP",
-    ],
+      {
+        type: "category",
+        label: "ETH",
+        items: ["value-token","gvvalue", "vBond"],
+      },
+      {
+        type: "category",
+        label: "BSC",
+        items: ["vBSWAP"],
+      },
+      "vtokens",
+     ],
     "Resources": [
       {
         type: "category",

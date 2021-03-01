@@ -10,9 +10,11 @@ vSwap is Value DeFi's highly-competitive exchange (automated market maker) that 
 
 **KEY FEATURES**  
 1. Allows users to swap assets for other assets  
-2. Users can provide liquidity in a pool to enjoy swap fees  
-3. Participate in vFarms  
-4. Use the idle deposited funds to provide liquidity providers the most lucrative ROI
+2. vSwap supports vPegSwap, a is a Solidity implementation of Curve’s StableSwap that is considered as a fully automated market maker for tightly pegged assets or stablecoins.
+3. Users can provide liquidity in a pool to enjoy swap fees  
+4. Participate in vFarms  
+5. Use the idle deposited funds to provide liquidity providers the most lucrative ROI
+6. vSwap supports vPegSwap, a Solidity implementation of Curve’s StableSwap that is considered as a fully automated market maker for tightly pegged assets or stablecoins.
 
 vSwap has the ability to launch pools, and swap most tokens with reduced liquidity by ‘borrowing’ from other Dex’s such as Uniswap, SushiSwap and PancakeSwap. vSwap is automated market maker (decentralized exchange) that uses smart routing to provide its users with best exchange ratio on the market, offering minimal slippage and price impact.  
 
@@ -21,4 +23,7 @@ vSwap has the ability to launch pools, and swap most tokens with reduced liquidi
 - Ethereum: https://valueliquid.io/#/swap  
 
 
-![vSwap 64bfbd4c](https://user-images.githubusercontent.com/78454114/109451770-cbf91c80-7a13-11eb-9a55-92b0fada08b3.png)
+![vSwap 64bfbd4c](https://user-images.githubusercontent.com/78454114/109451770-cbf91c80-7a13-11eb-9a55-92b0fada08b3.png)  
+
+
+![vpegSwap 3429b8de](https://user-images.githubusercontent.com/78454114/109452652-dc11fb80-7a15-11eb-8146-1acacee23b72.png)

@@ -20,7 +20,6 @@ vSwap is Value DeFi's highly-competitive exchange (automated market maker) that 
 3. Users can provide liquidity in a pool to enjoy swap fees  
 4. Participate in vFarms  
 5. Use the idle deposited funds to provide liquidity providers the most lucrative ROI
-6. vSwap supports vPegSwap, a Solidity implementation of Curve’s StableSwap that is considered as a fully automated market maker for tightly pegged assets or stablecoins.
 
 vSwap has the ability to launch pools, and swap most tokens with reduced liquidity by ‘borrowing’ from other Dex’s such as Uniswap, SushiSwap and PancakeSwap. vSwap is automated market maker (decentralized exchange) that uses smart routing to provide its users with best exchange ratio on the market, offering minimal slippage and price impact.   
 

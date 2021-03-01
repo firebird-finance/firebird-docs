@@ -21,7 +21,7 @@ module.exports = {
         label: "BSC",
         items: ["vBSWAP"],
       },
-      "vtokens",
+      "vTokens",
      ],
     "Resources": [
       {

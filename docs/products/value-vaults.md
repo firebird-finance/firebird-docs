@@ -19,7 +19,7 @@ The auto-pilot nature of our vSafes makes it so they’re very simple to use as 
 **KEY FEATURES**  
    1. _Auto-compound:_  
 
-Albert Einstein - "_Compound interest is the eighth wonder of the world. He understands it, earns it... he who doesn't...pays it._"
+A. Einstein - "_Compound interest is the eighth wonder of the world. He understands it, earns it... he who doesn't...pays it._"
 
 This feature saves you time, effort, gas and it also gives you the peace of mind that you are maximizing your investment at all time. How does it work? Auto-compounding does not simply increase your LP count over time.  Instead, it is the dollar value of the LP (YOUR SHARES) that increases over time so when you remove the liquidity from the pool, you will get a lot more tokens than what you had previously deposited.
 

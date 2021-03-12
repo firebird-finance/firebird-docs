@@ -10,6 +10,8 @@ In this guide we will give you step by step instructions on how to stake and max
 
 #### SCENARIO 1 - vSafe that uses PancakeSwap as the Liquidity Pool (LP)  
 
+For this example, we will use the IOTX/BUSD (50%-50% liquidity pool).  
+
 **INSTRUCTIONS**  
 
 1. Visit the Value DeFi (BSC) site - https://bsc.valuedefi.io/#/  
@@ -28,13 +30,13 @@ In this guide we will give you step by step instructions on how to stake and max
 6. Clicking the 'Add liquidity' link will redirect you to PancakeSwap. Once on this page, you will need to connect your wallet and add an equal amount of USD value of IOTX and BUSD (50-50 Liquidity Pool). If you don't already own the desired amount, you will have to purchase some first. You will also need to "_Approve_" both tokens and click the "_Supply_" button afterwards. Once the transaction is successful, your IOTX and BUSD balance will decrease and you will receive IOTX/BUSD liquidity pool tokens in your wallet .
 ![vsafe6](https://user-images.githubusercontent.com/78454114/110884698-1e0b2f00-82ab-11eb-97be-891841209067.png)  
   
-![vsafe6c](https://user-images.githubusercontent.com/78454114/110884946-8e19b500-82ab-11eb-8bf5-43acbfcadbd2.png)  
+![vsafe6d](https://user-images.githubusercontent.com/78454114/110886134-c5896100-82ad-11eb-9e63-d527a753266d.png)  
 
 7. After you have successfully provided liquidity to the IOTX/BUSD pool, you should return to the https://bsc.valuedefi.io/#/vsafe page and deposit your IOTX/BUSD LP tokens to the vSafe.  
 
 8. Once on the vSafe page, you will need to "_Approve_" your IOTX/BUSD tokens, click the "_Max_" button to deposit all your eligible LP tokens and click the "_Start earning_" button.  
 ![vsafe8](https://user-images.githubusercontent.com/78454114/110885230-18621900-82ac-11eb-99f7-3b84a910374e.png)  
 
-Congratulations, you are now effortlessly earning from your deposited assets!
+Congratulations, you are now effortlessly earning from your deposited assets!  
 
-We plan to update our UI so you can track your portfolio more accurately from our website. Until then, we recommend you use https://vfat.tools/bsc/valuedefi/ portolio tracker to track your earnings.
+We plan to update our UI so you can track your portfolio more accurately from our website. Until then, we recommend you use https://vfat.tools/bsc/valuedefi/ portolio tracker to track your earnings.  

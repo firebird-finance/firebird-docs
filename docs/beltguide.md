@@ -20,6 +20,7 @@ In this guide we will show you step by step instructions on how to add liquidity
 ![belt3](img/belt3.png)
 
 7. After you confirmed transaction your Venus BLP will change
+
 ![belt4](img/belt4.png)
 
 8. Return to the bsc.valuedefi.io vSafe section and add your LPs to effortlessly earn from auto compounding interest.

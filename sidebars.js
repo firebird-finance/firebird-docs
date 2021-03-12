@@ -26,7 +26,7 @@ module.exports = {
       {
         type: "category",
         label: "Guides",
-        items: ["guides/provide-liquidity-on-value-liquid-and-farm-for-value-rewards", "binance-smart-chain", "guide-to-gvvalue-staking-on-binance-smart-chain", "vSafe-guide-on-binance-smart-chain", "guides/save-on-transaction-fees-using-the-chi-gastoken"],
+        items: ["guides/provide-liquidity-on-value-liquid-and-farm-for-value-rewards", "binance-smart-chain", "guide-to-gvvalue-staking-on-binance-smart-chain", "vSafe-guide-on-binance-smart-chain", "guides/save-on-transaction-fees-using-the-chi-gastoken", "Beltfi-guide"],
       },
       {
         type: "category",

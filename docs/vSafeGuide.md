@@ -6,103 +6,31 @@ sidebar_label: Guide on how to stake to a vSafe on Binance Smart Chain
 
 --- 
 
-In this tutorial, we’re going to walk you through the step-by-step process on how to purchase $VALUE on vSwap, stake it in vGov on Ethereum Mainnet and bridge it over to BSC to receive extra rewards. For the sake of simplicity, we will be using https://metamask.io/ as the default wallet for this tutorial.
-
-**IMPORTANT - If you wish to purchase your $gvVALUE-B tokens from vSwap directly, you may do so from https://bsc.valuedefi.io/#/vswap and jump to PART 4 directly!**
+In this guide we will give you step by step instructions on how to stake and maximize your profits using our multi strategy auto compounding vSafes. For the sake of simplicity, we will be using https://metamask.io/ as the default wallet for this tutorial.  
 
 ---
 
-#### PART 1 - PURCHASE YOUR $VALUE TOKENS
+#### SCENARIO 1 - vSafe that uses PancakeSwap as the Liquidity Pool (LP)  
 
-There are many ways to purchase $VALUE but this tutorial will focus on our decentralized exchange; vSwap.
+**INSTRUCTIONS**  
 
-**INSTRUCTIONS**
+1. Visit the Value DeFi (BSC) site - https://bsc.valuedefi.io/#/  
 
-1. Go to https://valuedefi.io/ on your web browser  
-![Guide](img/gvVALUE_1_1.png)
+2. Connect your MetaMask wallet to the site by clicking the "_Connect wallet_" button on the top-right side of your screen  
 
-2. Click the “_Value Liquid_” button on the header  
-![Guide](img/gvVALUE_1_2.png)
+3. Click the "vSafe" link on the navigation bar to access the vSafe page  
+![vsafe1](https://user-images.githubusercontent.com/78454114/110883853-b9030980-82a9-11eb-9a28-8cc8bd06f35e.png)
 
-3. Connect your MetaMask wallet to the site
+4. Select your desired vSafe  
+![vsafe4](https://user-images.githubusercontent.com/78454114/110884015-fa93b480-82a9-11eb-94fc-60cb150b5329.png)
 
-4. Select the token you would like to exchange _from_ and select $VALUE as the token you would like to exchange _to_  
-![Guide](img/gvVALUE_1_5.png)
+5. In order to stake to a vSafe, you first need to add liquidity to Liquidity Pool (LP). The principle is the same in every decentralized exchange, you add two tokens and in return you receive one LP token that represents the share of your liquidity in that pool.  
+![vsafe5](https://user-images.githubusercontent.com/78454114/110884213-5f4f0f00-82aa-11eb-99dd-e07b8670a120.png)
 
-5. Approve both tokens (one-time transaction). While cumbersome, this is a security measure in order to prevent malicious contracts from sending tokens you haven’t first authorized  
-![Guide](img/gvVALUE_1_6.png)
+6. Clicking the 'Add liquidity' link will redirect you to PancakeSwap. Once on this page, you will need to connect your wallet and add an equal amount of USD value of IOTX and BUSD (50-50 Liquidity Pool). If you don't already own the desired amount, you will have to purchase some first. You will also need to "_Approve_" both tokens and click the "_Supply_" button afterwards. Once the transaction is successful, your IOTX and BUSD balance will decrease and you will receive IOTX/BUSD liquidity pool tokens in your wallet .
+![vsafe6](https://user-images.githubusercontent.com/78454114/110884698-1e0b2f00-82ab-11eb-97be-891841209067.png)
 
-6. Click on the ‘_SWAP_’ button  
-![Guide](img/gvVALUE_1_7.png)
 
-7. Preview the transaction in the pop-up window of your MetaMask
-
-8. Confirm the transaction request in your wallet and wait for a few minutes
-
-Congratulations, you now own $VALUE tokens in your wallet!
-
-![Value Liquid homepage at valueliquid.io](img/seperator.png)
-
-#### PART 2 - OBTAIN YOUR gvVALUE TOKENS
-
-**For users who are NOT in the vGov (Governance Vault) currently**
-
-In order to obtain your gvVALUE tokens; which is the asset that will be bridged across the Ethereum Mainnet and the Binance Smart Chain (BSC) Mainnet, you will be required to stake your $VALUE tokens to the vGov (formerly known as the Governance Vault). **When you stake your $VALUE tokens to the vGov, your $VALUE will be wrapped into a new token called $gvVALUE. When you unstake your $VALUE from the vGov, your $VALUE tokens will be unwrapped from $gvVALUE. If you send your $gvVALUE to another wallet, that new wallet will be able to redeem the $VALUE tokens using the vGov."
-
-**INSTRUCTIONS**
-
-1. Go to https://valuedefi.io/governance  
-![Guide](img/gvVALUE_2_1.png)
-
-2. Click the 'Stake' button  
-![Guide](img/gvVALUE_2_2.png)
-
-3. Enter the amount you wish to stake  
-![Guide](img/gvVALUE_2_3.png)
-
-4. Approve the one-time transaction and wait a minute
-
-5. Click the 'Stake' button  
-![Guide](img/gvVALUE_2_5.png)
-
-Congratulations, your $VALUE tokens are now staked and earning profits from Value DeFi Ethereum ecosystem! As proof of ownership of your share in vGov, you should have received $gvVALUE tokens in your wallet! (refer to the paragraph above).
- 
- 
-**POPULAR QUESTIONS**
-
-_1) Can you add $gvVALUE as a custom token to your MetaMask?_
-
-Yes you can, here are the token parameters:  
-    - Token address: 0xcec03a960ea678a2b6ea350fe0dbd1807b22d875  
-    - Token symbol: gvVALUE  
-    - Token of precision: 18  
-
-_2) Why is my $gvVALUE amount lower than the amount of $VALUE that I have staked?_
-
-vGov earns 35% of swap fees from vSwap and 16% performance fees from vSafes and it is autocompounded for all vGov stakers. Your gvVALUE amount will always stay the same (unless you stake more $VALUE), but your $VALUE amount will increase over time.
-
-_3) I'm currently staking in the vGov but I don't see my $gvVALUE in my wallet, what do I need to do?_  
-
-This scenario will happen if you staked to the vGov prior to November 2020. Don't worry, your $gvVALUE are in the smart contract of the vGov and we have introduced a 'Unlock' button for you to click in order to redeem and consolidate your $gvVALUE into your wallet. If you go to the vGov page and you see the "Unlock" button, it means you have some $gvVALUE tokens to redeem! Note this is a one-time event and the button will not appear if all your $gvVALUE is already in your wallet.	
-
-![Value Liquid homepage at valueliquid.io](img/seperator.png)
- 
-#### PART 3 - BRIDGE YOUR $gvVALUE TO BSC AND RECEIVE $gvVALUE-B
-
-Now that you have your $gvVALUE tokens in your wallet, you will need to use our portal to bridge your $gvVALUE into $gvVALUE-B.  The two assets are pegged 1:1 and you may use this portal to bridge your $gvVALUE and $gvVALUE-B back-and-forth as needed.
-
-**INSTRUCTIONS**
-
-1. Visit the Bridge page here - https://valuedefi.io/bridge  
-![Guide](img/gvVALUE_3_1_.png)
-
-2. Define the quantity of gvVALUE you wish to bridge over to BSC ($gvVALUE-B)  
-![Guide](img/gvVALUE_3_2_.png)
-
-3. Approve the one-time transaction  
-
-4. Click the 'Swap' button and approve the transaction on MetaMask  
-![Guide](img/gvVALUE_3_4_.png)
 
 Congratulations! Your $gvVALUE-B tokens were transfered to your wallet on the BSC network (this might take a while as this currently is a manual process done by the team).
 

@@ -25,7 +25,7 @@ There will be a bridge from ETH to BSC to move gvVALUE and vUSD over.
 
 **3) What is the purpose of the “Unlock” button on the vGov page? What does it do? How often do I need to execute it? How do I know whether or not I need to click it?**
 
-Prior to auto compound upgrade of vGov in November 2020, all gvVALUE was locked in vGov contract, post upgrade it returned back to wallet. All users who deposited prior to it now have the option to transfer gvVALUE to their wallet at relatively cheap gas cost (depending on ETH network congestion). It is one time action that is available only to users who have their gvVALUE locked in contract.
+Prior to auto-compound upgrade of vGov in November 2020, all gvVALUE was locked in vGov contract. After the upgrade, it returned back to wallet. All users who deposited prior to it now have the option to transfer gvVALUE to their wallet at relatively cheap gas cost (depending on ETH network congestion). It is one time action that is available only to users who have their gvVALUE locked in contract.
 
 
 

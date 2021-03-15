@@ -10,11 +10,11 @@ sidebar_label: vTokens
 
 **Introducing vTokens**
 
-Users will now be able to move **vUSD, vBTC and vDOT** cross-chain in a decentralized manner, governed by VALUE holders.
+Users will now be able to move **vUSD, vBTC and vDOT** cross-chain in a decentralized manner, the process of which is governed by VALUE holders.
 
 Value DeFi will become a viable option for **users to exchange BTC and DOT with other ERC-20 tokens without going through a centralized exchange.** Our vToken technology has been intentionally designed to be interchangeable as we **plan to launch other vTokens to additional cross-chain partners/projects.**
 
-After the successful launch of the first wave of vTokens, we will begin building our new decentralized lending platform — Value Lending. Accepting vUSD, vBTC, vDOT, ESD and BAC as a new class of seigniorage tokens. 
+After the successful launch of the first wave of vTokens, we will begin building our new decentralized lending platform — Value Lending. Value Lending will accept vUSD, vBTC, vDOT, ESD and BAC as a new class of seigniorage tokens. 
 
 Value Lending article: https://valuedefi.medium.com/elastic-decentralized-loans-powered-by-chainlink-479c137866c8
 
@@ -24,7 +24,7 @@ vTokens Whitepaper: https://valuedefi.io/static/media/vTokens_v1.0.21994c66.pdf
 
 **Seigniorage — The Basics**
 
-The core mechanics of seigniorage tokens is expansion and contraction. The algorithm used to calculate this rate is highly complex, but the result is quite simple and uses basic laws of economics. When a **vToken is worth more than its peg** (ie. vUSD > $1), the protocol is in **expansion** and vUSD will be minted. As increasing the supply causes inflation, theoretically reducing the price by increasing selling pressure. When a **vToken is worth less than its peg** (ie. 1 vBTC < 1 BTC), the system goes into a **contraction** **phase** and users can burn vBTC for vBTC coupons at a premium. Working as the perfect opposite to expansion, as this theoretically increases the price through deflation by increasing demand.
+The core mechanics of seigniorage tokens is expansion and contraction. The algorithm used to calculate this rate is highly complex, but the result is quite simple and uses basic laws of economics. When a **vToken is worth more than its peg** (ie. vUSD > $1), the protocol is in **expansion** and vUSD will be minted. As increasing the supply causes inflation, the price can be theoretically reduced by increasing selling pressure. When a **vToken is worth less than its peg** (ie. 1 vBTC < 1 BTC), the system goes into a **contraction** **phase** and users can burn vBTC for vBTC coupons at a premium. Working as the perfect opposite to expansion, contraction theoretically increases the price through deflation by increasing demand.
  
 **Introducing the Price Peg Mechanism**
 
@@ -32,11 +32,11 @@ What sets our vTokens above current algorithm tokens is our innovative features.
 
 **First**, we use two liquidity pools, 80/20 and 98/2 with the higher weight being that of the pegged asset. This in turn requires less capital of the secondary asset to maintain the price peg.
 
-**Second**, we have introduced dynamic expansion based on the current liquidity of the pools used for the calculations of the current price of the pegged asset to avoid excessive expansion which is the major problem for all other algorithmic stablecoin protocols.
+**Second**, we have introduced dynamic expansion based on the current liquidity of the pools, which is used to calculate the current price of the pegged asset to avoid excessive expansion, a major problem for other algorithmic stablecoin protocols.
 
-**Third**, we allow for dynamic epoch length, depending if the protocol is in a contraction or expansion phase, which allows the protocol to stay longer at healthy market condition (expansion) and reacts faster at bad market condition (contraction).
+**Third**, dynamic epoch length is available, which allows the protocol to stay longer at healthy market condition (expansion) and reacts faster to bad market condition (contraction).
 
-**Finally**, during a contraction phase, when a vToken is burned for a coupon, 5% of the burned vToken is redirected as a yield to those providing liquidity as an additional incentive to keep their liquidity in the pool during the contraction phase.
+**Finally**, during a contraction phase, when a vToken is burned for a coupon, 5% of the burned vToken is redirected as a yield to those providing liquidity as an additional incentive to keep their liquidity in the pool.
 
 ![enter image description here](https://miro.medium.com/max/700/1*a81g73R8alhkV0TL9CPsng.png)
 
@@ -46,7 +46,7 @@ Using the 4-stage mechanism stated above, the ultimate goal is to have vUSD clos
 
 **Old vUSD to New vUSD**
 
-Old vUSD users much migrate their vUSD to ‘New vUSD’ using our migration contract. Link here: New vUSD will be used with vTokens and Value Lending.
+Old vUSD users must migrate their vUSD to ‘New vUSD’ using our migration contract. Link here: New vUSD will be used with vTokens and Value Lending.
 
 > The deadline for the migration is 30-June-2021.
 
@@ -54,7 +54,7 @@ Old vUSD users much migrate their vUSD to ‘New vUSD’ using our migration con
 
 Using ChainLink’s price oracle for ETH/USD, we can accurately calculate the vUSD price from two pools. We have chosen **vUSD/WETH 80/20** and **vUSD/WETH 98/2** as two pools to stabilize the vUSD to USD peg.
 
-vUSD will have its **‘bootstrapping period’** for the **first week** (14 epochs). During the bootstrapping period, vUSD’s price oracle will be set to $1.20 USD (regardless of true market price) so the protocol is in constant and stable expansion. After this period the protocol will work as intended, using ChainLink’s oracle for true market price with contraction and expansion when necessary.
+vUSD will have its **‘bootstrapping period’** for the **first week** (14 epochs). During the bootstrapping period, vUSD’s price oracle will be set to $1.20 USD (regardless of true market price) so the protocol is in constant and stable expansion. After this period, the protocol will work as intended, using ChainLink’s oracle for true market price with contraction and expansion when necessary.
 To reward and incentivize liquidity providers during expansion:
 **35% of minted vUSD** will go to the **80/20 vUSD/WETH** pool.
 
@@ -68,7 +68,7 @@ And **5% of minted vUSD in expansion goes to a Reserve Fund, which automatically
 
 **vBTC — First seigniorage synthetic BTC on Ethereum and Polkadot**
 
-Building further on our work with vUSD and existing experimentation on the seigniorage concept, we can create synthetic assets that do not exist before on the Ethereum network in a decentralized manner. As such, we are proud to present vBTC, an alternative BTC synthetic on the Ethereum network without a centralized approach like WBTC or renBTC.
+Building further on our work with vUSD and existing experimentation on the seigniorage concept, we can create synthetic assets that have not existed before on the Ethereum network in a decentralized manner. As such, we are proud to present vBTC, an alternative BTC synthetic on the Ethereum network without a centralized approach like WBTC or renBTC.
 
 **vETH to vBTC**
 

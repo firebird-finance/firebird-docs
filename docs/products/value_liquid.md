@@ -15,15 +15,15 @@ vSwap is Value DeFi's highly-competitive exchange (automated market maker) that 
 ![Separator](../img/seperator.png)
 
 **KEY FEATURES**  
-1. Allows users to swap assets for other assets  
+1. Allowing users to swap assets  
 2. Smart routing
-3. Unique feature that allows for vSwap to use routing to other exchanges and use their liquidity
-4. vSwap supports vPegSwap, is a Solidity implementation of Curve’s StableSwap that is considered as a fully automated market maker for tightly pegged assets or stablecoins.
-5. Users can provide liquidity in a pool to enjoy swap fees  
-6. Participate in vFarms  
-7. Use the idle deposited funds to provide liquidity providers the most lucrative ROI (future integration planned)
+3. Unique feature that allows vSwap to connect with other exchanges and use their liquidity
+4. Supporting vPegSwap, a Solidity implementation of Curve’s StableSwap, which is considered a fully automated market maker for tightly pegged assets or stablecoins.
+5. Providing liquidity to a pool in exchange for preferential swap fees 
+6. Participation in vFarms
+7. Using idle deposited funds funds to provide liquidity providers the most lucrative ROI (future integration planned)
 
-vSwap has the ability to launch pools, and swap most tokens with reduced liquidity by ‘borrowing’ from other Dex’s such as Uniswap, SushiSwap and PancakeSwap. vSwap is automated market maker (decentralized exchange) that uses smart routing to provide its users with best exchange ratio on the market, offering minimal slippage and price impact.   
+vSwap has the ability to launch pools, and swap most tokens with lower liquidity by ‘borrowing’ from other Dex’s such as Uniswap, SushiSwap and PancakeSwap. vSwap is an automated market maker (decentralized exchange) that uses smart routing to provide its users with the best exchange rate on the market, offering minimal slippage and price impact.   
 
 ![vSwap 64bfbd4c](https://user-images.githubusercontent.com/78454114/109451770-cbf91c80-7a13-11eb-9a55-92b0fada08b3.png)  
 

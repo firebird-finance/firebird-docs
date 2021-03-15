@@ -14,7 +14,7 @@ In this tutorial, we’re going to walk you through the step-by-step process on 
 
 #### PART 1 - PURCHASE YOUR $VALUE TOKENS
 
-There are many ways to purchase $VALUE but this tutorial will focus on our decentralized exchange; vSwap.
+There are many ways to purchase $VALUE but this tutorial will focus on our decentralized exchange vSwap.
 
 **INSTRUCTIONS**
 
@@ -47,7 +47,7 @@ Congratulations, you now own $VALUE tokens in your wallet!
 
 **For users who are NOT in the vGov (Governance Vault) currently**
 
-In order to obtain your gvVALUE tokens; which is the asset that will be bridged across the Ethereum Mainnet and the Binance Smart Chain (BSC) Mainnet, you will be required to stake your $VALUE tokens to the vGov (formerly known as the Governance Vault). **When you stake your $VALUE tokens to the vGov, your $VALUE will be wrapped into a new token called $gvVALUE. When you unstake your $VALUE from the vGov, your $VALUE tokens will be unwrapped from $gvVALUE. If you send your $gvVALUE to another wallet, that new wallet will be able to redeem the $VALUE tokens using the vGov."
+In order to obtain your gvVALUE tokens which is the asset that will be bridged across the Ethereum Mainnet and the Binance Smart Chain (BSC) Mainnet, you will be required to stake your $VALUE tokens to the vGov (formerly known as the Governance Vault). **When you stake your $VALUE tokens to the vGov, your $VALUE will be wrapped into a new token called $gvVALUE. When you unstake your $VALUE from the vGov, your $VALUE tokens will be unwrapped from $gvVALUE. If you send your $gvVALUE to another wallet, that new wallet will be able to redeem the $VALUE tokens using the vGov."
 
 **INSTRUCTIONS**
 
@@ -114,7 +114,7 @@ Congratulations! Your $gvVALUE-B tokens were transfered to your wallet on the BS
 
 In order to stake in this pool, you need to have 98% of US dollar equivalent in $gvVALUE-B and 2% of US dollar equivalent in $BUSD.  You can preview your required amount by using staking UI and selecting the 'MAX' button (the required $BUSD amount will be be displayed automatically). You can use vSwap to buy more $BUSD as necessary ($BUSD is Binance's stablecoin).
 
-**Note: In order to receive autocompounding rewards you should deposit in 98/2 gvVALUE-b/BUSD vSafe, steps are the same, add liquidity in pool and stake in vSafe**
+**Note: In order to receive auto-compounding rewards you should deposit in 98/2 gvVALUE-b/BUSD vSafe, steps are the same, add liquidity in pool and stake in vSafe**
 
 1. Make sure the selected network on your MetaMask wallet is set to _Binance Smart Chain (BSC)_  
 ![Guide](img/gvVALUE_4_1.png)

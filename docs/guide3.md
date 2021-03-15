@@ -12,12 +12,12 @@ Provide liquidity on vSwap
 
 When you provide liquidity on vSwap, you will receive VLP tokens. Additionally, you can then use your VLP tokens to farm for Value Rewards.
 
-**Lets provide some liquidity and get vSwap pool \(VLP\) tokens**
+**Let’s provide some liquidity and get vSwap pool \(VLP\) tokens**
 
 1. Go to [https://valuedefi.io/](https://valuedefi.io) and select the pool you want to farm in:
 ![Guide](img/g2-1.png)
 
-For this tutorial I’m going to provide liquidity for DAI/Value, for this I will receive VLP tokens. I can also use these tokens to farm Value.
+For this tutorial I’m going to provide liquidity for DAI/Value and receive VLP tokens. I can also use these tokens to farm Value.
 
 2. You’ll see an icon to create a VLT for your selected pool. Click this to go to vSwap to create the token.  
 ![Guide](img/g2-2.png)
@@ -58,7 +58,7 @@ _**Note:** Steps 3-7 are only required if your wallet has never provided liquidi
 13. Confirm the transaction in your wallet:
 ![Guide](img/g2-13.png)
 
-14. Thats it….once your transaction is confirmed, if you refresh the page, at the bottom you should see the liquidity you have provided and the number of VLPs received.:
+14. That’s it….once your transaction is confirmed, if you refresh the page, at the bottom you should see the liquidity you have provided and the number of VLPs received.:
 ![Guide](img/g2-14.png)
 
 I’ve received 5.85 VLP tokens for the Value/DAI pool.

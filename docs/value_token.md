@@ -7,11 +7,11 @@ sidebar_label: VALUE
 ---
 
 
-**What are the benefits of holding the Value token?**
+**What are the benefits of holding the VALUE token?**
 
-The VALUE token allows holders to stake their VALUE into the [vGovernance](../products/governance-vault). This allows participation in making governance decisions, expressed by the holders through voting.  This includes voting on strategies and their parameters, token emission schedules and sharing of the profits made by the platform.
+Holders can stake their VALUE tokens into the [vGovernance](../products/governance-vault) and participate in making governance decisions through voting. This includes voting on strategies and their parameters, token emission schedules and sharing of the profits made by the platform.
 
-Next to allowing participation by voting, holders who have put their Value in the [vGovernance](../products/governance-vault) currently receive 14% of the profit made by Value Vaults and 35% of the swap fees made from trades on [vSwap](../products/value-liquid). These percentages are susceptible to changes from Governance voting. 
+Besides holders who have put their VALUE in the [vGovernance](../products/governance-vault) currently receive 14% of the profit made by Value Vaults and 35% of the swap fees made from trades on [vSwap](../products/value-liquid). These percentages are subjected to changes from Governance voting. 
 
 
 ![Separator](img/seperator.png)

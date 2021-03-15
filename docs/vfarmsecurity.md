@@ -1,5 +1,5 @@
 ---
-id: vFarmsecurity
+id: vFarm-security
 title: vFarm security
 sidebar_label: vFarm security
 ---

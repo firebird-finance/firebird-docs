@@ -4,7 +4,7 @@ title: Save on Transaction Fees using the Chi Gastoken
 sidebar_label: Save on Transaction Fees using the Chi Gastoken
 
 ---
-**How to use Chi gastokens on ValueLiquid:**
+**How to use Chi gastokens on Value Liquid:**
 
 1. Mint Chi Gastokens from [Valueliquid.io](http://valueliquid.io) (or buy the token from [1inch.exchange](http://1inch.exchange) directly)
 

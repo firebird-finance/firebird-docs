@@ -1,7 +1,7 @@
 ---
 id: binance-smart-chain
-title: Binance Smart Chain - Setting up Metamask wallet
-sidebar_label: Binance Smart Chain - Setting up Metamask wallet
+title: Setting up Metamask wallet
+sidebar_label: Setting up Metamask wallet
 ---
 
 
@@ -16,6 +16,10 @@ If you don't already have Metamask wallet installed you can visit [browser exten
 Click import wallet if you have an existing wallet.
 
 If creating new wallet, set up your password and write down and store your seed phrase somewhere safe.
+
+*Note: recent update automatically adds BSC network settings to your Metamask wallet as soon as you click connect wallet*
+
+![MetaMaskauto1](img/Metamaskauto1.png)
 
 Next step is adding BSC network, in order to do it, click on Settings -> Networks -> Add network
 

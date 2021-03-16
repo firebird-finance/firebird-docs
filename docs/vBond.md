@@ -7,10 +7,9 @@ sidebar_label: vBOND
 
 
 ---
-<div style={{textAlign: 'center'}}>
 
-![vbondlogo](img/VBOND_LOGO.png)
-
+<div class="text--center">
+  <img src="img/VBOND_LOGO.png" />
 </div>
 
 IOU tokens - vBONDs were issued as part of a compensation plan for affected parties post November 14th exploit. 

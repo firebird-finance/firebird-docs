@@ -7,7 +7,11 @@ sidebar_label: vBOND
 
 
 ---
+<div style={{textAlign: 'center'}}>
+
 ![vbondlogo](img/VBOND_LOGO.png)
+
+</div>
 
 IOU tokens - vBONDs were issued as part of a compensation plan for affected parties post November 14th exploit. 
 vBONDs auto-accrues 10% APY using rebasing technology which means that the rebasing factor is fixed at 0.183% every week. 

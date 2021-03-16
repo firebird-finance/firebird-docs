@@ -27,13 +27,21 @@ module.exports = {
         type: "category",
         label: "Guides",
         items: [
+          {
+            ETH: [
           "guides/provide-liquidity-on-value-liquid-and-farm-for-value-rewards",
-          "guides/save-on-transaction-fees-using-the-chi-gastoken",
+          "guides/save-on-transaction-fees-using-the-chi-gastoken"
+              ],
+            },
+          {
+            BSC: [   
           "binance-smart-chain",
           "guide-to-gvvalue-staking-on-binance-smart-chain",
           "vSafe-guide-on-binance-smart-chain",
           "vFarm-security",
           "Beltfi-guide"
+              ],
+             },
         ],
       },
       {

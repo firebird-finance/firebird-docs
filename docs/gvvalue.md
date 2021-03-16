@@ -4,11 +4,11 @@ title: gvVALUE
 sidebar_label: gvVALUE
 ---
 
-
+---
 Once VALUE token is staked in vGovernance it accrues and auto-compounds a portion of fees from ValueDeFi Ethereum ecosystem.
 It also allows vGovernance stakers to vote on all relevant matters related to Value DeFi protocol.
 Users that stake their VALUE in vGovernance can bridge their gvVALUE tokens over to Binance Smart Chain for even more benefits.
-
+![Separator](img/seperator.png)
 
 To add gvVALUE to your wallet on Metamask ETH network use following details
 
@@ -18,6 +18,7 @@ Token Symbol: gvVALUE
 
 Token of Precision: 18
 
+![Separator](img/seperator.png)
 
 To add gvVALUE-b to your wallet on Metamask BSC network use following details
 

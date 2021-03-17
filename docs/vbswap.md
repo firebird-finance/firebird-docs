@@ -9,7 +9,7 @@ sidebar_label: vBSWAP
 ![vbswap](img/vbswap2.png)
 
 **INTRODUCTION**  
-vBSWAP is a new deflationary farming token on Binance Smart Chain (BSC) for the Value DeFi ecosystem. vBSWAP has been built and deployed on BSC with a 100K Total Supply distributed over 2 years of farming. Emissions will reduce by 10% every 4 weeks. Additionally, 100% profit from vSafe, vSwap and vPegSwap trading fees on BSC will be used to buy back vBSWAP to be burned, reducing the total supply overtime.
+vBSWAP is a new token on Binance Smart Chain (BSC) for the Value DeFi ecosystem created to serve as profitshare/incentive token. vBSWAP has been built and deployed on BSC with a 100K Total Supply distributed over 2 years of farming. Emissions will reduce by 10% every 4 weeks.
 
 ![enter image description here](https://miro.medium.com/max/700/1*a81g73R8alhkV0TL9CPsng.png)  
   
@@ -18,11 +18,11 @@ vBSWAP is a new deflationary farming token on Binance Smart Chain (BSC) for the 
 
   - _DISTRIBUTION_:  
       - The tokens will be distributed over a period of 2 years and its emission will be reduced by 10% every 4 weeks (refer to the schedule below)  
-      - 20% of emission goes to the _Reserve Fund_ contract for distribution to marketing, community, and giveaways  
+      - 20% of emission goes to the _Reserve Fund_ contract for distribution to community, marketing and giveaways  
       - None of the tokens are allocated the _Dev Fund_  
 
-  - _BUY BACK, BURN and FEES_:  
-      - 100% of fees collected on the Value DeFi BSC ecosystem will go to buy back vBSWAP and the tokens will be burnt automatically.    
+  - _BUY BACK_:  
+      - 100% of fees collected on the Value DeFi BSC ecosystem will go to vBSWAP stakers at vStake    
       - 50% of swap fees from vSwap (swap fees are setable by pool creator at vSwap, not fixed)  
       - 50% of swap fees from vPegSwap  
       - All performance fees (typically 6%) from vSafe  

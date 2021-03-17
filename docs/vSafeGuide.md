@@ -37,4 +37,14 @@ For this example, we will use the IOTX/BUSD vSafe (50%-50% liquidity pool).
 
 Congratulations, you are now effortlessly earning from your deposited assets!  
 
+Certain vSafes, such as BUSD, BTC-BNB, CAKE, CAKE-BNB and WBNB have additional rewards for users who choose to stake their vSafe shares
+
+Simply click "Deposit and stake" and with one click enjoy the benefits of double earning with single asset
+
+![vsafe9](img/vSafe8.png)
+
+You can check your staked shares by clicking on "Stake your shares" button which will lead you to your vFarm UI where you can see your vBSWAP rewards accruing
+
+![vsafe10](img/vSafe9.png)
+
 We plan to update our UI so you can track your portfolio more accurately from our website. Until then, we recommend you use https://vfat.tools/bsc/valuedefi/ portolio tracker to track your earnings.  

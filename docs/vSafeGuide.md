@@ -1,7 +1,7 @@
 ---
 id: vSafe-guide-on-binance-smart-chain
 title: Guide on how to stake to a vSafe on Binance Smart Chain
-sidebar_label: Guide on how to stake to a vSafe on Binance Smart Chain
+sidebar_label: Stake in a vSafe
 ---
 
 In this guide we will give you step by step instructions on how to stake and maximize your profits using our multi strategy auto compounding vSafes. For the sake of simplicity, we will be using https://metamask.io/ as the default wallet for this tutorial.  

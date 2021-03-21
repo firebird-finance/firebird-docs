@@ -1,7 +1,7 @@
 ---
 id: farms-as-a-service
-title: Farms-as-a-Service
-sidebar_label: Farms-as-a-Service
+title: vFarms and Farms-as-a-Service
+sidebar_label: vFarms and Farms-as-a-Service
 ---
 
 ---
@@ -12,9 +12,9 @@ sidebar_label: Farms-as-a-Service
 
 In line with our mission to make DeFi accessible for everyone, we created FaaS to allow new projects to easily deploy their contracts instead of having to spend time on forking and deploying the associated contracts.  
   
-With Value Liquid’s Farming Pool Creation, teams can now create the desired liquidity pools and pairs along with flexible ratios, customizable fees, and token contract minter approval for the Liquidity Pool only with a few clicks. An example would be a pool with USDC/New token 67/23 ratio with a 0.60% swap fee that has token minting per block like Sushiswap.
+With vSwap’s farming pool creation, teams can now create the desired liquidity pools and pairs along with flexible ratios, customizable fees, and token contract minter approval for the liquidity pool (LP) only with a few clicks. An example would be a pool with USDC/New token 67/23 ratio with a 0.60% swap fee that has token minting per block like Sushiswap.
 
-This service is free and allows anyone to bootstrap their new projects, making them more accessible. With the FaaS Smart Contract common rugpull methods are prevented as there are no backdoors implemented in these Smart Contracts by the Value DeFi team. To make the platform self-service, the Value DeFi community is empowered to review new pools and decide whether or not the projects in those pools are deemed trustworthy.
+This service allows anyone to bootstrap their new projects, making them more accessible. With the FaaS Smart Contract common rugpull methods are prevented as there are no backdoors implemented in these Smart Contracts by the Value DeFi team. To make the platform self-service, the Value DeFi community is empowered to review new pools and decide whether or not the projects in those pools are deemed trustworthy.
 
 With our new FaaS technology, liquidity providers for these projects will automatically receive the farming token after providing their liquidity at the Farming Pool. Gone are the times when you had to put your Liquidity into a pool that potentially used the Smart Contract with an implemented backdoor, which could lead to a rugpull scam.
 

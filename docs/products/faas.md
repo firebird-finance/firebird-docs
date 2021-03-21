@@ -45,7 +45,10 @@ Key benefits:
 The platform supports all kinds of reward mechanisms, be them simple or customized to complexity. While customized reward mechanisms are supported, some integration code will be required.  Visit our GitHub for more information.
 
 **4\) Is there a cost associated with the creation of a FaaS pool?**  
-There is no fee associated with the creation of a FaaS pool other than the network gas fee to get it setup on the blockchain. Please note the creation of a vFarm is complex in the backend so the fees associated with the creation of a pool is approximately ~0.6 ETH (subject to change based on the ETH network congestion status).
+On BSC, there is a 100 gvVALUE-B fee to create a vFarm on the platform. This being said, the fee will be reimburse if your vFarm meets the 3 conditions below: 
+1) The vFarm must use the LP from vSwap
+2) The vFarm must obtain $100K or greater in TVL
+3) The vFarm must be verified by the FaaS Council. 
 
 **5) I’m ready to move forward and create my first FaaS pool… what do I need to do?**
 

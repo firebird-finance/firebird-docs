@@ -7,6 +7,7 @@ sidebar_label: Blue Swap vFARM AMA (Official Discord)
 https://discord.gg/yqUZVhV5W4
 
 ---
+![](../img/Blueswap1.png)
 
 ### vMarco Polo (Value DeFi)
 Hey there everyone! The AMA with the blueswap.finance team will start in 5 minutes from now! We hope to see you soon... $250 in giveaways will be distributed to the best questions!
@@ -32,7 +33,7 @@ Hey there everyone, let's get started with the AMA!
 ### palette (Blue Swap)
 Yeap let's go!
 
-###vMarco Polo (Value DeFi)
+### vMarco Polo (Value DeFi)
 Two quick rules: 
 1) Only the mods and our guests can type for now. We will proceed with a few questions and then we will open things up to everyone! You are free to use emojis to questions/answers for now!
 2) The individuals who ask the best 5 questions will be receiving $50 in blueswap rewards. Winners will be selected in 24 hours from now at the latest.

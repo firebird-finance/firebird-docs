@@ -52,7 +52,7 @@ module.exports = {
       {
         type: "category",
         label: "AMA",
-        items: ["ama/arto-vfarm-ama"],
+        items: ["ama/arto-vfarm-ama", "ama/blueswap-vfarm-ama"],
       },
     ],
       "Social Media": [

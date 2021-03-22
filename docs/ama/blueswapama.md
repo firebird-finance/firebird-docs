@@ -2,14 +2,17 @@
 id: blueswap-vfarm-ama
 title: Blue Swap vFarm AMA (Official Discord)
 sidebar_label: Blue Swap vFARM AMA (Official Discord)
+
+---
+
 ---
 
 https://discord.gg/yqUZVhV5W4
 
 ---
+
 ![](../img/Blueswap1.png)
 
----
 ### vMarco Polo (Value DeFi)
 Hey there everyone! The AMA with the blueswap.finance team will start in 5 minutes from now! We hope to see you soon... $250 in giveaways will be distributed to the best questions!
 
@@ -312,7 +315,4 @@ Have a great morning, afternoon and evening everyone; thank you
 
 ### palette (Blue Swap)
 Thank you!
-
----
-
 

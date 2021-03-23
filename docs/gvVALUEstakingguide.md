@@ -159,3 +159,5 @@ In order to unstake and remove liquidity from vFarm and pool follow these steps
 7. Select your Pool
 8. Click withdraw
 9. Approve and remove your LP tokens
+
+<iframe width="100%" height="422" src="https://www.youtube.com/embed/Hqynd89HnWk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

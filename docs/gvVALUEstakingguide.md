@@ -9,7 +9,8 @@ sidebar_label: gvVALUE staking on Binance Smart Chain
 In this tutorial, we’re going to walk you through the step-by-step process on how to purchase $VALUE on vSwap, stake it in vGov on Ethereum Mainnet and bridge it over to BSC to receive extra rewards. For the sake of simplicity, we will be using https://metamask.io/ as the default wallet for this tutorial.
 
 **IMPORTANT - If you wish to purchase your $gvVALUE-B tokens from vSwap directly, you may do so from https://bsc.valuedefi.io/#/vswap and jump to PART 4 directly!**
-**THERE IS INSTRUCTIONAL VIDEO AT BOTTOM OF THE PAGE!**
+
+**There is instructional video at the bottom of the page!**
 
 ---
 

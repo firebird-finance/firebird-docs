@@ -32,6 +32,8 @@ vBSWAP is a new token on Binance Smart Chain (BSC) for the Value DeFi ecosystem 
 
 ![enter image description here](https://miro.medium.com/max/700/1*a81g73R8alhkV0TL9CPsng.png)  
 
+<iframe width="100%" height="422" src="https://www.youtube.com/embed/Y1q0AaosfFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **TOKEN DETAILS**  
   - Network: Binance Smart Chain (BSC)  
   - Ticker: vBSWAP  

@@ -20,7 +20,7 @@ Let's take the screenshot below as an example:
 
 ![1](https://user-images.githubusercontent.com/78454114/112706767-78dc8300-8e74-11eb-9edd-5738691ae443.png)  
 
-The project that created the vFarm (the owner) gets to define the block number that will be used by the pool to issue the vesting. By clicking the block number on the user-interface (here, 6675734), your browser will take you to BscScan.com block countdown page where you can see the approximate time left until that block will get reached.  
+The project that created the vFarm (the owner) gets to define the block number that will be used by the pool to issue the vesting. By clicking the block number on the user-interface (here, 6675734), your browser will take you to BscScan.com block countdown page where you can see the approximate time left until that block will be reached.  
 
 ![2](https://user-images.githubusercontent.com/78454114/112706804-ad503f00-8e74-11eb-8e8d-7ecd5aab163f.png)  
 

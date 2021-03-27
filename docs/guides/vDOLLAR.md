@@ -14,6 +14,7 @@ The term **metapool** is used for pools that allow for single asset deposits int
 
 _vDOLLAR: A ‘4pool’ Metapool_
 
+![separator](../img/seperator.png)
 ### Depositing
 
 To obtain vDOLLAR, users simply deposit any of the 4 tokens (can be single or multiple tokens at once) into the metapool to receive vDOLLAR at almost 1:1 ratio. 
@@ -23,6 +24,7 @@ There is a small deduction for slippage + fees, approximately 0.04%.
 
 _Adding liquidity to vDOLLAR_
 
+![separator](../img/seperator.png)
 ### Withdrawing
 To withdraw the liquidity and get your stablecoin(s) back to your wallet, simply click the *Remove liquidity* link. 
 Users are free to choose how they withdraw their liquidity, either into any singular token of the four stablecoins or a combination of the four, regardless of their deposit.

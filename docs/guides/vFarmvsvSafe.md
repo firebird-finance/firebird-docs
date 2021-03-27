@@ -32,13 +32,13 @@ So in a graphic way it would look like this:
 ![4](https://user-images.githubusercontent.com/78454114/112706813-c5c05980-8e74-11eb-9db7-ab6a43e8d974.png)  
 
 
-**vSafe Summary**  
+**What is a vSafe?**  
 
-vSafe is cutting edge yield aggregator that is able to use multiple strategies to maximise profits to its users while giving auto compound benefits as well. In simpler terms, a vSafe will search for the best farming targets, deposit your investment, trade farming rewards for deposited tokens and re-invest automatically.
+A vSafe is cutting edge yield aggregator that is able to use multiple strategies to maximise profits to its users while giving auto compound benefits as well. In simpler terms, a vSafe will search for the best farming targets, deposit your investment, trade farming rewards for deposited tokens and re-invest automatically.
 
 What happens if a strategy has a farming target that has rewards vested?
 
-In order for vSafe to work properly, users send their capital to vSafe smart contract so that it has the full liberty to use it, which makes reinvesting, changing strategy and hourly auto-compounding possible. Users are giving their vested reward rights to vSafe to freely distribute and are not tied to users address like in case of vFarm, but to vSafe address. As rewards get released vSafe will regularly call harvest function, sell rewards and distribute them to users who are in vSafe at that moment, whether or not they “earned” those rewards by being early vSafe depositors. This means that locked rewards are not earmarked to each depositor. All past locked rewards are distributed proportionally to current vSafe participants during the linear vesting period.  
+In order for a vSafe to work properly, users send their capital to the vSafe smart contract so that it has the full liberty to use it, which makes reinvesting, changing strategy and hourly auto-compounding possible. Users are giving their vested reward rights to vSafe to freely distribute and are not tied to users address like in case of vFarm, but to vSafe address. As rewards get released vSafe will regularly call harvest function, sell rewards and distribute them to users who are in vSafe at that moment, whether or not they “earned” those rewards by being early vSafe depositors. This means that locked rewards are not earmarked to each depositor. All past locked rewards are distributed proportionally to current vSafe participants during the linear vesting period.  
 ![5](https://user-images.githubusercontent.com/78454114/112706830-e4beeb80-8e74-11eb-88de-aa3154b08e02.png)
 
 vSafe calculates it APY/daily apy using data from its farming target, so even though it is correct as yearly calculation, daily apy is in fact 3/10ths of what it displays due to 30% of rewards being released instantly while 70% being released over a period of 90 days.  

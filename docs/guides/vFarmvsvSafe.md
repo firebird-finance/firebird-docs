@@ -6,9 +6,7 @@ sidebar_label: vFarmvsvSafe
 
 **OVERVIEW**  
 
-In order to maximize your investment, it is important for you to understand the difference between Value DeFi's vFarms and a vSafes.  While they both yield generous rewards, they both hold unique and interesting features and we will cover each one of those in this guide.
-
-Happy learning and enjoy!  
+In order to maximize your investment, it is important for you to understand the difference between Value DeFi's vFarms and a vSafes.  While they both yield generous rewards, they both hold unique and interesting features and we will cover each one of those in this guide; enjoy!  
 
 ![Separator](../img/seperator.png)
 

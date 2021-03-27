@@ -24,9 +24,9 @@ The project that created the vFarm (the owner) gets to define the block number t
 
 ![2](https://user-images.githubusercontent.com/78454114/112706804-ad503f00-8e74-11eb-8e8d-7ecd5aab163f.png)  
 
-It is also block number where 70 % of rewards will start to get linearly released.  
+It is also block number where 70% of rewards will start to get linearly released.  
 
-The second block will show when 70 % of rewards stop being released. 
+The second block will show when 70% of rewards stop being released. 
 
 ![3](https://user-images.githubusercontent.com/78454114/112706808-ba6d2e00-8e74-11eb-98cd-2b53b355d21b.png)  
 
@@ -36,6 +36,7 @@ So in a graphic way it would look like this:
 
 ![4](https://user-images.githubusercontent.com/78454114/112706813-c5c05980-8e74-11eb-9db7-ab6a43e8d974.png)  
 
+![Separator](../img/seperator.png)
 
 **What is a vSafe?**  
 
@@ -56,6 +57,8 @@ To check if vSafe is utilizing vested strategy you can click on the Running stra
 There you will see reward vesting details.   
 
 It is also important to know that due to the specific mechanism of vSafe, you will need to remain in vSafe for the entire rewards release duration to receive maximum benefits (in this case full 120 days).  
+
+![Separator](../img/seperator.png)
 
 **GETTING STARTED**  
 - BSC: https://bsc.valuedefi.io/#/vsafe

@@ -38,7 +38,8 @@ The Curve.fi model uses a more complex algorithm called the **StableSwap invaria
 Using this algorithm results in a price curve that is flatter around the optimal peg range.
 This means that large trades will have a much smaller impact when made around the peg, which is exactly what algo-stables need.
 
-![vpegswap](../img/vPegSwap.png)
+![vpegswap](../img/vPegSwap2.png)
+
 **Example use case: Uniswap invariant (dashed line) vs Stableswap invariant (solid line)**
 
 

@@ -11,8 +11,7 @@ vDOLLAR is Value DeFi’s ‘4pool’ Metapool which is a modified implementatio
 The term **metapool** is used for pools that allow for single asset deposits into a pool with multiple tokens.
 
 ![vDOLLAR](../img/vDOLLAR1.png)
-
-vDOLLAR: A ‘4pool’ Metapool
+_vDOLLAR: A ‘4pool’ Metapool_
 
 ### Depositing
 
@@ -20,15 +19,15 @@ To obtain vDOLLAR, users simply deposit any of the 4 tokens (can be single or mu
 There is a small deduction for slippage + fees, approximately 0.04%.
 
 ![vDOLLAR](../img/vDOLLAR2.png)
-Adding liquidity to vDOLLAR
+_Adding liquidity to vDOLLAR_
 
 ### Withdrawing
 To withdraw the liquidity and get your stablecoin(s) back to your wallet, simply click the *Remove liquidity* link. 
 Users are free to choose how they withdraw their liquidity, either into any singular token of the four stablecoins or a combination of the four, regardless of their deposit.
 
 ![vDOLLAR](../img/vDOLLAR3.png)
+_Left: Combination Withdrawal | Right: Single Asset Withdrawal_
 
-Left: Combination Withdrawal | Right: Single Asset Withdrawal
 ![separator](../img/seperator.png)
 ### Using vPegSwap
 
@@ -40,7 +39,7 @@ Choose your desired token to trade, then select the token you wish to receive, a
 Since these fees are so miniscule, you can actually benefit off swapping if either or both tokens are slightly off their peg.
 
 ![vDOLLAR](../img/vDOLLAR4.png)
-Using vPegSwap to gain stablecoins
+_Using vPegSwap to gain stablecoins_
 
 To use vPegSwap as a liquidity provider, you simply need to deposit some stables to receive vDOLLAR.
 To enter a specific liquidity pool, the same simple and highly user-friendly system applies, you are only required to deposit one of the stablecoins and the pool will balance accordingly.

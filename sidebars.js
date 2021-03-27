@@ -39,6 +39,7 @@ module.exports = {
           "guide-to-gvvalue-staking-on-binance-smart-chain",
           "vSafe-guide-on-binance-smart-chain",
           "Beltfi-guide",
+          "guides/vFarmvsvSafe",
           "vFarm-security"
               ],
              },

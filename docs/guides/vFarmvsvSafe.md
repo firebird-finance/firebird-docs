@@ -17,6 +17,7 @@ In order to maximize your investment, it is important for you to understand the 
 A vFarm is a highly sophisticated liquidity mining pool that allows the pool creator to set up various parameters, including reward multipliers and vesting, to manage and customize the emission of their tokens and meet their needs.
 
 Let's take the screenshot below as an example:
+
 ![1](https://user-images.githubusercontent.com/78454114/112706767-78dc8300-8e74-11eb-9edd-5738691ae443.png)  
 
 The project that created the vFarm (the owner) gets to define the block number that will be used by the pool to issue the vesting. By clicking the block number on the user-interface (here, 6675734), your browser will take you to BscScan.com block countdown page where you can see the approximate time left until that block will get reached.  
@@ -25,12 +26,14 @@ The project that created the vFarm (the owner) gets to define the block number t
 
 It is also block number where 70 % of rewards will start to get linearly released.  
 
-Clicking on the second block will show when 70% of rewards stop being released.  
+The second block will show when 70 % of rewards stop being released. 
+
 ![3](https://user-images.githubusercontent.com/78454114/112706808-ba6d2e00-8e74-11eb-98cd-2b53b355d21b.png)  
 
-In this specific case it means that you are receiving 30% of rewards instantly for the first 30 days, but you are also accruing your rewards for 90 days that those rewards are released. During those 90 days you do not have to remain in vFarm to receive those rewards, they will be linearly released and you are able to claim them partially every block or claim full amount after vesting period ends.  
+In this specific case it means that you are receiving 30% of rewards instantly for the first 30 days, and you are also accruing your rewards for the next 90 days when those rewards are released. During those 90 days you do not have to remain in vFarm to receive those rewards, they will be linearly released and you are able to claim them partially every block or claim full amount after vesting period ends.  
 
 So in a graphic way it would look like this:  
+
 ![4](https://user-images.githubusercontent.com/78454114/112706813-c5c05980-8e74-11eb-9db7-ab6a43e8d974.png)  
 
 

@@ -8,7 +8,7 @@ sidebar_label: vFarmvsvSafe
 
 In order to maximize your investment, it is important for you to understand the difference between Value DeFi's vFarms and a vSafes.  While they both yield generous rewards, they both hold unique and interesting features and we will cover each one of those in this guide.
 
-Enjoy!  
+Happy learning and enjoy!  
 
 ![Separator](../img/seperator.png)
 
@@ -49,7 +49,7 @@ To check if vSafe is utilizing vested strategy you can click on the Running stra
 
 There you will see reward vesting details.   
 
-It is also important to know that due to the specific mechanism of vSafe, you will need to remain in vSafe for the entire rewards release duration to receive maximum benefits (in this case full 120 days).
+It is also important to know that due to the specific mechanism of vSafe, you will need to remain in vSafe for the entire rewards release duration to receive maximum benefits (in this case full 120 days).  
 
 **GETTING STARTED**  
 - BSC: https://bsc.valuedefi.io/#/vsafe

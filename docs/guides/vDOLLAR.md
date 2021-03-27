@@ -26,7 +26,7 @@ Adding liquidity to vDOLLAR
 To withdraw the liquidity and get your stablecoin(s) back to your wallet, simply click the *Remove liquidity* link. 
 Users are free to choose how they withdraw their liquidity, either into any singular token of the four stablecoins or a combination of the four, regardless of their deposit.
 
-![vDOLLAR](..img/vDOLLAR3.png)
+![vDOLLAR](../img/vDOLLAR3.png)
 
 Left: Combination Withdrawal | Right: Single Asset Withdrawal
 ![separator](../img/seperator.png)

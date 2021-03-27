@@ -4,7 +4,8 @@ title: vPegSwap
 sidebar_label: vPegSwap
 ---
 
-![vpegswap](../img/vPegSwap1.png)
+
+![vPegSwap](../img/vPegSwap1.png)
 
 ![separator](../img/seperator.png)
 

@@ -1,6 +1,6 @@
 ---
 id: vPegSwap
-title: vPegSwap: The Slippage Killer
+title: vPegSwapTheSlippageKiller
 sidebar_label: vPegSwap
 ---
 

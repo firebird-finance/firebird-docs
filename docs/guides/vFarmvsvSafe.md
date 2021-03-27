@@ -6,18 +6,19 @@ sidebar_label: vFarmvsvSafe
 
 **OVERVIEW**  
 
-In order to maximize your investment, it is important for you to understand the difference between Value DeFi's vFarms and a vSafes.  While they both yield generous rewards, they both hold unique and interesting features and we will cover each one of those in this guide; enjoy!  
+In order to maximize your investment, it is important for you to understand the difference between Value DeFi's vFarms and a vSafes.  While they both yield generous rewards, they both hold unique and interesting features that will be discussed in this guide; enjoy!
 
 ![Separator](../img/seperator.png)
 
-**vFarm Summary**  
+**What is a vFarm?**  
 
-A vFarm is a highly sophisticated liquidity mining pool that allows pool creators to set up vast amounts of parameters, including reward multipliers and rewards vesting, an option to reward their liquidity providers in a fair way while reducing selling pressure usually related to large quantities of tokens being suddenly released into circulation.  
+A vFarm is a highly sophisticated liquidity mining pool that allows the pool creator to leverage a vast amount of parameters, including reward multipliers and vesting, to manage and customize the emission of their tokens and meet their needs.
 
+Let's take the screenshot below as an example:
 ![1](https://user-images.githubusercontent.com/78454114/112706767-78dc8300-8e74-11eb-9edd-5738691ae443.png)  
-<center>vFarms with vested rewards</center>  
 
-Projects who decide to lock their rewards have details shown on UI at Rewards locked tab. Clicking on block number 6675734 will take you to BSCscan block countdown page where you can see approximate time left till that block gets validated.  
+The person who created the vFarm (the owner) gets to define the block number that will be used by the pool to issue the vesting. By clicking the block number on the user-interface (here, 6675734), your browser will take you to BscScan.com block countdown page where you can see the approximate time left until that block will get reached.  
+
 ![2](https://user-images.githubusercontent.com/78454114/112706804-ad503f00-8e74-11eb-8e8d-7ecd5aab163f.png)  
 
 It is also block number where 70 % of rewards will start to get linearly released.  

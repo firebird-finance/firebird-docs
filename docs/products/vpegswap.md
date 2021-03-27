@@ -47,9 +47,24 @@ This graph represents slippage during swaps that are large enough to move a toke
 Notice how the Stableswap invariant remains almost flat, which is much smaller when compared to the Uniswap invariant.
 Essentially, slippage when using Stableswap is negligible, while the Uniswap invariant suffers from heavy slippage at the slightest change in price.
 
+
+### Results
+The ultimate result is the ability for a user to send massive trades with minimal losses.
+This should be a norm for swapping between stablecoins, but instead on traditional DEX’s, these trades are still punished like swapping between two non-stablecoins.
+
+![vpegswap](../img/vPegSwap3.png)
+_Swapping 10k USDC to BUSD with a <$4 loss._
+
+Traders are able to easily move 6, 7 and even 8 figures between BUSD/DAI/USDC/USDT with minimal slippage through the combination of the StableSwap algorithm and deep liquidity in the vPegPools.
+Users wishing to just use vPegSwap as a savings account are able to make use of pool incentives and swapping fees. Even though the fees are tiny (approx. 0.04%), they add up when trading over $50m per day. Some pools are offering ‘Infinity APY’ returns where the compounding rewards are too high for the amount of integers we can display. Essentially anything more than 999 million percent per year.
+**A massive advantage for projects wishing to use vPegSwap for their stablecoin liquidity pools is the Stableswap invariant curve.**
+Since there is almost zero slippage when swapping, if a token is to be rapidly ‘dumped’, vPegSwap’s mechanics would reduce the impact of the dumping on the price. 
+**Using vPegSwap will help keep stables ‘on-peg’ or closer to their peg compared to traditional pools.**
+
 ### Technical
 
 For a detailed rundown of vPegSwap, please refer to [Curve’s StableSwap Whitepaper](https://curve.fi/files/stableswap-paper.pdf)
 The Curve team have gone into incredible depth to explain their calculations and how the Stableswap invariant liquidity curve functions.
+
 
 

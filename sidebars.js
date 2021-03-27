@@ -8,7 +8,7 @@ module.exports = {
       "products/vSwap",
       "products/farms-as-a-service",
       "products/vSafes",
-      "vPegSwap",
+      "products/vPegSwap",
       "products/vGovernance",
     ],
     "Tokenomics": [

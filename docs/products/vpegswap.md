@@ -18,7 +18,7 @@ For a stablecoin to remain **stable**, it is essential that large trades are exe
 
 ### Introducing vPegSwap.
 
-vPegSwap is Value DeFi’s Solidity implementation of [Curve’s highly successful StableSwap](https://curve.fi/files/stableswap-paper.pdf).
+vPegSwap is Value DeFi’s Solidity implementation of [Curve’s highly successful StableSwap](https://curve.fi/files/stableswap-paper.pdf)
 vPegSwap has been built for the Binance Smart Chain (BSC) to take advantage of the significantly reduced fees. 
 Although appearing to be like a standard AMM, vPegSwap is specially designed for stablecoins with very minimal price slippage.
 Liquidity providers may also take advantage of the stablecoin aspect and use vPegSwap as a **fiat savings account**.
@@ -53,7 +53,7 @@ Essentially, slippage when using Stableswap is negligible, while the Uniswap inv
 
 ### Technical
 
-For a detailed rundown of vPegSwap, please refer to [Curve’s StableSwap Whitepaper](https://curve.fi/files/stableswap-paper.pdf).
+For a detailed rundown of vPegSwap, please refer to [Curve’s StableSwap Whitepaper](https://curve.fi/files/stableswap-paper.pdf)
 The Curve team have gone into incredible depth to explain their calculations and how the Stableswap invariant liquidity curve functions.
 
 ![Separator](img/seperator.png)

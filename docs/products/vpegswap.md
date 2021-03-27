@@ -6,6 +6,8 @@ sidebar_label: vPegSwap
 
 ![vpegswap](../img/vPegSwap1.png)
 
+![separator](../img/seperator.png)
+
 ### Background
 The Uniswap Model, also referred to as a standard liquidity pool, poses a great disadvantage for stablecoins.
 Large trades **relative to the size of the pool** cause higher slippage.
@@ -47,7 +49,6 @@ This graph represents slippage during swaps that are large enough to move a toke
 Notice how the Stableswap invariant remains almost flat, which is much smaller when compared to the Uniswap invariant.
 Essentially, slippage when using Stableswap is negligible, while the Uniswap invariant suffers from heavy slippage at the slightest change in price.
 
-
 ### Results
 The ultimate result is the ability for a user to send massive trades with minimal losses.
 This should be a norm for swapping between stablecoins, but instead on traditional DEX’s, these trades are still punished like swapping between two non-stablecoins.
@@ -66,5 +67,5 @@ Since there is almost zero slippage when swapping, if a token is to be rapidly �
 For a detailed rundown of vPegSwap, please refer to [Curve’s StableSwap Whitepaper](https://curve.fi/files/stableswap-paper.pdf)
 The Curve team have gone into incredible depth to explain their calculations and how the Stableswap invariant liquidity curve functions.
 
-
+![separator](../img/seperator.png)
 

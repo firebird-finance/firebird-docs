@@ -4,11 +4,6 @@ title: vPegSwap
 sidebar_label: vPegSwap
 ---
 
-
-![vpegswap1](img/vPegSwap1.png)
-
-![Separator](img/seperator.png)
-
 ### Background
 The Uniswap Model, also referred to as a standard liquidity pool, poses a great disadvantage for stablecoins.
 Large trades **relative to the size of the pool** cause higher slippage.
@@ -43,7 +38,7 @@ This means that large trades will have a much smaller impact when made around th
 
 **Example use case: Uniswap invariant (dashed line) vs Stableswap invariant (solid line)**
 
-![vPegSwap2](img/vPegSwap2.png)
+
 
 [Image from Curve: Stableswap Whitepaper](https://curve.fi/files/stableswap-paper.pdf)
 
@@ -56,5 +51,4 @@ Essentially, slippage when using Stableswap is negligible, while the Uniswap inv
 For a detailed rundown of vPegSwap, please refer to [Curve’s StableSwap Whitepaper](https://curve.fi/files/stableswap-paper.pdf)
 The Curve team have gone into incredible depth to explain their calculations and how the Stableswap invariant liquidity curve functions.
 
-![Separator](img/seperator.png)
 

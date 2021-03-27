@@ -13,7 +13,7 @@ Although not a significant problem for ordinary tokens, high slippage moves the 
 Since stablecoins are not meant to vary in price, the Uniswap Model clearly is not suited for pegged assets.
 For a stablecoin to remain **stable**, it is essential that large trades are executed with minimal slippage to stop any deviations from its peg.
 
-### Introducing vPegSwap.
+### Introducing vPegSwap
 
 vPegSwap is Value DeFi’s Solidity implementation of [Curve’s highly successful StableSwap](https://curve.fi/files/stableswap-paper.pdf)
 vPegSwap has been built for the Binance Smart Chain (BSC) to take advantage of the significantly reduced fees. 
@@ -38,12 +38,9 @@ The Curve.fi model uses a more complex algorithm called the **StableSwap invaria
 Using this algorithm results in a price curve that is flatter around the optimal peg range.
 This means that large trades will have a much smaller impact when made around the peg, which is exactly what algo-stables need.
 
-![vpegswap](../img/vPegSwap2.png)
-
 **Example use case: Uniswap invariant (dashed line) vs Stableswap invariant (solid line)**
 
-
-
+![vpegswap](../img/vPegSwap2.png)
 [Image from Curve: Stableswap Whitepaper](https://curve.fi/files/stableswap-paper.pdf)
 
 This graph represents slippage during swaps that are large enough to move a token’s price.

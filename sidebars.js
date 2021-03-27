@@ -38,6 +38,7 @@ module.exports = {
             BSC: [   
           "binance-smart-chain",
           "guide-to-gvvalue-staking-on-binance-smart-chain",
+          "guides/vDOLLAR",
           "vSafe-guide-on-binance-smart-chain",
           "Beltfi-guide",
           "guides/vFarmvsvSafe",

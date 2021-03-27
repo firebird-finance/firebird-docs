@@ -21,8 +21,8 @@ vBSWAP is a new token on Binance Smart Chain (BSC) for the Value DeFi ecosystem 
       - 20% of emission goes to the _Reserve Fund_ contract for distribution to community, marketing and giveaways  
       - None of the tokens are allocated the _Dev Fund_  
 
-  - _BUY BACK_:  
-      - 100% of fees collected on the Value DeFi BSC ecosystem will go to vBSWAP stakers at vStake    
+  - _PROFIT SHARE_:  
+      - 100% of fees collected on the Value DeFi BSC ecosystem will be distributed to stakers at 98/2 vBSWAP/BUSD vFarm    
       - 50% of swap fees from vSwap (swap fees are setable by pool creator at vSwap, not fixed)  
       - 50% of swap fees from vPegSwap  
       - All performance fees (typically 6%) from vSafe  

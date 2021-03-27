@@ -1,8 +1,9 @@
 ---
 id: vPegSwap
-title: vPegSwap:The Slippage Killer
+title: vPegSwap
 sidebar_label: vPegSwap
 ---
+
 
 ![vpegswap1](img/vPegSwap1.png)
 
@@ -26,7 +27,8 @@ Additionally, the returns on vPegSwap are substantially higher than traditional 
 
 ### Motivation
 
-Stablecoins have become increasingly popular with more ‘pegged’ tokens being implemented each day. However, every non-backed stablecoin shares one fundamental flaw — price stability.
+Stablecoins have become increasingly popular with more ‘pegged’ tokens being implemented each day.
+However, every non-backed stablecoin shares one fundamental flaw — price stability.
 To counteract this flaw, we have implemented vPegSwap. With the appearance of a typical AMM exchange, vPegSwap offers extremely low price slippage (typically 100 times smaller). 
 
 _Projects wishing to launch their own stablecoins are welcomed to use vPegSwap pools for their own price stability._ 
@@ -36,11 +38,13 @@ _Projects wishing to launch their own stablecoins are welcomed to use vPegSwap p
 _“Curve’s StableSwap provides a mechanism to create cross-markets for stablecoins in a way which could be called Uniswap with leverage.”_
 — [Quoted from Curve’s Stableswap Whitepaper by Michael Egorov. Published November 10, 2019](https://curve.fi/files/stableswap-paper.pdf)
 The Curve.fi model uses a more complex algorithm called the **StableSwap invariant** which is optimized for minimal slippage.
-Using this algorithm results in a price curve that is flatter around the optimal peg range. This means that large trades will have a much smaller impact when made around the peg, which is exactly what algo-stables need.
+Using this algorithm results in a price curve that is flatter around the optimal peg range.
+This means that large trades will have a much smaller impact when made around the peg, which is exactly what algo-stables need.
 
 **Example use case: Uniswap invariant (dashed line) vs Stableswap invariant (solid line)**
 
-![vpegswap2](img/vPegSwap2.png)
+![vPegSwap2](img/vPegSwap2.png)
+
 [Image from Curve: Stableswap Whitepaper](https://curve.fi/files/stableswap-paper.pdf)
 
 This graph represents slippage during swaps that are large enough to move a token’s price.
@@ -49,6 +53,8 @@ Essentially, slippage when using Stableswap is negligible, while the Uniswap inv
 
 ### Technical
 
-For a detailed rundown of vPegSwap, please refer to [Curve’s StableSwap Whitepaper](https://curve.fi/files/stableswap-paper.pdf). The Curve team have gone into incredible depth to explain their calculations and how the Stableswap invariant liquidity curve functions.
+For a detailed rundown of vPegSwap, please refer to [Curve’s StableSwap Whitepaper](https://curve.fi/files/stableswap-paper.pdf).
+The Curve team have gone into incredible depth to explain their calculations and how the Stableswap invariant liquidity curve functions.
 
 ![Separator](img/seperator.png)
+

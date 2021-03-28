@@ -6,6 +6,7 @@ sidebar_label: MIDAS vAMA (Official Discord)
 
 
 **vMarco Polo (Value DeFi)**
+
 Hello everyone, the AMA with our vAMA Guest from Midas will start in ~20 minutes. We look forward to your attendance and participation!
 
 Alrighttttt; time's up!

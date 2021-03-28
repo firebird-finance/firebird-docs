@@ -7,7 +7,7 @@ sidebar_label: MIDAS vAMA (Official Discord)
 [MIDAS vAMA Discord](https://discord.gg/4EvveC8ytK)
 
 
-![MIDASvama](../img/midasvama.png)
+![vchatmidas2](https://user-images.githubusercontent.com/78454114/112759297-f230be80-8fb7-11eb-8b66-209bf150e121.png)
 
 
 ![Separator](../img/seperator.png)

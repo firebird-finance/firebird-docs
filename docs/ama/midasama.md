@@ -1,6 +1,6 @@
 ---
 id: midas-ama
-title: Midas vAMA (Official Discord)
+title: Midas vAMA on March 27th 2021 (Official Discord)
 sidebar_label: MIDAS vAMA (Official Discord)
 ---
 

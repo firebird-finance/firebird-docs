@@ -58,7 +58,7 @@ module.exports = {
         items: [
           "ama/arto-vfarm-ama",
           "ama/blueswap-vfarm-ama",
-          "ama/midas-ama
+          "ama/midas-ama"
         ],
       },
     ],

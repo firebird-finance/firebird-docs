@@ -4,10 +4,13 @@ title: Midas vAMA (Official Discord)
 sidebar_label: MIDAS vAMA (Official Discord)
 ---
 
-[MIDAS vAMA link](https://discord.gg/4EvveC8ytK)
+[MIDAS vAMA Discord](https://discord.gg/4EvveC8ytK)
 
 
 ![MIDASvama](../img/midasvama.png)
+
+
+![Separator](../img/seperator.png)
 
 **vMarco Polo (Value DeFi)**
 

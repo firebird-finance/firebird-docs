@@ -55,7 +55,11 @@ module.exports = {
       {
         type: "category",
         label: "AMA",
-        items: ["ama/arto-vfarm-ama", "ama/blueswap-vfarm-ama"],
+        items: [
+          "ama/arto-vfarm-ama",
+          "ama/blueswap-vfarm-ama",
+          "ama/midas-ama
+        ],
       },
     ],
       "Social Media": [

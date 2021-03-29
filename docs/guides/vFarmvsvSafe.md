@@ -34,7 +34,7 @@ In this specific case it means that you are receiving 30% of rewards instantly f
 
 So in a graphic way it would look like this:  
 
-![4](../img/vsafevfarm.png)  
+![4](../img/vsafevfarm1.png)  
 
 ![Separator](../img/seperator.png)
 

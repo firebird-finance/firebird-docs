@@ -39,3 +39,18 @@ Likewise, the other funds in vSafe are distributed to other farms to acquire the
 
 ![vSafe 413137ed](https://user-images.githubusercontent.com/78454114/109452516-7d4c8200-7a15-11eb-89f3-66c0c2eaede6.png)
 
+   3. _Double earning:_
+
+Some of our vSafes, in addition to auto-compounding features, offer its users additional vBSWAP incentives. Those pools have green "Boosted" tag on their respective vSafe tab.
+
+Users who choose to earn additional vBSWAP and stake their shares will still earn autocompounding benefits from their deposit in the background.
+
+To access "Boosted" feature simply enter your vSafe UI and click Deposit and stake, our system will do both transactions for you. 
+If Boosted is newly added feature on vSafe where you already have funds deposited, simply click on "Stake your shares" button on vSafe UI where you will be taken to next screen, deposit your shares and enjoy your double earning from single asset.
+
+![vsafevshares](../img/Vsafeshares.png)
+
+
+
+
+

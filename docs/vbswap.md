@@ -22,7 +22,7 @@ vBSWAP is a new token on Binance Smart Chain (BSC) for the Value DeFi ecosystem 
       - None of the tokens are allocated the _Dev Fund_  
 
   - _PROFIT SHARE_:  
-      - 100% of fees collected on the Value DeFi BSC ecosystem will be distributed to stakers at vBSWAP vStake    
+      - 100% of fees collected on the Value DeFi BSC ecosystem will be distributed to stakers at 98/2 vBSWAP/BUSD vStake    
       - 50% of swap fees from vSwap (swap fees are setable by pool creator at vSwap, not fixed)  
       - 50% of swap fees from vPegSwap  
       - All performance fees (typically 6%) from vSafe  

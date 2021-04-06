@@ -28,7 +28,7 @@ vBSWAP is a new token on Binance Smart Chain (BSC) for the Value DeFi ecosystem 
       - All performance fees (typically 6%) from vSafe  
       - All other fees from vFarm (FaaS)  
 
-Profit distribution mechanism: we have taken the average daily profit for last month and will evenly distribute this daily figure per block for 7 days. The daily distributed amount will be automatically recalculated and updated on a weekly basis.
+Profit distribution mechanism: we have taken the average daily profit for last 30 days and will evenly distribute this daily figure per block for 7 days. The daily distributed amount will be automatically recalculated and updated on a weekly basis.
   
 ![vbswap](img/vbswapdistribution.png)
 

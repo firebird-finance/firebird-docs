@@ -48,4 +48,3 @@ Rewards are provided to liquidity providers as a means to incentivize liquidity 
 **Yield Farming** = Yield Farming is the process of putting tokens to productive use in a DeFi market. This is done to earn passive interest income. It requires manually searching protocols for the best interest rates. Or one can utilize a Yield Aggregator. 
 
 ****
-

@@ -33,4 +33,3 @@ So now we’re providing liquidity and LP fees we can also use these VLP tokens 
 ![Guide](img/g36.png)
 
 **Now you try – Select your pool at** [**https://valuedefi.io/**](https://valuedefi.io/)
-

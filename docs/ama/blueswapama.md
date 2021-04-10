@@ -1,4 +1,4 @@
----
+﻿---
 id: blueswap-vfarm-ama
 title: Blue Swap vFarm AMA (Official Discord)
 sidebar_label: Blue Swap vFARM AMA (Official Discord)
@@ -50,8 +50,8 @@ Yeap let's go!
 **vMarco Polo (Value DeFi)**
 
 Two quick rules: 
-1) Only the mods and our guests can type for now. We will proceed with a few questions and then we will open things up to everyone! You are free to use emojis to questions/answers for now!
-2) The individuals who ask the best 5 questions will be receiving $50 in blueswap rewards. Winners will be selected in 24 hours from now at the latest.
+1. Only the mods and our guests can type for now. We will proceed with a few questions and then we will open things up to everyone! You are free to use emojis to questions/answers for now!
+2. The individuals who ask the best 5 questions will be receiving $50 in blueswap rewards. Winners will be selected in 24 hours from now at the latest.
 And it goes without saying, let's keep it fun, informative and entertaining for everyone 
 
 Hey there blueswap team!
@@ -87,7 +87,7 @@ Ok guys I'm. Excited to have you here. Lets get started.Could you please introdu
 First of, thank you for this opportunity from myself and on behalf of my team for the partnership and holding this AMA.
 We are a team of developers, entrepreneurs, and designers working to make crypto world a more artistic place.
 I am the lead developer at Blueswap. I have several years of experience as a backend engineer mainly using nodejs/typescript & solidity. I am also an external auditor for other some crypto auditing groups that I cannot name for now. I am in charge of all contracts and fixing some of the UI issues.
-To answer part of your question, I got into crypto in 2017 by buying my first Ethereum. I was attracted by blockchain technology and its application in the real world. As a developer, I was attracted by the trustless concept of 'smart contract'.When first generation decentralized finance (DeFi) came into the scene, it made a huge impact in the world of crypto and finance. Decentralized applications (dApp) such as Yam and Sushiswap became success stories on Ethereum network.
+To answer part of your question, I got into crypto in 2017 by buying my first Ethereum. I was attracted by blockchain technology and its application in the real world. As a developer, I was attracted by the trustless concept of 'smart contract'. When first generation decentralized finance (DeFi) came into the scene, it made a huge impact in the world of crypto and finance. Decentralized applications (dApp) such as Yam and Sushiswap became success stories on Ethereum network.
 However, the high gas fee and slow transactions raised question marks, whether we should build Blueswap on Ethereum or any other network. So we decided to build it on Binance Smart Chain, which is robust, low gas fees, and transaction are fast.
 
 **vMarco Polo (Value DeFi)**
@@ -218,7 +218,7 @@ We're continuously implementing special deflating mechanisms to our tokens. Firs
 
 **oldnoobi (Value DeFi)**
 
-Wow you guys have alot to offer all ready and more in the works!
+Wow you guys have a lot to offer all ready and more in the works!
 
 **vMarco Polo (Value DeFi)**
 
@@ -242,7 +242,7 @@ Thank you for hosting this AMA!
 
 **oldnoobi (Value DeFi)**
 
-Before we release you to the group. I want to thank you for your time and for making Blueswap.finance available to the VALUEDEFI community.
+Before we release you to the group. I want to thank you for your time and for making [Blueswap.finance](https://blueswap.finance/) available to the VALUEDEFI community.
 
 **vMarco Polo (Value DeFi)**
 
@@ -274,7 +274,7 @@ Getting partnered with well-known projects is a really good marketing plan. What
 
 **palette (Blue Swap)**
 
-There are three goals in our partnerships. Marketing, safety and liquidity. For example, our partnership with ape was to give a additional liquidity by adding pairs at other dex. Users got a 20000$ worth of instant liquidity at other platform. We are making many partnerships on these two rules. WIth value, as i stated earlier was to give a safety value.
+There are three goals in our partnerships. Marketing, safety and liquidity. For example, our partnership with ape was to give a additional liquidity by adding pairs at other DEX's. Users got a 20000$ worth of instant liquidity at other platform. We are making many partnerships on these two rules. With value, as i stated earlier was to give a safety value.
 
 **b4l4f4s**
 
@@ -294,7 +294,7 @@ We are preparing a new roadmap infographics which would take some time. We'll ev
 
 **cakobela**
 
-If there is a decrease in transaction fees in the etherum network (such as eip 1559 or another protocol), can Blueswap be moved / integrated into the etherum network in the future? Is something like this possible?
+If there is a decrease in transaction fees in the Ethereum network (such as EIP 1559 or another protocol), can Blueswap be moved / integrated into the Ethereum network in the future? Is something like this possible?
 
 **palette (Blue Swap)**
 
@@ -334,7 +334,7 @@ Is there any attempt to list the stock exchanges?
 
 **gregsam (Blue Swap)**
 
-It’s not our top priority as we are on bsc. If exchanges want to list us they can do it.
+It’s not our top priority as we are on BSC. If exchanges want to list us they can do it.
 
 **odkacar**
 
@@ -396,7 +396,7 @@ We will be sharing the names here as well for everyone to see!
 
 **gregsam (Blue Swap)**
 
-Thanks guys for this ama and great questions
+Thanks guys for this AMA and great questions
 
 **palette (Blue Swap)**
 
@@ -410,4 +410,3 @@ Have a great morning, afternoon and evening everyone; thank you
 **palette (Blue Swap)**
 
 Thank you!
-

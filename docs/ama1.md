@@ -173,4 +173,3 @@ We are doing research on optimistic, zk2 and xDAI currently. Nothing fixed yet b
 ## 41\) With your recent partnerships with DOT, LINK etc., do you plan also some full integration within another ecosystem \(like the yearn ecosystem\) ?
 
 We always are open for any collaboration. If you could see any opportunity, feel free to contact us.
-

@@ -1,15 +1,14 @@
----
+﻿---
 id: farm-value-token-rewards
 title: Farm Value Token rewards
 sidebar_label: Farm Value Token rewards
 ---
 
-Farm the Value Token rewards at Value Pools - Written by yfvfinance.rocks
+*Written by yfvfinance.rocks*
 
 ---
 
-[Follow the first steps at 'Provide Liquidity on Value Liquid'](provide-liquidity-on-value-liquid-and-farm-for-value-rewards)  
-After this, proceed to use your VLP tokens to farm VALUE.
+Check our guide on ['How to Provide Liquidity on Value Liquid'](provide-liquidity-on-value-liquid-and-farm-for-value-rewards) if you haven't had VLP tokens yet. After this, proceed to use your VLP tokens to farm VALUE.
 
 So now we’re providing liquidity and LP fees we can also use these VLP tokens to farm Value.
 
@@ -26,11 +25,10 @@ So now we’re providing liquidity and LP fees we can also use these VLP tokens 
 4. Confirm the transaction in your metamask wallet:  
 ![Guide](../img/g34.png)
 
-5. Confirm in your wallet  
+5. Confirm in your wallet.  
 ![Guide](../img/g35.png)
 
-6. Thats it. Now i’m collecting rewards on my VLP tokens.  
+6. That's it. Now I’m collecting rewards on my VLP tokens.  
 ![Guide](../img/g36.png)
 
-**Now you try – Select your pool at** [**https://valuedefi.io/**](https://valuedefi.io/)
-
+**Click** [here](https://valuedefi.io/) to try it out on your own!

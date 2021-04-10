@@ -1,11 +1,11 @@
----
+﻿---
 id: midas-ama
 title: Midas vAMA (Official Discord)
 sidebar_label: MIDAS vAMA (Official Discord)
 ---
-
+--- 
 [MIDAS vAMA Discord](https://discord.gg/4EvveC8ytK)
-
+---
 
 ![vchatmidas2](https://user-images.githubusercontent.com/78454114/112759297-f230be80-8fb7-11eb-8b66-209bf150e121.png)
 
@@ -32,7 +32,7 @@ Hi Value DeFi community. I am Long Phan, COO of Midas. Good weekend everybody!
 
 **Phillip Phung (Midas)**
 
-Hi all, excited to be here.. I'm Phillip, Midas CMO. Thanks again for having us!
+Hi all, excited to be here. I'm Phillip, Midas CMO. Thanks again for having us!
 
 **ppl (Midas)**
 
@@ -330,7 +330,7 @@ Use cases and more use cases, partnership and more partnership so that MDO can b
 
 **ppl (Midas)**
 
-In fact, all Algo Stablecoin projects are still in the experimental phase. It's alll about fast learning, quick adaptation and how fast to roll out the innovative solutions most suitable to the market. No one dare to guarantee but we have a strong believe in our move forward plan
+In fact, all Algo Stablecoin projects are still in the experimental phase. It's all about fast learning, quick adaptation and how fast to roll out the innovative solutions most suitable to the market. No one dare to guarantee but we have a strong believe in our move forward plan
 
 **ismailozkok**
 
@@ -348,7 +348,7 @@ One last question from my part, what would you say is your target demographic? (
 
 Right from the start, even from our 1st product - Midas wallet, our target demographic/user has always been Global.
 However, zooming in, Asia is very close to our heart, Asean is very close to our home. So we are fortunate to have received a great amount of support from these markets.
-We do see many users coming to Midas.eco from other parts of the world too (Europe, Brazil, Argentina, Turkey, Nigeria, ect.). These are so important markets that no one can afford to ignore. And neither do we. We look forward to your continued collaboration & support from you all - our friends at Value DeFi!
+We do see many users coming to Midas.eco from other parts of the world too (Europe, Brazil, Argentina, Turkey, Nigeria, etc.). These are so important markets that no one can afford to ignore. And neither do we. We look forward to your continued collaboration & support from you all - our friends at Value DeFi!
 
 **CMierez**
 
@@ -363,7 +363,7 @@ Have a wonderful Sunday
 
 **Dr. David Nguyen (Midas)**
 
-Thank you so much Marco and Value Defi team for this great opportunity to engage with your community.
+Thank you so much Marco and Value DeFi team for this great opportunity to engage with your community.
 
 **Phillip Phung (Midas)**
 
@@ -371,7 +371,7 @@ Thanks again for having us! Much appreciated.
 
 **ppl (Midas)**
 
-Thank you very much Value Defi Community for the great vAMA today. We are looking forward to a strong partnership with Value Defi in future
+Thank you very much Value DeFi Community for the great vAMA today. We are looking forward to a strong partnership with Value DeFi in future
 
 **vMarco Polo (Value DeFi)**
 We look forward to more vFarms, more vSafes and more...! :))

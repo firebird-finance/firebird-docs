@@ -85,4 +85,3 @@ I’ve also edited the token symbol to include DAI/VAL so I can distinguish from
 ![Guide](img/g2-18.png)
 
 \*\*\*\*
-

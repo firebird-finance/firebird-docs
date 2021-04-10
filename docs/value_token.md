@@ -1,4 +1,4 @@
----
+﻿---
 id: VALUE
 title: VALUE
 sidebar_label: VALUE
@@ -7,11 +7,11 @@ sidebar_label: VALUE
 ---
 
 
-**What are the benefits of holding the VALUE token?**
+**Benefits of holding the VALUE token**
 
 Holders can stake their VALUE tokens into the [vGovernance](../products/governance-vault) and participate in making governance decisions through voting. This includes voting on strategies and their parameters, token emission schedules and sharing of the profits made by the platform.
 
-Besides holders who have put their VALUE in the [vGovernance](../products/governance-vault) currently receive 14% of the profit made by Value Vaults and 35% of the swap fees made from trades on [vSwap](../products/value-liquid). These percentages are subjected to changes from Governance voting. 
+Besides holders who have put their VALUE in the [vGovernance](../products/governance-vault) currently receive 14% of the profit made by Value Vaults and 35% of the swap fees made from trades on [vSwap](../products/value-liquid). These percentages are subject to changes from Governance voting. 
 
 
 ![Separator](img/seperator.png)
@@ -33,4 +33,3 @@ More can be found at [https://www.coingecko.com/nl/coins/value-liquidity\#market
 
 **Contract address**  
 [0x49e833337ece7afe375e44f4e3e8481029218e5c](https://etherscan.io/address/0x49e833337ece7afe375e44f4e3e8481029218e5c)
-

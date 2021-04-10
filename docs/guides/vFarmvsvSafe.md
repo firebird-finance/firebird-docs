@@ -1,16 +1,14 @@
----
+﻿---
 id: vFarmvsvSafe
 title: vFarm vs. vSafe
 sidebar_label: vFarm vs vSafe
 ---
-
+---
 **OVERVIEW**  
 
 In order to maximize your investment, it is important for you to understand the difference between Value DeFi's vFarms and a vSafes.  While they both yield generous rewards, they both hold unique and interesting features that will be discussed in this guide; enjoy!
 
-![Separator](../img/seperator.png)
-
-**What is a vFarm?**  
+**vFARM**  
 
 *Notice: We use IRON-BUSD vFarm and vSafe in this example, and all references about block times and rewards vesting are specifically related to them. Each vFarm has its own unique setup.*
 
@@ -36,13 +34,12 @@ So in a graphic way it would look like this:
 
 ![4](../img/vsafevfarm1.png)  
 
-![Separator](../img/seperator.png)
 
-**What is a vSafe?**  
+**vSafe**  
 
 vSafe is a cutting-edge yield aggregator that uses multiple strategies to maximise profits for its users while giving auto-compounding benefits as well. In simpler terms, a vSafe will search for the best farming targets, deposit your investment, trade farming rewards for deposited tokens, and re-invest automatically.
 
-What happens if a strategy has a farming target that has rewards vested?
+*What happens if a strategy has a farming target that has rewards vested?*
 
 In order for vSafe to work properly, users send their capital to vSafe smart contract so that it has the full liberty to use it, which makes reinvesting, changing strategy and hourly auto-compounding possible. Users give their vested reward rights to vSafe to freely distribute and are not tied to user addresses like vFarm, but to vSafe addresses. As rewards get released vSafe will regularly call harvest function, sell rewards and distribute them to users who are in vSafe at that moment, whether or not they “earned” those rewards by being early vSafe depositors. This means that locked rewards are not earmarked to each depositor. All past locked rewards are distributed proportionally to current vSafe participants during the linear vesting period.
 

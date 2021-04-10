@@ -41,7 +41,7 @@ It can be seen that the Stableswap invariant remains almost flat, which is much 
 The ultimate result is the ability of a user to send massive trades with minimal losses.
 This should be a norm for swapping between stablecoins, but instead on traditional DEX’s, these trades are still punished like swapping between two non-stablecoins.
 
-![vpegswap](../img/vPegSwap3.png)
+![vpegswap](../img/vPegSwap3.png)  
 _Swapping 10k USDC to BUSD with a <$4 loss._
 
 vPegSwap allows traders to easily move 6, 7 and even 8 figures between BUSD/DAI/USDC/USDT with minimal slippage through the combination of the StableSwap algorithm and deep liquidity in the vPegPools.

@@ -1,4 +1,4 @@
----
+﻿---
 id: save-on-transaction-fees-using-the-chi-gastoken
 title: Save on Transaction Fees using the Chi Gastoken
 sidebar_label: Save on Transaction Fees using the Chi Gastoken
@@ -10,7 +10,7 @@ sidebar_label: Save on Transaction Fees using the Chi Gastoken
 
 2. Select 'Settings' in upper right corner
 
-3. If you don't have Chi gastokens you can mint them on Valueliquid page or buy them from 1inch
+3. If you don't have Chi gastokens you can mint them on Value Liquid page or buy them from 1inch
 
 4. Click ON on “Use Chi”
 
@@ -22,4 +22,4 @@ To save up gas on transactions, the gas fee at the time of burning has to be twi
 
 ---
 
-Visit [https://1inch-exchange.medium.com/everything-you-wanted-to-know-about-chi-gastoken-a1ba0ea55bf3](https://1inch-exchange.medium.com/everything-you-wanted-to-know-about-chi-gastoken-a1ba0ea55bf3) for more info.
+Click [here](https://1inch-exchange.medium.com/everything-you-wanted-to-know-about-chi-gastoken-a1ba0ea55bf3) for more details.

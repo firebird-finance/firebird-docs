@@ -5,7 +5,7 @@ sidebar_label: vSafe FAQ
 
 ---
 
-![Separator](img/seperator.png)
+![Separator](../img/seperator.png)
 
 ##### 1. What is vSafe?
 

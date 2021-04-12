@@ -50,7 +50,11 @@ module.exports = {
       {
         type: "category",
         label: "FAQ",
-        items: ["resources/glossary/defi", "binance-smart-chain-expansion-faq"],
+        items: [
+          "resources/glossary/defi",
+          "binance-smart-chain-expansion-faq",
+          "resources/vsafefaq"
+        ],
       },
       {
         type: "category",

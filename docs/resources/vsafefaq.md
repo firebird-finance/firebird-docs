@@ -27,7 +27,7 @@ In this example if you deposit 100 CODEX/BNB LP tokens you would receive 63.63 v
 
 ##### 4. What is the lock symbol and why am I getting less than it is shown on UI?
 
-Some of our vSafes are using strategies that are dealing with locked/vested/delayed reward emissions, you can find general principles how it works here https://docs.valuedefi.io/guides/vFarmvsvSafe but we will add vSafe overview with more detailed release schedule soon.
+Some of our vSafes are using strategies that are dealing with locked/vested/delayed reward emissions, you can find general principles how it works [here](https://docs.valuedefi.io/guides/vFarmvsvSafe) but we will be adding vSafe overview with more detailed release schedule soon.
 
 This is just short overview of our currently locked strategies
 

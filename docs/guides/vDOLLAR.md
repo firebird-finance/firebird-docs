@@ -14,7 +14,7 @@ The term **metapool** is used for pools that allow for single asset deposits int
 
 _vDOLLAR: A ‘4pool’ Metapool_
 
-**DEPOSITING**
+### DEPOSITING
 
 To obtain vDOLLAR, users simply deposit any of the 4 tokens (can be single or multiple tokens at once) into the metapool to receive vDOLLAR at almost 1:1 ratio. There is a small deduction for slippage + fees, approximately 0.04%.
 
@@ -22,7 +22,7 @@ To obtain vDOLLAR, users simply deposit any of the 4 tokens (can be single or mu
 
 _Adding liquidity to vDOLLAR_
 
-**WITHDRAWING**
+### WITHDRAWING
 
 To withdraw the liquidity and get your stablecoin(s) back to your wallet, simply click the *Remove liquidity* link. 
 
@@ -32,7 +32,7 @@ Users are free to choose how they withdraw their liquidity, either into any sing
 
 _Left: Combination Withdrawal | Right: Single Asset Withdrawal_
 
-** USING vPEGSWAP**
+### USING vPEGSWAP
 
 Simply go to our [vPegSwap page](https://bsc.valuedefi.io/#/vpeg-swap) and use our user-friendly interface to swap your stablecoins. 
 Immediately users will be able to notice the massive reduction in slippage and fees. 

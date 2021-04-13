@@ -3,6 +3,7 @@ id: binance-smart-chain-expansion-faq
 title: Binance Smart Chain Expansion FAQ
 sidebar_label: Binance Smart Chain Expansion FAQ
 ---
+---
 
 ### VALUE AND gvVALUE TOKENS
 

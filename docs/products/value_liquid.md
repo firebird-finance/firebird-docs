@@ -25,6 +25,6 @@ vSwap is an automated market maker (decentralized exchange) that uses smart rout
 ![Separator](../img/seperator.png)
 
 
-**GETTING STARTED**  
+### GETTING STARTED
 - BSC: https://bsc.valuedefi.io/#/vswap  
 - Ethereum: https://valueliquid.io/#/swap  

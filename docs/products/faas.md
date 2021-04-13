@@ -56,6 +56,8 @@ On BSC, there is a 100 gvVALUE-B fee to create a vFarm on the platform. This bei
 The platform supports all kinds of reward mechanisms, be them simple or customized to complexity. While customized reward mechanisms are supported, some integration code will be required.  Visit [our GitHub](https://github.com/valuedefi) for more information.
 
 ![enter image description here](https://miro.medium.com/max/700/1*a81g73R8alhkV0TL9CPsng.png)
+
+### GETTING STARTED
 To learn more about FaaS and vFarms, please visit  [https://valuedefi.io/resources](https://valuedefi.io/resources).
 
 Our community also created two amazing tutorial videos for FaaS and vFarms:

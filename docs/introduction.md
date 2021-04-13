@@ -11,6 +11,9 @@ slug: /
 
 Value DeFi is a complete solution on the ETH and BSC networks that aims to bring fairness, true value, and innovation to decentralized finance through a suite of high-performing products and services.
 
+
+<iframe width="100%" height="422" src="https://www.youtube.com/embed/LKdKU_u9R9Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### CORE VALUES
 1. Increase accessibility to yield farming
 2. Provide on-chain voting for governance
@@ -34,5 +37,3 @@ Value DeFi originally launched on the Ethereum Mainnet in August 2020 and expand
 ### GETTING STARTED
 - BSC: https://bsc.valuedefi.io/  
 - Ethereum: https://valuedefi.io/  
-
-<iframe width="100%" height="422" src="https://www.youtube.com/embed/LKdKU_u9R9Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

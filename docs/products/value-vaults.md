@@ -6,14 +6,14 @@ sidebar_label: vSafe
 ---
 
 
-**OVERVIEW**  
+### OVERVIEW
 
 vSafes are cutting-edge yield aggregators that use multiple strategies and auto-compounding technology to provide investors with high returns on their deposited assets. In simpler terms, a vSafe will search for the best farming targets, deposit your investment, trade farming rewards for deposited tokens, and re-invest automatically. 
 
 The auto-pilot nature of vSafe makes it very simple to use, as no manual maintenance is required to increase the size and value of invested assets.  
 
 
-**KEY FEATURES**  
+### KEY FEATURES
    1. _Auto-compound:_  
 
 
@@ -51,7 +51,7 @@ If Boosted is newly added feature on vSafe where you already have funds deposite
 
 ![Separator](../img/seperator.png)
 
-**GETTING STARTED**  
+### GETTING STARTED
 - BSC: https://bsc.valuedefi.io/#/vsafe
 - Ethereum: https://valuedefi.io/value-vaults  
 

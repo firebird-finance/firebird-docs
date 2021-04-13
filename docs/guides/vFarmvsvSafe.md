@@ -57,6 +57,6 @@ It is also important to know that due to the specific mechanism of vSafe, you wi
 
 ![Separator](../img/seperator.png)
 
-**GETTING STARTED**  
+### GETTING STARTED
 - BSC: https://bsc.valuedefi.io/#/vsafe
 - Ethereum: https://valuedefi.io/value-vaults  

@@ -31,7 +31,7 @@ Value DeFi originally launched on the Ethereum Mainnet in August 2020 and expand
 ![Separator](../img/seperator.png)
 
 
-**GETTING STARTED**
+### GETTING STARTED
 - BSC: https://bsc.valuedefi.io/  
 - Ethereum: https://valuedefi.io/  
 

@@ -14,7 +14,7 @@ The auto-pilot nature of vSafe makes it very simple to use, as no manual mainten
 
 
 ### KEY FEATURES
-   1. _Auto-compound:_  
+   **1. _Auto-compound:_**  
 
 
 > _Compound interest is the eighth wonder of the world. He understands it, earns it... he who doesn't...pays it._
@@ -26,7 +26,7 @@ This feature saves you time, effort, and gas while giving you peace of mind as y
 ![vsafeautocomp](https://user-images.githubusercontent.com/78454114/109442271-55e9bb00-79fd-11eb-9c78-56970b474446.png)
 
 
-   2. _Multiple strategies:_  
+   **2. _Multiple strategies:_**  
 
 One unique feature of vSafes is that they can use multiple strategies to farm multiple pools. You thus get the best return by having your fingers in many pies.
   
@@ -38,7 +38,7 @@ Likewise, the other funds in vSafe are distributed to other farms to acquire the
 
 ![vSafe 413137ed](https://user-images.githubusercontent.com/78454114/109452516-7d4c8200-7a15-11eb-89f3-66c0c2eaede6.png)
 
-   3. _Double earning:_
+   **3. _Double earning:_**
 
 Some of our vSafes, in addition to auto-compounding features, offer its users additional vBSWAP incentives. Those pools have green "Boosted" tag on their respective vSafe tab.
 

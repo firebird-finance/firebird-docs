@@ -7,7 +7,7 @@ sidebar_label: VALUE
 ---
 
 
-**Benefits of holding the VALUE token**
+### BENEFITS OF HOLDING VALUE 
 
 Holders can stake their VALUE tokens into the [vGovernance](../products/governance-vault) and participate in making governance decisions through voting. This includes voting on strategies and their parameters, token emission schedules and sharing of the profits made by the platform.
 
@@ -16,7 +16,7 @@ Besides holders who have put their VALUE in the [vGovernance](../products/govern
 
 ![Separator](img/seperator.png)
 
-**Where to buy the VALUE token?**
+**WHERE TO BUY VALUE?**
   
 **Decentralized exchanges**  
 vSwap: [https://valueliquid.io/\#/swap](https://valueliquid.io/#/swap) 

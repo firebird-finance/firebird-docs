@@ -12,7 +12,7 @@ sidebar_label: Provide Liquidity on Value Liquid
 
 When you provide Liquidity on Value Liquid you will receive VLP tokens. Additionally, you can then use your VLP tokens to farm for Value Rewards.
 
-**HOW TO PROVIDE LIQUIDITY ON VALUE LIQUID**
+### HOW TO PROVIDE LIQUIDITY ON VALUE LIQUID
 
 1. Go to [https://valuedefi.io/](https://valuedefi.io/?a=38LtvF24F66mQ4V7ap3XMKoUruro) and select the pool you want to farm in
 ![Guide](../img/g2-1.png)
@@ -63,7 +63,7 @@ _**Note:** Steps 3-7 are only required if your wallet has never provided liquidi
 
 After completing this process, I’ve received 5.85 VLP tokens for the Value/DAI pool.
 
-**SEE YOUR VLP TOKENS IN YOUR METAMASK WALLET**
+### SEE YOUR VLP TOKENS IN YOUR METAMASK WALLET
 
 I’ve created a VLP token for the Value/Dai pair, I now need to add the contract address to Metamask so I can see them in my wallet.
 

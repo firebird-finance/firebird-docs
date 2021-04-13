@@ -4,11 +4,11 @@ title: vFarm vs. vSafe
 sidebar_label: vFarm vs vSafe
 ---
 ---
-**OVERVIEW**  
+### OVERVIEW  
 
 In order to maximize your investment, it is important for you to understand the difference between Value DeFi's vFarms and a vSafes.  While they both yield generous rewards, they both hold unique and interesting features that will be discussed in this guide; enjoy!
 
-**vFARM**  
+### vFARM
 
 *Notice: We use IRON-BUSD vFarm and vSafe in this example, and all references about block times and rewards vesting are specifically related to them. Each vFarm has its own unique setup.*
 
@@ -35,7 +35,7 @@ So in a graphic way it would look like this:
 ![4](../img/vsafevfarm1.png)  
 
 
-**vSafe**  
+### vSAFE
 
 vSafe is a cutting-edge yield aggregator that uses multiple strategies to maximise profits for its users while giving auto-compounding benefits as well. In simpler terms, a vSafe will search for the best farming targets, deposit your investment, trade farming rewards for deposited tokens, and re-invest automatically.
 

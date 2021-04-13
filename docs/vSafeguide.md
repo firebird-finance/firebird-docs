@@ -8,11 +8,11 @@ sidebar_label: Stake in a vSafe
 
 In this guide we will give you step-by-step instructions on how to stake and maximize your profits using our multi strategy auto compounding vSafes. For the sake of simplicity, we will be using https://metamask.io/ as the default wallet for this tutorial.  
 
-![Value Liquid homepage at valueliquid.io](img/seperator.png)
 
-### SCENARIO - vSafe that uses PancakeSwap as the Liquidity Pool (LP)  
+**SCENARIO - vSafe that uses PancakeSwap as the Liquidity Pool (LP)  **
 
 For this example, we will use the IOTX/BUSD vSafe (50%-50% liquidity pool).  
+
 
 **INSTRUCTIONS**  
 

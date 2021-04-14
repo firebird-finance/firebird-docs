@@ -40,6 +40,8 @@ On BSC, there is a 100 gvVALUE-B fee to create a vFarm on the platform. This bei
 2. The vFarm must obtain $100K or greater in TVL
 3. The vFarm must be verified by the FaaS Council
 
+**If project is using non-vSwap LPs creation fee is 500 gvVALUE-B and it is NOT refundable** 
+
 #### FAAS POOL PARAMETERS
  Assuming you know the pool parameters for your vFarm, getting it up-and-running shouldn’t take more than 5 minutes! You can choose and customize any parameters that suit your project, but **the required parameters** for every FaaS pool include:
  

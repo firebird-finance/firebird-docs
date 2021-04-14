@@ -1,8 +1,9 @@
-﻿---
+---
 id: vGovernance
 title: vGovernance
 sidebar_label: vGovernance
 ---
+
 ---
 ### OVERVIEW
 
@@ -16,7 +17,6 @@ First, stakers in this Vault enjoy multiple income shares from the income made b
 The rewards from these income streams are auto-compounded, which results in saving gas costs for the user.  This can be seen in your **gvValue** Token balance.
 
 ![Staking at vGovernance](../img/staking-at-governance-vault.png)
-
 
 
 Additionally, if you stake in our vGovernance you also have the opportunity to make important decisions in the project such as, what rewards to give, pools to set up, and percentage share of profits. Governance votes can be seen by clicking the 'Vote' link on our homepage.

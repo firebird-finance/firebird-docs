@@ -34,7 +34,7 @@ This is just short overview of our currently locked strategies
 | Name         	| Instantly claimable  	| Locked / burned                                                                                                        	| True Daily APY pre reward release    	|
 |--------------	|----------------------	|------------------------------------------------------------------------------------------------------------------------	|--------------------------------------	|
 | Alpaca       	| 30%                  	| 70% rewards from previous farming period released from [block](https://bscscan.com/block/countdown/6499649) for 7 days 	| 70% lower than displayed due to lock 	|
-| Codex        	| 20%                  	| 80% released linearly from approximate [block](https://bscscan.com/block/countdown/8891201)                                    	| 80% lower due to lock                	|
+| Codex        	| 20%                  	| 80% released linearly to approximate [block](https://bscscan.com/block/countdown/8891201)                                    	| 80% lower due to lock                	|
 | Ellipsis     	| 50%                  	| 50% burned (already calculated in APY)                                                                                 	| APY accurate                         	|
 | Iron.finance 	| 30%                  	| 70% locked till [block](https://bscscan.com/block/countdown/6675734) then linearly released for 90 days                	| 70% lower due to lock                	|
 | Nerve        	| 33.33%               	| 66.66% linearly released at approximate [block](https://bscscan.com/block/countdown/11483201)                                  	| 66% lower due to lock                	|

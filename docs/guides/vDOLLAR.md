@@ -1,4 +1,4 @@
-﻿---
+---
 id: vDOLLAR
 title: vDOLLAR
 sidebar_label: vDOLLAR

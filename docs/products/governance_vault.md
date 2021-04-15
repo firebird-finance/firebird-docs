@@ -20,7 +20,7 @@ The rewards from these income streams are auto-compounded, which results in savi
 
 Additionally, if you stake in our vGovernance you also have the opportunity to make important decisions in the project such as, what rewards to give, pools to set up, and percentage share of profits. Governance votes can be seen by clicking the 'Vote' link on our homepage.
 
-For more details on how to stake in the vGovernance, [please see Governance Vault staking guide.](/G1)
+For more details on how to stake in the vGovernance, please see Governance Vault staking guide
 
 **WHAT IS gvVALUE?**
 

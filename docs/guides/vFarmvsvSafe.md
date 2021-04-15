@@ -1,4 +1,4 @@
-﻿---
+---
 id: vFarmvsvSafe
 title: vFarm vs. vSafe
 sidebar_label: vFarm vs vSafe

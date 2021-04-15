@@ -11,8 +11,8 @@ vGovernance allows VALUE shareholders to enjoy double rewards.
 
 First, stakers in this Vault enjoy multiple income shares from the income made by the Value DeFi ecosystem. These include three income streams below:
 1. The deposited idle VALUE can be used to farm other protocols, rewards get sold to buy more VALUE.
-2. 14% of the profit from the [vSafes](/value-vaults) is used to buy VALUE, which is shared among vGovernance stakers.
-3. vGovernance stakers also get 35% swap fees from [vSwap](/value-liquid).
+2. 14% of the profit from the [vSafes](../value-vaults) is used to buy VALUE, which is shared among vGovernance stakers.
+3. vGovernance stakers also get 35% swap fees from [vSwap](../value-liquid).
 
 The rewards from these income streams are auto-compounded, which results in saving gas costs for the user.  This can be seen in your **gvValue** Token balance.
 

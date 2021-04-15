@@ -7,9 +7,6 @@ sidebar_label: vBOND
 
 ---
 
-![vbondlogo](img/VBOND_LOGO.png)
-
-
 IOU tokens - vBONDs were issued as part of a compensation plan for affected parties after the November 14th exploit.
 
 Implementation: - One way VBOND (ETH) bridge to BSC to receive VBOND-B

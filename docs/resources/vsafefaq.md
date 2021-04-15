@@ -21,7 +21,7 @@ vSafe frequently auto compounds but users who wish to increase compounding frequ
 
 Shares are proof of deposit tokens and a way that vSafe calculates auto compound for each user equally. 
 
-![vsafefaq1](../img/vsafefaq1.png)
+![vsafefaq1](img/vsafefaq1.png)
 
 In this example if you deposit 100 CODEX/BNB LP tokens you would receive 63.63 vSafe CODEX/BNB shares (100/1.57136 = 63.63). Over time as vSafe auto compounds, for example, 1 share will be worth 2.4 CODEX/BNB so when you withdraw you would receive 152.71 CODEX/BNB LP tokens (63.63*2.4=152.71) which would make your profit 52.71 CODEX/BNB LP tokens.
 
@@ -45,13 +45,13 @@ Some vSafes have boosted tags which means users have the option to stake their v
 
 ##### 6. Why is my USD amount displayed on vSafe UI lower, same, higher?
 
-![vsafefaq2](../img/vsafefaq2.png)
+![vsafefaq2](img/vsafefaq2.png)
 
 As the tooltip says, USD amount is estimated and may vary, best advice is to use an external tracker such as growing.fi, farm.army or vfat.tools and be aware that it will not display your deposited amount and yield if you staked your shares.
 
 ##### 7. Why are there two apy numbers and which one is real?
 
-![vsafefaq3](../img/vsafefaq3.png)
+![vsafefaq3](img/vsafefaq3.png)
 
 Green apy number is calculated as compound interest with optimal 8760 compounds per year (once per hour). APY in white letters at bottom of the screenshot is one of our strategies or liquidity mining pool/vault that we are using.
 

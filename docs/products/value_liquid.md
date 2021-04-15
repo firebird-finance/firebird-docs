@@ -22,7 +22,7 @@ vSwap is an automated market maker (decentralized exchange) that uses smart rout
 7. Using idle funds to give liquidity providers the most lucrative ROI (future integration planned)
 
 
-![Separator](../img/seperator.png)
+![Separator](img/seperator.png)
 
 
 ### GETTING STARTED

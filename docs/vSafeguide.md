@@ -1,4 +1,4 @@
-﻿---
+---
 id: vSafe-guide-on-binance-smart-chain
 title: Guide on how to stake to a vSafe on Binance Smart Chain
 sidebar_label: Stake in a vSafe

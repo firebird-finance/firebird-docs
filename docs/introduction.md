@@ -31,7 +31,7 @@ Value DeFi is a complete solution on the ETH and BSC networks that aims to bring
 Value DeFi originally launched on the Ethereum Mainnet in August 2020 and expanded to the Binance Smart Chain (BSC) Mainnet in February 2021.  
 
 
-![Separator](../img/seperator.png)
+![Separator](img/seperator.png)
 
 
 ### GETTING STARTED

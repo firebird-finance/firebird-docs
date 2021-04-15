@@ -7,7 +7,7 @@ sidebar_label: vBOND
 
 ---
 
-![vbondlogo](img/VBOND_LOGO.png)
+![vbondlogo](../img/VBOND_LOGO.png)
 
 
 IOU tokens - vBONDs were issued as part of a compensation plan for affected parties after the November 14th exploit.

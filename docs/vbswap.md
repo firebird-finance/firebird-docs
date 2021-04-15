@@ -1,4 +1,4 @@
-﻿---
+---
 id: vBSWAP
 title: vBSWAP
 sidebar_label: vBSWAP

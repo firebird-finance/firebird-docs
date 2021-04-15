@@ -9,7 +9,7 @@ sidebar_label: vGovernance
 
 vGovernance allows VALUE shareholders to enjoy double rewards.
 
-First, stakers in this Vault enjoy multiple income shares from the income made by the Value DeFi ecosystem. These include three income streams below:
+First, stakers in this Vault enjoy multiple income shares from the income made by the Value DeFi Etheruem ecosystem. These include three income streams below:
 1. The deposited idle VALUE can be used to farm other protocols, rewards get sold to buy more VALUE.
 2. 14% of the profit from the [vSafes](vSafes) is used to buy VALUE, which is shared among vGovernance stakers.
 3. vGovernance stakers also get 35% swap fees from [vSwap](vSwap).

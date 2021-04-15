@@ -1,4 +1,4 @@
-﻿---
+---
 id: provide-liquidity-on-value-liquid-and-farm-for-value-rewards
 title: Provide Liquidity on Value Liquid
 sidebar_label: Provide Liquidity on Value Liquid

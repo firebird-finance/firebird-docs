@@ -79,7 +79,7 @@ So, Midas is quite an interesting project... it's actually an ecosystem! Tell mo
 
 **Phillip Phung (Midas)**
 
-Sure, we started with Midas wallet [MidasProtocol.io](MidasProtocol.io) in April 2018 and subsequently six months later launched our own CEX - Vinex.Network
+Sure, we started with Midas wallet [MidasProtocol.io](https://MidasProtocol.io) in April 2018 and subsequently six months later launched our own CEX - Vinex.Network
 
 **vMarco Polo (Value DeFi)**
 

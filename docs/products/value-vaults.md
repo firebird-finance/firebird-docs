@@ -6,7 +6,6 @@ sidebar_label: vSafe
 
 ---
 
-
 ### OVERVIEW
 
 vSafes are cutting-edge yield aggregators that use multiple strategies and auto-compounding technology to provide investors with high returns on their deposited assets. In simpler terms, a vSafe will search for the best farming targets, deposit your investment, trade farming rewards for deposited tokens, and re-invest automatically. 

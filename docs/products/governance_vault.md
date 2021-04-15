@@ -5,7 +5,8 @@ sidebar_label: vGovernance
 ---
 
 ---
-**OVERVIEW**
+
+### OVERVIEW
 
 vGovernance allows VALUE shareholders to enjoy double rewards.
 
@@ -22,13 +23,14 @@ Additionally, if you stake in our vGovernance you also have the opportunity to m
 
 For more details on how to stake in the vGovernance, please see Governance Vault staking guide
 
-**WHAT IS gvVALUE?**
+### WHAT IS gvVALUE?
 
 gvValue is the compounding interest token of vGovernance. When you deposit VALUE to the governance vault, gvVALUE will be generated and issued to you. When the vault redistributes a portion of the profit in VALUE \(from vGovernance, vSafe and vSwap fees\) to the Governance Vault, the number of VALUE in the Governance Vault increases while the amount of gvVALUE remains unchanged.
 
 At time of writing, 1 gvValue = 1 gvVALUE = 1.011937028 VALUE.
 
 ![The Value Ecosystem](../img/value-ecosystem.png)
+
 
 **GETTING STARTED**
 - ETH: https://valuedefi.io/governance

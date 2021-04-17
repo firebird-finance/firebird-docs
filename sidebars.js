@@ -62,6 +62,7 @@ module.exports = {
         items: [
           "ama/arto-vfarm-ama",
           "ama/blueswap-vfarm-ama",
+          "ama/cdo-ama",
           "ama/midas-ama"
         ],
       },

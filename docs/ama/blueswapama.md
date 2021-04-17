@@ -1,7 +1,7 @@
-﻿---
+---
 id: blueswap-vfarm-ama
-title: Blue Swap vFarm AMA (Official Discord)
-sidebar_label: Blue Swap vFARM AMA (Official Discord)
+title: Blue Swap vFarm vAMA (Official Discord)
+sidebar_label: Blue Swap vFARM vAMA (Official Discord)
 
 ---
 

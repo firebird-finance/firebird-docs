@@ -23,4 +23,11 @@ will be bridged to gvVALUE-B. These funds will be used to incrementally buyback 
 This purchase will only occur if VBOND-B is trading under $1. The principal being, once all VBOND-B has
 been burned will mark that user funds will have been fully reimbursed. 
 
+
+Token name (ETH): vBOND
+Token address: 0x05d70721c4f75473a07907c0d0c6eebed5f2fef7
+
+Token name (BSC): vBOND-B
+Token address: 0x57cda125d0c7b146a8320614ccd6c55999d15bf2
+
 ---

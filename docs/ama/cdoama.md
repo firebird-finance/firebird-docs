@@ -15,7 +15,7 @@ sidebar_label: CDO finance vAMA (Official Discord)
 
 **Prod (Value DeFi)**
 
-Everyone, I'd like to introduce CDO Finance!! We'll be doing a short introduction, then I'll open the chat up for the community to ask some questions.
+Everyone, I'd like to introduce [CDO Finance](https://cdo.finance/)!! We'll be doing a short introduction, then I'll open the chat up for the community to ask some questions.
 vAMA guests introduce yourselves.
 
 **GoldenGatsby (CDO finance)**

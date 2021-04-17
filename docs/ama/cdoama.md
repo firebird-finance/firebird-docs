@@ -20,8 +20,9 @@ vAMA guests introduce yourselves.
 
 **GoldenGatsby (CDO finance)**
 
-Hello! I am GoldenGatsby from CDO Finance
-Nice to meet everyone from Value DeFi
+Hello! I am GoldenGatsby from CDO Finance!
+
+Nice to meet everyone from Value DeFi!
 
 **Prod (Value DeFi)**
 
@@ -106,7 +107,7 @@ Everyone, I will open the chat now. Make a warm welcome to our guests and ask an
 
 **forkliftdriver**
 
-i'd like to farm nba topshots
+I'd like to farm nba topshots
 
 **GoldenGatsby (CDO finance)**
 
@@ -146,7 +147,7 @@ We have studied our ethereum counterparts including these 2 and more on how they
 
 **vSwing**
 
-one of the most fearful things in defi is flash loan attacks. How does the team ensure the safety of the tranche pools that are free from such horrible attacks?
+One of the most fearful things in defi is flash loan attacks. How does the team ensure the safety of the tranche pools that are free from such horrible attacks?
 
 **GoldenGatsby (CDO finance)**
 
@@ -158,7 +159,10 @@ Hi and thank you for your time ! What are the purposes of codex token and is the
 
 **GoldenGatsby (CDO finance)**
 
-Codex tokens will 1. capture the economic benefits of our system 2. Serve as governance token in the future
+Codex tokens will 
+
+1. Capture the economic benefits of our system 
+2. Serve as governance token in the future
 
 **CMierez**
 
@@ -198,7 +202,7 @@ For junior tranches, is it similar to alpaca/alpha mechanism?
 
 **GoldenGatsby (CDO finance)**
 
-not really, alpha (and alpaca by extension) users borrow money from an interest bearing pool to get yield leverage while paying borrowing fees and sustaining liquidation risks
+Not really, Alpha (and Alpaca by extension) users borrow money from an interest bearing pool to get yield leverage while paying borrowing fees and sustaining liquidation risks
 junior tranche users in our case do not pay senior tranche users to "borrow" since we recognise the risk/return tradeoff
 
 **vSalocin**
@@ -234,6 +238,7 @@ I wish I weren't such a noob and had a useful question to ask
 What's the ETA on Tranches? Or at least what percent completion (roughly)?
 
 **GoldenGatsby (CDO finance)**
+
 We have completed the frontend dev of tranches, and plan to launch by or before Epoch 1 (approximately 7 weeks or less).
 
 **nath1014**
@@ -242,7 +247,7 @@ Wow, I didn't expect it so soon! Thanks again for your time and answering our qu
 
 **Prod (Value DeFi)**
 
-Everyone. Our guests have been amazing answering all your questions, just putting up a 5min warning for final questions so we can let the CDO team get back to their hard work!
+Everyone, our guests have been amazing answering all your questions, just putting up a 5 min warning for final questions so we can let the CDO team get back to their hard work!
 
 **misuDiscord (CDO finance)**
 

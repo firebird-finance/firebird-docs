@@ -1,4 +1,4 @@
-﻿---
+---
 id: gvvalue
 title: gvVALUE
 sidebar_label: gvVALUE
@@ -24,6 +24,6 @@ To add gvVALUE-b to your wallet on Metamask BSC network use following details
 
 Token Address: 0x0610C2d9F6EbC40078cf081e2D1C4252dD50ad15
 
-Token Symbol: gvVALUE-b
+Token Symbol: gvVALUE-B
 
 Token of Precision: 18

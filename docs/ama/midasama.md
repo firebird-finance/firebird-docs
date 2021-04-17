@@ -1,4 +1,4 @@
-﻿---
+---
 id: midas-ama
 title: Midas vAMA (Official Discord)
 sidebar_label: MIDAS vAMA (Official Discord)

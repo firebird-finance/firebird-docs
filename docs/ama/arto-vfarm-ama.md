@@ -2,15 +2,14 @@
 id: arto-vfarm-ama
 title: ARTO vFarm AMA (Official Discord)
 sidebar_label: ARTO vFARM AMA (Official Discord)
-
+---
+---
+[Arto vAMA Discord](https://discord.gg/YRpA7eua)
 ---
 
 ---
-https://discord.gg/YRpA7eua
-
----
-
 ![](../img/ARTO_AMA.png)
+
 
 ![](../img/seperator.png)
 

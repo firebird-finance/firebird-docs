@@ -1,10 +1,14 @@
 ---
 id: cdo-ama
-title: CDO finance AMA (Official Discord)
+title: CDO finance vAMA (Official Discord)
 sidebar_label: CDO finance vAMA (Official Discord)
+---
+---
+[CDO finance vAMA Discord](https://discord.gg/xTq2H5bjZE)
 ---
 
 ![](../img/CDO1ama.png)
+
 
 ![](../img/seperator.png)
 

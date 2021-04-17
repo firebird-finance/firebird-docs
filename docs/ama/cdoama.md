@@ -7,6 +7,7 @@ sidebar_label: CDO finance vAMA (Official Discord)
 [CDO finance vAMA Discord](https://discord.gg/xTq2H5bjZE)
 ---
 
+---
 ![](../img/CDO1ama.png)
 
 

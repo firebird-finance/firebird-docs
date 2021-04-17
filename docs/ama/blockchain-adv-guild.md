@@ -1,10 +1,10 @@
 ﻿---
-id: midas-ama
-title: Midas vAMA (Official Discord)
-sidebar_label: MIDAS vAMA (Official Discord)
+id: blockchain-adv-guild
+title: Blockchain Adventurers Guild vAMA (Official Discord)
+sidebar_label: Blockchain Adventurers Guild vAMA (Official Discord)
 ---
 --- 
-[MIDAS vAMA Discord](https://discord.gg/4EvveC8ytK)
+
 ---
 
 ![vchatmidas2](https://user-images.githubusercontent.com/78454114/112759297-f230be80-8fb7-11eb-8b66-209bf150e121.png)

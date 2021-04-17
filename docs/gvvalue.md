@@ -12,7 +12,7 @@ It also allows vGovernance stakers to vote on all relevant matters related to Va
 
 To add gvVALUE to your wallet on Metamask ETH network use following details
 
-Token Address: 0xceC03a960Ea678A2B6EA350fe0DbD1807B22D875
+Token Address: [0xceC03a960Ea678A2B6EA350fe0DbD1807B22D875](https://etherscan.io/token/0xceC03a960Ea678A2B6EA350fe0DbD1807B22D875)
 
 Token Symbol: gvVALUE
 
@@ -22,7 +22,7 @@ Token of Precision: 18
 
 To add gvVALUE-b to your wallet on Metamask BSC network use following details
 
-Token Address: 0x0610C2d9F6EbC40078cf081e2D1C4252dD50ad15
+Token Address: [0x0610C2d9F6EbC40078cf081e2D1C4252dD50ad15](https://bscscan.com/token/0x0610C2d9F6EbC40078cf081e2D1C4252dD50ad15)
 
 Token Symbol: gvVALUE-B
 

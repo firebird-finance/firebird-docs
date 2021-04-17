@@ -7,6 +7,7 @@ sidebar_label: Blue Swap vFARM vAMA (Official Discord)
 [Blue Swap vAMA Discord](https://discord.gg/xTq2H5bjZE)
 ---
 
+---
 ![](../img/Blueswap1.png)
 
 

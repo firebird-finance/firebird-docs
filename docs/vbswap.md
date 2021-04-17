@@ -41,6 +41,6 @@ vBSWAP is a new token on Binance Smart Chain (BSC) for the Value DeFi ecosystem 
   - Network: Binance Smart Chain (BSC)  
   - Ticker: vBSWAP  
   - Precision: 18  
-  - BSC Address: 0x4f0ed527e8A95ecAA132Af214dFd41F30b361600  
+  - BSC Address: [0x4f0ed527e8a95ecaa132af214dfd41f30b361600](https://bscscan.com/token/0x4f0ed527e8a95ecaa132af214dfd41f30b361600)  
 
 ---

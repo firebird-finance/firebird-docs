@@ -24,10 +24,12 @@ This purchase will only occur if VBOND-B is trading under $1. The principal bein
 been burned will mark that user funds will have been fully reimbursed. 
 
 
-Token name (ETH): vBOND
-Token address: 0x05d70721c4f75473a07907c0d0c6eebed5f2fef7
+**Token name (ETH): vBOND**
 
-Token name (BSC): vBOND-B
-Token address: 0x57cda125d0c7b146a8320614ccd6c55999d15bf2
+Token address: [0x05d70721c4f75473a07907c0d0c6eebed5f2fef7](https://etherscan.io/token/0x05d70721c4f75473a07907c0d0c6eebed5f2fef7)
+
+**Token name (BSC): vBOND-B**
+
+Token address: [0x57cda125d0c7b146a8320614ccd6c55999d15bf2](https://bscscan.com/token/0x57cda125d0c7b146a8320614ccd6c55999d15bf2)
 
 ---

@@ -2,16 +2,13 @@
 id: blueswap-vfarm-ama
 title: Blue Swap vFarm vAMA (Official Discord)
 sidebar_label: Blue Swap vFARM vAMA (Official Discord)
-
 ---
-
 ---
-
-https://discord.gg/yqUZVhV5W4
-
+[Blue Swap vAMA Discord](https://discord.gg/xTq2H5bjZE)
 ---
 
 ![](../img/Blueswap1.png)
+
 
 ![Separator](../img/seperator.png)
 

@@ -19,7 +19,7 @@ Good news; there are **NO** deposit and withdraw fees on the Value DeFi platform
 
 **3. What is the performance fee?**
 
-Performance fee is a fee that is paid out from vSafes profits and is already calculated in APY, it doesn't affect your capital as we have no deposit or withdrawal fees. That's right; __there is NO performance fee__.
+Performance fee is a fee that is paid out from vSafes profits and is already calculated in APY, it doesn't affect your capital as we have no deposit or withdrawal fees.
 
 **4. Does a vSafe auto-compound the rewards? And if true, why is there a 'Compound for all' button?**
 

@@ -58,3 +58,7 @@ Green apy number is calculated as compound interest with optimal 8760 compounds 
 **8. What is the performance fee?**
 
 Performance fee is a fee that is paid out from vSafes profits and is already calculated in APY, it doesn't affect your capital as we have no deposit or withdrawal fees.
+
+**9. What is the reward token?**
+
+The reward token of a vSafe is the same token/LP that was used to stake into it.  If a vSafe has a 'BOOSTED' label, it means you will be receiving some additional vBSWAP as an incentive.  The mutliplier on a 'BOOSTED' vSafe (i.e., 0.1x) will help you determine the approximate amount of extra vBSWAP tokens the vSafe will be emitting.

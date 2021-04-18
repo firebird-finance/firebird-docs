@@ -12,7 +12,7 @@ vSafes are cutting-edge yield aggregators that use multiple strategies and auto-
 
 The auto-pilot nature of vSafe makes it very simple to use, as no manual maintenance is required to increase the size and value of invested assets.  
 
-vSafe FAQ - https://docs.valuedefi.io/resources/vsafefaq
+Make sure to go through our _vSafe FAQ_ - https://docs.valuedefi.io/resources/vsafefaq
 
 ### KEY FEATURES
    **1. _Auto-compound:_**  

@@ -10,7 +10,7 @@ In order to maximize your investment, it is important for you to understand the 
 
 ### vFARM
 
-*Notice: We use IRON-BUSD vFarm and vSafe in this example, and all references about block times and rewards vesting are specifically related to them. Each vFarm (or anyother liquidity mining pool) has its own unique setup.*
+*Notice: We use IRON-BUSD vFarm and vSafe in this example, and all references about block times and rewards vesting are specifically related to them. Each vFarm (or any other liquidity mining pool) has its own unique setup.*
 
 A vFarm is a highly sophisticated liquidity mining pool that allows the pool creator to set up various parameters, including reward multipliers and vesting, to manage and customize the emission of their tokens and meet their needs.
 

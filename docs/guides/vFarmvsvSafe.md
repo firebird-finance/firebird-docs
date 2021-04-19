@@ -44,8 +44,6 @@ vSafe is a cutting-edge yield aggregator that uses multiple strategies to maximi
 In order for vSafe to work properly, users send their capital to vSafe smart contract so that it has the full liberty to use it, which makes reinvesting, changing strategy and hourly auto-compounding possible. Users give their vested reward rights to vSafe to freely distribute and are not tied to user addresses like vFarm, but to vSafe addresses. As rewards get released vSafe will regularly call harvest function, sell rewards and distribute them to users who are in vSafe at that moment, whether or not they “earned” those rewards by being early vSafe depositors. This means that locked rewards are not earmarked to each depositor. All past locked rewards are distributed proportionally to current vSafe participants during the linear vesting period.
 
 ![5](https://user-images.githubusercontent.com/78454114/112706830-e4beeb80-8e74-11eb-88de-aa3154b08e02.png)
-
-vSafe calculates its APY/daily APY using data from its farming target, so despite being correct as yearly calculation, daily APY is in fact 3/10ths of what it displays due to 30% of rewards being released instantly while 70% being released over a period of 90 days.
  
 To check if vSafe is utilizing vested strategy you can click on the Running strategy arrow icon at bottom of the screen that will lead you to vFarm it uses as target. 
   

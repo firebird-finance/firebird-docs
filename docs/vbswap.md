@@ -16,9 +16,14 @@ vBSWAP is a new token on Binance Smart Chain (BSC) for the Value DeFi ecosystem 
   - **_TOTAL SUPPLY_:** 100,000 tokens
 
   - **_DISTRIBUTION_:**  
-      - The tokens will be distributed over a period of 2 years and its emission will be reduced by 10% every 4 week (detailed schedule below)  
-      - 5% of emission goes to the _Reserve Fund_ contract for distribution to community, marketing and giveaways  
-      - None of the tokens are allocated the _Dev Fund_  
+      - The tokens will be distributed over a period of 2 years and its emission will be reduced by 10% every 4 week (detailed schedule below) 
+      - 75% for BSC ecosystem incentives (ie. vSafe, vFarm, etc.) 
+      - 5% Selling to Strategic Partners like VCs
+      - 5% Marketing Budget for Marketing Team with Transparent Spending
+      - 2% for Community Developers Bounties
+      - 1% for Community Engagement/Incentives
+      - 12% for Founding Team
+ 
 
   - **_PROFIT SHARE_:**  
       - 100% of fees collected on the Value DeFi BSC ecosystem will be distributed to stakers at vBSWAP vStake    

@@ -6,7 +6,7 @@ sidebar_label: vBSWAP
 
 ---
 ### OVERVIEW
-vBSWAP is a new token on Binance Smart Chain (BSC) for the Value DeFi ecosystem created to serve as profit share/incentive token. vBSWAP has been built and deployed on BSC with a 100K Total Supply distributed over 2 years of farming. Emissions will reduce by 10% every 4 week.
+vBSWAP is a token on Binance Smart Chain (BSC) for the Value DeFi ecosystem created to serve as profit share/incentive token. vBSWAP has been built and deployed on BSC with a 100K Total Supply distributed over 2 years of farming. Emissions will reduce by 10% every 4 week.
 
 ![vbswap](img/vbswap2.png)
 

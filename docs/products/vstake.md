@@ -28,7 +28,7 @@ vStake pool 2 & 3 example, 100% project collaboration rewards.
 ![vstake4](../img/vstake4.png)
 
 KEY FEATURES
-1. Minimal slippage (98/2 pools)
+1. Minimal impermanent loss (98/2 pools)
 2. Active liquidity which can be used to trade/swap at vSwap.
 3. Receive profit-share from our ecosystem. 
 4. Receive rewards from our collaborations with other projects.

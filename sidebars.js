@@ -54,7 +54,8 @@ module.exports = {
         items: [
           "resources/glossary/defi",
           "binance-smart-chain-expansion-faq",
-          "resources/vsafefaq"
+          "resources/vsafefaq",
+          "resources/vsafes"
         ],
       },
       {

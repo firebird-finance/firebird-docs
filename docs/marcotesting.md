@@ -128,4 +128,3 @@
 |	Wardenswap	|	BUSD/BNB	|		|	[0xD4940e8658158016609a631f0C19d6Cf5F535841	](https://bscscan.com/address/0xD4940e8658158016609a631f0C19d6Cf5F535841)	|	Active	|
 |	Wardenswap	|	WAD/BNB	|		|	[0x566EEE477A288BC692A75135F330Ab7fbaF2ED83	](https://bscscan.com/address/0x566EEE477A288BC692A75135F330Ab7fbaF2ED83)	|	Active	|
 |	Wardenswap	|	WAD/BUSD	|		|	[0xdEC50BF0e3c8522CEE42A7c1754B9582143c7cb7	](https://bscscan.com/address/0xdEC50BF0e3c8522CEE42A7c1754B9582143c7cb7)	|	Active	|
-![image](https://user-images.githubusercontent.com/78454114/116824370-70502a00-ab4f-11eb-8e49-4c4c396938a6.png)

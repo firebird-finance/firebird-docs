@@ -6,6 +6,18 @@ sidebar_label: vSafe contracts
 ---
 ---
 
+#### BTCB 
+
+[vSafe Contract](https://bscscan.com/address/0x6cC7A2c6ECE7Fa585c59a0c9D87c8616434ee19B)
+
+#### BUSD
+
+[vSafe Contract](https://bscscan.com/address/0x7cE9F1A8e494D49e59a72Fd0443D378448151B9c)
+
+#### WBNB
+
+[vSafe Contract](https://bscscan.com/address/0xD4BBF439d3EAb5155Ca7c0537E583088fB4CFCe8)
+
 ### 1inch 
 
 1inch 1INCH/BNB
@@ -359,15 +371,4 @@ Value DeFi vBSWAP/BNB 70/30
 [vSafe Contract](https://bscscan.com/address/0xe8F86740AD376f565Ee55399FCdf5843c6E20276)
 
 
-BTCB 
-
-[vSafe Contract](https://bscscan.com/address/0x6cC7A2c6ECE7Fa585c59a0c9D87c8616434ee19B)
-
-WBNB
-
-[vSafe Contract](https://bscscan.com/address/0xD4BBF439d3EAb5155Ca7c0537E583088fB4CFCe8)
-
-BUSD
-
-[vSafe Contract](https://bscscan.com/address/0x7cE9F1A8e494D49e59a72Fd0443D378448151B9c)
 

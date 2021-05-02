@@ -4,7 +4,6 @@ title: vSafe overview
 sidebar_label: vSafe overview
 ---
 
-
 ---
 
 #### BTCB 

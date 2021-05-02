@@ -240,7 +240,7 @@ DND/BNB
 
 IRON/BUSD
 
-[vSafe Contract]https://bscscan.com/address/0xAc92cA32631d93AD8855172f02DA5Dce117E4cC7)
+[vSafe Contract](https://bscscan.com/address/0xAc92cA32631d93AD8855172f02DA5Dce117E4cC7)
 
 IRON/STEEL
 
@@ -327,7 +327,7 @@ SatisFi Sat/BUSD
 
 STBB/BNB
 
-[vSafe Contract](https://bscscan.com/address/0x3235C164633606234b3e94592e96Db3BF37aACAC
+[vSafe Contract](https://bscscan.com/address/0x3235C164633606234b3e94592e96Db3BF37aACAC)
 
 
 ### Thunderswap 

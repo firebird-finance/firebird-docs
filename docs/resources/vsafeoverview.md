@@ -257,39 +257,39 @@ STEEL/BNB
 
 ### Mdex
 
-Mdex BNB/USDT
+BNB/USDT
 
 [https://bscscan.com/address/0x86a3274A6bDf5890594E1A3e1C168363f6eA81b9](https://bscscan.com/address/0x86a3274A6bDf5890594E1A3e1C168363f6eA81b9)
 
-Mdex BTCB/ETH
+BTCB/ETH
 
 [https://bscscan.com/address/0xf1aB3875f3d7c037D064BC9a2D85bD300B7d2a8C](https://bscscan.com/address/0xf1aB3875f3d7c037D064BC9a2D85bD300B7d2a8C)
 
-Mdex BTCB/USDT
+BTCB/USDT
 
 [https://bscscan.com/address/0xBeA07F2dF4CB43d62cC75cB6020BBbe122F4a4ce](https://bscscan.com/address/0xBeA07F2dF4CB43d62cC75cB6020BBbe122F4a4ce)
 
-Mdex BUSD/USDT
+BUSD/USDT
 
 [https://bscscan.com/address/0x84AefE97114B7369528500995f227Cd698404A7f](https://bscscan.com/address/0x84AefE97114B7369528500995f227Cd698404A7f)
 
-Mdex DAI/USDT
+DAI/USDT
 
 [https://bscscan.com/address/0x919c2F63D66B7Ee8134aD8b8C41E797a37695bbC](https://bscscan.com/address/0x919c2F63D66B7Ee8134aD8b8C41E797a37695bbC)
 
-Mdex ETH/USDT
+ETH/USDT
 
 [https://bscscan.com/address/0x55010AE176c3f08E8D57b7aB710C5B595FB72A46](https://bscscan.com/address/0x55010AE176c3f08E8D57b7aB710C5B595FB72A46)
 
-Mdex MDX/BNB
+MDX/BNB
 
 [https://bscscan.com/address/0x0A135296aA3bAC02F0a4c3d668050b72D1F2280b](https://bscscan.com/address/0x0A135296aA3bAC02F0a4c3d668050b72D1F2280b)
 
-Mdex MDX/BUSD
+MDX/BUSD
 
 [https://bscscan.com/address/0xc9c85cA58Bf6d5deCF4f2F7035ec3a69371BD430](https://bscscan.com/address/0xc9c85cA58Bf6d5deCF4f2F7035ec3a69371BD430)
 
-Mdex USDC/USDT
+USDC/USDT
 
 [https://bscscan.com/address/0x73E72F6Cf94C4dA156e863B638Bfd70A110579c6](https://bscscan.com/address/0x73E72F6Cf94C4dA156e863B638Bfd70A110579c6)
 
@@ -314,11 +314,11 @@ NRV/BNB
 
 ### SatisFi 
 
-SatisFi Sat/BNB
+Sat/BNB
 
 [https://bscscan.com/address/0x564aa001a44F2af96aFd92352c35d58C2433A80F](https://bscscan.com/address/0x564aa001a44F2af96aFd92352c35d58C2433A80F)
 
-SatisFi Sat/BUSD
+Sat/BUSD
 
 [https://bscscan.com/address/0x36CbE24C78405e72a2Bd8156750fC39047139249](https://bscscan.com/address/0x36CbE24C78405e72a2Bd8156750fC39047139249)
 

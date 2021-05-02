@@ -7,7 +7,7 @@ module.exports = {
     "Products and services": [
       "products/vSwap",
       "products/vPegSwap",
-      "products/vstake"
+      "products/vstake",
       "products/farms-as-a-service",
       "products/vSafes",
       "products/vGovernance",

@@ -34,7 +34,7 @@ KEY FEATURES
 4. Receive rewards from our collaborations with other projects.
 5. Receive additional swap fees.
 
-![Separator](img/seperator.png)
+![Seperator](../img/seperator.png)
 
 ### GETTING STARTED
 BSC:[vStake](https://bsc.valuedefi.io/#/vstake)

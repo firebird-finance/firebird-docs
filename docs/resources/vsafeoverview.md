@@ -20,16 +20,17 @@ sidebar_label: vSafe contracts
 
 ### 1inch 
 
-1inch 1INCH/BNB
+1INCH/BNB
 
 [vSafe Contract](https://bscscan.com/address/0x09eC3B4Ff9314495584e1d30BEdbAe28d3531BEC)
+
 
 ### Alpaca 
 
 ETH
 
 [vSafe Contract](https://bscscan.com/address/0x1621358262E5f3174A7B7af760B9Ab9fcDBaFC6C)
-[]
+
 
 ### ApeSwap vSafe 
 
@@ -68,7 +69,6 @@ BUSD/USDC
 BUSD/USDT
 
 [vSafe Contract](https://bscscan.com/address/0x72abEbFD635eDF78656c8f714E3a13B82CaBF018)
-
 
 
 ### Belt.fi
@@ -224,7 +224,6 @@ iUSDT
 [vSafe Contract](https://bscscan.com/address/0xdAdB90e088fA36e6846f1CBD5c434D594ecf189b)
 
 
-
 ### Iron finance
 
 dBTC/BTCB
@@ -313,8 +312,6 @@ NRV/BNB
 [vSafe Contract](https://bscscan.com/address/0xBf515BF49f92CB686B4718f970871339dE605Cec)
 
 
-
-
 ### SatisFi 
 
 SatisFi Sat/BNB
@@ -331,7 +328,6 @@ SatisFi Sat/BUSD
 STBB/BNB
 
 [vSafe Contract](https://bscscan.com/address/0x3235C164633606234b3e94592e96Db3BF37aACAC
-
 
 
 ### Thunderswap 

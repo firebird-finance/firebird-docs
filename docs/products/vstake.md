@@ -38,4 +38,4 @@ KEY FEATURES
 ![Seperator](../img/seperator.png)
 
 ### GETTING STARTED
-BSC:[vStake](https://bsc.valuedefi.io/#/vstake)
+BSC: [vStake](https://bsc.valuedefi.io/#/vstake)

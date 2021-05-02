@@ -1,7 +1,7 @@
 ---
 id: vsafes
-title: vSafe overview
-sidebar_label: vSafe overview
+title: vSafe contract
+sidebar_label: vSafe contracts
 ---
 
 ---
@@ -40,7 +40,7 @@ sidebar_label: vSafe overview
 
 [https://bscscan.com/address/0x09eC3B4Ff9314495584e1d30BEdbAe28d3531BEC](https://bscscan.com/address/0x09eC3B4Ff9314495584e1d30BEdbAe28d3531BEC)
 
-[Running strategy]()
+[Running strategy](https://bscscan.com/address/0xB31FC8e35a20B8DB7c3dFd2Cb5c7eD8331cea7A1)
 
 ### Alpaca 
 
@@ -545,3 +545,4 @@ vBSWAP/BUSD
 [https://bscscan.com/address/0x9265Dc93e221875777C8Ca8140beb3512045085a](https://bscscan.com/address/0x9265Dc93e221875777C8Ca8140beb3512045085a)
 
 [Running strategy](https://bscscan.com/address/0x1eab61e92D464D78cF5a79C2DA8dda51C166cBBd)
+

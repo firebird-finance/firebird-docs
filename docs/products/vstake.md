@@ -7,8 +7,6 @@ sidebar_label: vStake
 
 ---
 
-![Seperator](../img/seperator.png)
-
 ### OVERVIEW
 vStake is an additional level to Value DeFi’s vSwap, designed as a massive improvement to conventional staking pools. vStake pools are actually active liquidity, while your standard single asset staking pools are dead liquidity. This may appear similar to vFarm, but all vStake pools are created to be 98/2 ratio, which should be noted that other AMMs are not capable of doing. This 98/2 ratio limits any potential impermanent loss to almost nothing. Even with 98/2 pools, vStake is still subjected to all the benefits of vSwap’s with the best exchange rates and slippages. 
 Also, vStake is designed to be the perfect product to farm with your vBSWAP tokens and/or rewards. vBSWAP is a part of the Value DeFi BSC ecosystem, created to serve as a profit-share and incentive token. 
